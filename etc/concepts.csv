@@ -1,0 +1,1268 @@
+ID,GLOSS,CONCEPTICON_ID,WordListCategory
+12141,colour term black,,Colour terms
+12142,colour term white,,Colour terms
+12143,colour term red,,Colour terms
+12144,colour term blue,,Colour terms
+12145,colour term green,,Colour terms
+12146,colour term yellow,,Colour terms
+12147,colour term brown,,Colour terms
+12148,colour term orange,,Colour terms
+12149,colour term purple,,Colour terms
+12150,colour term grey,,Colour terms
+6001,bull,,Farm animals
+6002,cow,,Farm animals
+6003,ox,,Farm animals
+6004,cattle,,Farm animals
+6005,horse,,Farm animals
+6006,donkey,,Farm animals
+6007,sheep,,Farm animals
+6008,ram,,Farm animals
+6009,lamb,,Farm animals
+6010,goat,,Farm animals
+6011,pig,,Farm animals
+6012,piglet,,Farm animals
+6013,hen,,Farm animals
+6014,rooster,,Farm animals
+6015,chicken,,Farm animals
+6016,duck,,Farm animals
+6017,dog,,Farm animals
+6018,cat,,Farm animals
+6019,bee,,Farm animals
+6020,wolf,,Wild animals
+6021,bear,,Wild animals
+6022,wild pig,,Wild animals
+6023,leopard,,Wild animals
+6025,lion,,Wild animals
+6026,fox,,Wild animals
+6027,jackal,,Wild animals
+6028,bison,,Wild animals
+6029,hare / rabbit,,Wild animals
+6030,snake,,Wild animals
+6031,raven,,Wild animals
+6032,eagle,,Wild animals
+6033,wool,,Products
+6034,fur,,Products
+6035,honey,,Products
+6036,milk,,Products
+6037,salt,,Products
+6038,wine,,Products
+6039,mead,,Products
+6040,hops,,Products
+6041,beeswax,,Products
+6042,meat,,Products
+6043,grease,,Products
+6044,to weave,,Activities
+6045,to spin (thread),,Activities
+6046,to sew,,Activities
+6047,to plough,,Activities
+6048,to sow,,Activities
+6049,wheat,,Crops & fruit
+6050,barley,,Crops & fruit
+6051,rye,,Crops & fruit
+6052,oats,,Crops & fruit
+6053,grain (generic),,Crops & fruit
+6054,turnip,,Crops & fruit
+6055,apple,,Crops & fruit
+6056,grape,,Crops & fruit
+6057,flax,,Crops & fruit
+6058,scythe,,Agricultural tools etc.
+6059,sickle,,Agricultural tools etc.
+6060,spade,,Agricultural tools etc.
+6061,plough,,Agricultural tools etc.
+6062,saw,,Agricultural tools etc.
+6063,axe,,Agricultural tools etc.
+6064,yoke,,Agricultural tools etc.
+6065,wagon,,Agricultural tools etc.
+6066,wheel,,Agricultural tools etc.
+6067,cultivated field,,Agricultural tools etc.
+6068,pasture,,Agricultural tools etc.
+6069,(ceramic) pot,,Agricultural tools etc.
+6070,summer,,Seasons
+6071,autumn / harvest,,Seasons
+6072,winter,,Seasons
+6073,spring,,Seasons
+6074,copper,,Metals & materials
+6075,iron,,Metals & materials
+6076,silver,,Metals & materials
+6077,gold,,Metals & materials
+6078,wood,,Metals & materials
+6079,stone,,Metals & materials
+6080,leather,,Metals & materials
+6081,spear,,Weapons etc.
+6082,bow,,Weapons etc.
+6083,arrow,,Weapons etc.
+6084,sword,,Weapons etc.
+6085,knife,,Weapons etc.
+6086,shield,,Weapons etc.
+6087,army,,Weapons etc.
+6088,battle axe,,Weapons etc.
+12476,to plough,,Activities
+12477,to sew,,Activities
+12478,to sow,,Activities
+12479,to spin (thread),,Activities
+12480,to weave,,Activities
+12481,axe,,Agricultural tools etc.
+12482,axle,,Agricultural tools etc.
+12483,cultivated field,,Agricultural tools etc.
+12484,furrow,,Agricultural tools etc.
+12485,hub,,Agricultural tools etc.
+12486,plough (noun),,Agricultural tools etc.
+12487,saw,,Agricultural tools etc.
+12488,scythe,,Agricultural tools etc.
+12489,sickle,,Agricultural tools etc.
+12490,spade,,Agricultural tools etc.
+12491,wagon,,Agricultural tools etc.
+12492,wheel,,Agricultural tools etc.
+12493,yoke,,Agricultural tools etc.
+12494,apple,,Crops & fruit
+12495,barley,,Crops & fruit
+12496,flax,,Crops & fruit
+12497,grain (generic),,Crops & fruit
+12498,grape,,Crops & fruit
+12499,hops,,Crops & fruit
+12500,rye,,Crops & fruit
+12501,oats,,Crops & fruit
+12502,turnip,,Crops & fruit
+12503,wheat,,Crops & fruit
+12504,bee,,Farm animals
+12505,bull,,Farm animals
+12506,calf,,Farm animals
+12507,cat,,Farm animals
+12508,cattle,,Farm animals
+12509,chicken,,Farm animals
+12510,cow,,Farm animals
+12511,dog,,Farm animals
+12512,donkey,,Farm animals
+12513,duck,,Farm animals
+12514,goat,,Farm animals
+12515,hen,,Farm animals
+12516,horse,,Farm animals
+12517,kid,,Farm animals
+12518,lamb,,Farm animals
+12519,ox,,Farm animals
+12520,pig,,Farm animals
+12521,piglet,,Farm animals
+12522,ram,,Farm animals
+12523,rooster,,Farm animals
+12524,sheep,,Farm animals
+12525,copper,,Metals & materials
+12526,gold,,Metals & materials
+12527,iron,,Metals & materials
+12528,leather,,Metals & materials
+12529,silver,,Metals & materials
+12530,stone,,Metals & materials
+12531,wood,,Metals & materials
+12532,fur,,Products
+12533,grease,,Products
+12534,honey,,Products
+12535,mead,,Products
+12536,meat,,Products
+12537,milk,,Products
+12538,salt,,Products
+12539,wax (bees),,Products
+12540,wine,,Products
+12541,wool,,Products
+12542,autumn,,Seasons
+12543,harvest,,Seasons
+12544,spring,,Seasons
+12545,summer,,Seasons
+12546,winter,,Seasons
+12547,ash,,Trees
+12548,beech,,Trees
+12549,birch,,Trees
+12550,elm,,Trees
+12551,oak,,Trees
+12552,arrow,,Weapons etc.
+12553,bow,,Weapons etc.
+12554,knife,,Weapons etc.
+12555,spear,,Weapons etc.
+12556,sword,,Weapons etc.
+12557,bear,,Wild animals
+12558,bison,,Wild animals
+12559,deer,,Wild animals
+12560,eagle,,Wild animals
+12561,fox,,Wild animals
+12562,hare,,Wild animals
+12563,jackal,,Wild animals
+12564,leopard,,Wild animals
+12565,lion,,Wild animals
+12566,lynx,,Wild animals
+12567,owl,,Wild animals
+12568,rabbit,,Wild animals
+12569,raven,,Wild animals
+12570,snake,,Wild animals
+12571,wild boar,,Wild animals
+12572,wolf,,Wild animals
+12378,to plough,,Activities
+12379,to sew,,Activities
+12380,to sow,,Activities
+12381,to spin (thread),,Activities
+12382,to weave,,Activities
+12383,axe,,Agricultural tools etc.
+12384,axle,,Agricultural tools etc.
+12385,cultivated field,,Agricultural tools etc.
+12386,furrow,,Agricultural tools etc.
+12387,hub,,Agricultural tools etc.
+12388,plough (noun),,Agricultural tools etc.
+12389,saw,,Agricultural tools etc.
+12390,scythe,,Agricultural tools etc.
+12391,sickle,,Agricultural tools etc.
+12392,spade,,Agricultural tools etc.
+12393,wagon,,Agricultural tools etc.
+12394,wheel,,Agricultural tools etc.
+12395,yoke,,Agricultural tools etc.
+12396,apple,,Crops & fruit
+12397,barley,,Crops & fruit
+12398,flax,,Crops & fruit
+12399,grain (generic),,Crops & fruit
+12400,grape,,Crops & fruit
+12401,hops,,Crops & fruit
+12402,oats,,Crops & fruit
+12403,rye,,Crops & fruit
+12404,turnip,,Crops & fruit
+12405,wheat,,Crops & fruit
+12406,bee,,Farm animals
+12407,bull,,Farm animals
+12408,calf,,Farm animals
+12409,cat,,Farm animals
+12410,cattle,,Farm animals
+12411,chicken,,Farm animals
+12412,cow,,Farm animals
+12413,dog,,Farm animals
+12414,donkey,,Farm animals
+12415,duck,,Farm animals
+12416,goat,,Farm animals
+12417,hen,,Farm animals
+12418,horse,,Farm animals
+12419,kid,,Farm animals
+12420,lamb,,Farm animals
+12421,ox,,Farm animals
+12422,pig,,Farm animals
+12423,piglet,,Farm animals
+12424,ram,,Farm animals
+12425,rooster,,Farm animals
+12426,sheep,,Farm animals
+12427,copper,,Metals & materials
+12428,gold,,Metals & materials
+12429,iron,,Metals & materials
+12430,leather,,Metals & materials
+12431,silver,,Metals & materials
+12432,stone,,Metals & materials
+12433,wood,,Metals & materials
+12434,fur,,Products
+12435,grease,,Products
+12436,honey,,Products
+12437,mead,,Products
+12438,meat,,Products
+12439,milk,,Products
+12440,salt,,Products
+12441,wax (bees),,Products
+12442,wine,,Products
+12443,wool,,Products
+12444,autumn,,Seasons
+12445,harvest,,Seasons
+12446,spring,,Seasons
+12447,summer,,Seasons
+12448,winter,,Seasons
+12449,ash,,Trees
+12450,beech,,Trees
+12451,birch,,Trees
+12452,elm,,Trees
+12453,oak,,Trees
+12455,arrow,,Weapons etc.
+12456,bow,,Weapons etc.
+12457,knife,,Weapons etc.
+12458,spear,,Weapons etc.
+12459,sword,,Weapons etc.
+12460,bear,,Wild animals
+12461,bison,,Wild animals
+12462,deer,,Wild animals
+12463,eagle,,Wild animals
+12464,fox,,Wild animals
+12465,hare,,Wild animals
+12466,jackal,,Wild animals
+12467,leopard,,Wild animals
+12468,lion,,Wild animals
+12469,lynx,,Wild animals
+12470,owl,,Wild animals
+12471,rabbit,,Wild animals
+12472,raven,,Wild animals
+12473,snake,,Wild animals
+12474,wild boar,,Wild animals
+12475,wolf,,Wild animals
+12573,to plough,,Activities
+12574,to sew,,Activities
+12575,to sow,,Activities
+12576,to spin (thread),,Activities
+12577,to weave,,Activities
+12578,axe,,Agricultural tools etc.
+12580,cultivated field,,Agricultural tools etc.
+12583,plough,,Agricultural tools etc.
+12584,saw,,Agricultural tools etc.
+12585,scythe,,Agricultural tools etc.
+12586,sickle,,Agricultural tools etc.
+12587,spade,,Agricultural tools etc.
+12588,wagon,,Agricultural tools etc.
+12589,wheel,,Agricultural tools etc.
+12590,yoke,,Agricultural tools etc.
+12671,(ceramic) pot,,Agricultural tools etc.
+12672,pasture,,Agricultural tools etc.
+12591,apple,,Crops & fruit
+12592,barley,,Crops & fruit
+12593,flax,,Crops & fruit
+12594,grain (generic),,Crops & fruit
+12595,grape,,Crops & fruit
+12597,oats,,Crops & fruit
+12598,rye,,Crops & fruit
+12599,turnip,,Crops & fruit
+12600,wheat,,Crops & fruit
+12601,bee,,Farm animals
+12602,bull,,Farm animals
+12604,cat,,Farm animals
+12605,cattle,,Farm animals
+12606,chicken,,Farm animals
+12608,cow,,Farm animals
+12609,dog,,Farm animals
+12610,donkey,,Farm animals
+12611,duck,,Farm animals
+12612,goat,,Farm animals
+12613,hen,,Farm animals
+12614,horse,,Farm animals
+12616,lamb,,Farm animals
+12617,ox,,Farm animals
+12618,pig,,Farm animals
+12619,piglet,,Farm animals
+12620,ram,,Farm animals
+12621,rooster,,Farm animals
+12622,sheep,,Farm animals
+12623,copper,,Metals & materials
+12624,gold,,Metals & materials
+12625,iron,,Metals & materials
+12626,leather,,Metals & materials
+12627,silver,,Metals & materials
+12628,stone,,Metals & materials
+12629,wood,,Metals & materials
+12630,fur,,Products
+12631,grease,,Products
+12632,honey,,Products
+12633,mead,,Products
+12634,meat,,Products
+12635,milk,,Products
+12636,salt,,Products
+12637,beeswax,,Products
+12638,wine,,Products
+12639,wool,,Products
+12673,hops,,Products
+12640,autumn / harvest,,Seasons
+12642,spring,,Seasons
+12643,summer,,Seasons
+12644,winter,,Seasons
+12650,arrow,,Weapons etc.
+12651,bow,,Weapons etc.
+12652,knife,,Weapons etc.
+12653,spear,,Weapons etc.
+12654,sword,,Weapons etc.
+12674,army,,Weapons etc.
+12675,battle axe,,Weapons etc.
+12676,shield,,Weapons etc.
+12655,bear,,Wild animals
+12656,bison,,Wild animals
+12658,eagle,,Wild animals
+12659,fox,,Wild animals
+12660,hare / rabbit,,Wild animals
+12661,jackal,,Wild animals
+12662,leopard,,Wild animals
+12663,lion,,Wild animals
+12667,raven,,Wild animals
+12668,snake,,Wild animals
+12669,wild pig,,Wild animals
+12670,wolf,,Wild animals
+5001,pig,,Farm animals
+5002,chicken / fowl,,Farm animals
+5003,dog,,Farm animals
+5004,cat,,Farm animals
+5006,goat,,Farm animals
+5005,buffalo,,Wild animals
+5007,bee,,Wild animals
+5008,bear,,Wild animals
+5009,tiger,,Wild animals
+5010,pig (wild),,Wild animals
+5011,flying squirrel,,Wild animals
+5012,bat / fruit bat,,Wild animals
+5013,bird,,Wild animals
+5014,snake (e.g. cobra),,Wild animals
+5015,fish,,Wild animals
+5016,rat,,Wild animals
+5017,crab,,Wild animals
+5018,(freshwater) eel,,Wild animals
+5019,monkey,,Wild animals
+5020,honey,,Products
+5021,wine (rice),,Products
+5022,salt,,Products
+5023,sugar,,Products
+5024,pork,,Products
+5025,meat (food),,Products
+5026,oil / grease,,Products
+5027,to weave,,Activities
+5028,to sew,,Activities
+5029,to sow,,Activities
+5030,to cook,,Activities
+5031,to sing,,Activities
+5032,to dance,,Activities
+5033,to hunt,,Activities
+5034,to pound (rice),,Activities
+5035,rice (crop),,Crops & fruit
+5036,rice (grain),,Crops & fruit
+5037,rice (cooked),,Crops & fruit
+5038,millet,,Crops & fruit
+5039,maize,,Crops & fruit
+5040,sugar-cane,,Crops & fruit
+5041,betel nut,,Crops & fruit
+5042,sweet potato,,Crops & fruit
+5043,taro,,Crops & fruit
+5044,banana,,Crops & fruit
+5045,coconut,,Crops & fruit
+5046,fruit,,Crops & fruit
+5047,banyan,,Crops & fruit
+5048,yam (Dioscorea),,Crops & fruit
+5049,papaya,,Crops & fruit
+5050,mango,,Crops & fruit
+5051,boat,,Cultural artefacts & tools
+5052,canoe,,Cultural artefacts & tools
+5053,oar / paddle,,Cultural artefacts & tools
+5054,sail,,Cultural artefacts & tools
+5055,saw,,Cultural artefacts & tools
+5056,axe,,Cultural artefacts & tools
+5057,loom,,Cultural artefacts & tools
+5058,pot,,Cultural artefacts & tools
+5059,hoe,,Cultural artefacts & tools
+5060,Jew's harp,,Cultural artefacts & tools
+5061,field (wet) / rice paddy,,Cultural artefacts & tools
+5062,field (dry),,Cultural artefacts & tools
+5063,mortar,,Cultural artefacts & tools
+5064,pestle,,Cultural artefacts & tools
+5065,trap,,Cultural artefacts & tools
+5066,snare,,Cultural artefacts & tools
+5067,rope,,Cultural artefacts & tools
+5068,basket,,Cultural artefacts & tools
+5069,broom,,Cultural artefacts & tools
+5070,mat,,Cultural artefacts & tools
+5071,clothing,,Cultural artefacts & tools
+5072,sea / ocean,,Seasons & nature
+5073,pond / lake,,Seasons & nature
+5074,snow / ice,,Seasons & nature
+5075,summer / warm season,,Seasons & nature
+5076,winter / cold season,,Seasons & nature
+5077,monsoon season,,Seasons & nature
+5078,autumn,,Seasons & nature
+5079,spring,,Seasons & nature
+5080,iron / metal,,Metals & materials
+5081,silver,,Metals & materials
+5082,gold,,Metals & materials
+5083,pearl,,Metals & materials
+5084,cowry shell,,Metals & materials
+5085,wood,,Metals & materials
+5086,stone,,Metals & materials
+5087,leather / hide,,Metals & materials
+5088,cloth,,Metals & materials
+5089,bamboo,,Metals & materials
+5090,paper,,Metals & materials
+5091,charcoal,,Metals & materials
+5092,machete,,Weapons
+5093,bow,,Weapons
+5094,arrow,,Weapons
+5095,knife,,Weapons
+5096,spear,,Weapons
+5097,head-hunting,,Belief
+5098,to pray,,Belief
+5099,shaman / medicine-man,,Belief
+5100,"to heal, to cure",,Belief
+5101,sorcerer,,Belief
+5102,ghost,,Belief
+5103,demon,,Belief
+5104,wedding,,Belief
+5105,grave,,Belief
+5106,ancestor(s),,Belief
+5107,sun,,Astronomy
+5108,moon,,Astronomy
+5109,star,,Astronomy
+5110,house,,Settlement
+5111,bridge,,Settlement
+5112,village,,Settlement
+4001,"maize, corn",,Agricultural produce
+4002,sweet potato,,Agricultural produce
+4003,manioc,,Agricultural produce
+12139,tobacco,,Agricultural produce
+12169,bean,,Agricultural produce
+12170,chili,,Agricultural produce
+12171,cotton,,Agricultural produce
+12172,gourd,,Agricultural produce
+12173,pumpkin,,Agricultural produce
+12174,yam,,Agricultural produce
+12175,potato,,Agricultural produce
+4004,tapir,,Wild animals
+4005,jaguar,,Wild animals
+4006,armadillo,,Wild animals
+4007,macaw,,Wild animals
+4008,parrot,,Wild animals
+4009,toucan,,Wild animals
+4010,"mutum, curassow",,Wild animals
+4011,caiman,,Wild animals
+12151,fish (n),,Wild animals
+12340,spider,,Wild animals
+12341,butterfly,,Wild animals
+12342,capybara,,Wild animals
+12343,snake,,Wild animals
+12344,ant,,Wild animals
+12345,margay,,Wild animals
+12346,larva,,Wild animals
+12347,Brazilian tortoise,,Wild animals
+12348,monkey,,Wild animals
+12349,bat,,Wild animals
+12350,paca,,Wild animals
+12351,white-lipped peccary,,Wild animals
+12352,collared peccary,,Wild animals
+12353,rat,,Wild animals
+12354,deer,,Wild animals
+12355,agouti,,Wild animals
+12356,guan bird,,Wild animals
+12357,opossum,,Wild animals
+12358,tinamou bird,,Wild animals
+12359,white-throated tinamou,,Wild animals
+12376,bird,,Wild animals
+4012,star,,Celestial bodies
+4013,sun,,Celestial bodies
+4014,moon,,Celestial bodies
+4015,water (n),,Physical/natural world
+12137,"earth (soil, ground)",,Physical/natural world
+12138,to burn (tr.),,Physical/natural world
+12207,tree,,Physical/natural world
+12208,ash(es),,Physical/natural world
+12209,smoke (n),,Physical/natural world
+12210,fire,,Physical/natural world
+12211,mountain,,Physical/natural world
+12212,"shore, bank",,Physical/natural world
+12213,sea,,Physical/natural world
+12214,ocean,,Physical/natural world
+12215,lake,,Physical/natural world
+12216,"river, stream, brook",,Physical/natural world
+12217,woods/forest,,Physical/natural world
+12218,charcoal,,Physical/natural world
+12219,"country, land",,Physical/natural world
+12220,lagoon,,Physical/natural world
+12221,"clay, mud",,Physical/natural world
+12222,north,,Physical/natural world
+12223,south,,Physical/natural world
+12224,east,,Physical/natural world
+12225,west,,Physical/natural world
+12226,light (n),,Physical/natural world
+12227,darkness,,Physical/natural world
+12228,waterfall,,Physical/natural world
+12229,sky,,Physical/natural world
+12230,wind,,Physical/natural world
+12140,"harvest, crop",,Agriculture
+12178,seed (n),,Agriculture
+12179,cultivated field,,Agriculture
+12180,to cultivate,,Agriculture
+12181,to sow,,Agriculture
+12360,bamboo,,Wild plants
+12361,açaí berry,,Wild plants
+12362,moriche fruit,,Wild plants
+12363,genipap fruit,,Wild plants
+12364,flower,,Wild plants
+12365,fruit,,Wild plants
+12366,patawa fruit,,Wild plants
+12193,axe,,Hunting and fishing
+12194,sling,,Hunting and fishing
+12195,bow,,Hunting and fishing
+12196,arrow,,Hunting and fishing
+12197,spear,,Hunting and fishing
+12198,fish-hook,,Hunting and fishing
+12199,fish-net,,Hunting and fishing
+12200,fish-trap,,Hunting and fishing
+12201,to hunt,,Hunting and fishing
+12202,to shoot,,Hunting and fishing
+12203,club,,Hunting and fishing
+12204,knife,,Hunting and fishing
+12231,flour,,Products
+12232,salt,,Products
+12233,fermented drink,,Products
+12189,cooking vessel,,Food preparation
+12190,"pestle, pounder",,Food preparation
+12191,"cup, glass",,Food preparation
+12192,pot,,Food preparation
+12182,basket,,Artefacts
+12183,bag to keep feathers in,,Artefacts
+12184,comb,,Artefacts
+12185,statue,,Artefacts
+12187,walking stick,,Artefacts
+12188,pot,,Artefacts
+12156,enemy,,Social roles and positions
+12157,"captive, prisoner",,Social roles and positions
+12252,village,,Social roles and positions
+12253,people,,Social roles and positions
+12254,"tribe, clan",,Social roles and positions
+12255,tribal chief,,Social roles and positions
+12256,friend,,Social roles and positions
+12257,to govern,,Social roles and positions
+12258,"king, governor",,Social roles and positions
+12259,queen,,Social roles and positions
+12260,"lord, boss, proprietor",,Social roles and positions
+12261,slave,,Social roles and positions
+12262,servant,,Social roles and positions
+12263,free man,,Social roles and positions
+12264,"to order, to command",,Social roles and positions
+12265,to give order,,Social roles and positions
+12266,to obey,,Social roles and positions
+12205,gold,,Metals
+12206,silver,,Metals
+12160,battle-axe,,Warfare
+12161,battle,,Warfare
+12162,bow,,Warfare
+12163,arrow,,Warfare
+12164,spear,,Warfare
+12165,to shoot,,Warfare
+12166,club,,Warfare
+12326,to kill,,Warfare
+12327,enemy,,Warfare
+12328,to fight,,Warfare
+12329,war,,Warfare
+12330,peace,,Warfare
+12331,army,,Warfare
+12332,victory,,Warfare
+12333,defeat (n),,Warfare
+12334,to attack,,Warfare
+12335,to defend,,Warfare
+12336,"captive, prisoner",,Warfare
+12337,ambush (n),,Warfare
+12338,trumpeter bird (watchbird),,Warfare
+12339,arrow tip,,Warfare
+12152,sun,,Religion
+12153,moon,,Religion
+12234,blood (n),,Religion
+12235,ancestors,,Religion
+12236,descendants,,Religion
+12237,to smoke,,Religion
+12238,pipe,,Religion
+12239,flute,,Religion
+12240,"horn, trumpet",,Religion
+12241,to pray,,Religion
+12242,demon,,Religion
+12243,ghost,,Religion
+12244,drum,,Religion
+12245,religion,,Religion
+12246,God,,Religion
+12247,"sacrifice, offering",,Religion
+12248,priest,,Religion
+12249,to preach,,Religion
+12154,cultivated field,,Settlement
+12155,village,,Settlement
+12250,"yard, court",,Settlement
+12251,garden,,Settlement
+12158,new,,Time
+12159,young,,Time
+12267,time,,Time
+12268,age,,Time
+12269,old,,Time
+12270,early,,Time
+12271,late,,Time
+12272,dry season,,Time
+12273,rainy season,,Time
+12274,now,,Time
+12275,immediately,,Time
+12276,quick,,Time
+12277,slow,,Time
+12278,to hurry,,Time
+12279,to delay,,Time
+12280,to begin,,Time
+12281,to last,,Time
+12282,end (n),,Time
+12283,"to complete, to finish",,Time
+12284,"to stop, to cease",,Time
+12285,ready,,Time
+12286,always,,Time
+12287,"often, frequently",,Time
+12288,sometimes,,Time
+12289,soon,,Time
+12290,for a long time,,Time
+12291,never,,Time
+12292,again,,Time
+12293,day,,Time
+12294,dawn,,Time
+12295,morning,,Time
+12296,noon,,Time
+12297,afternoon,,Time
+12298,"night, late afternoon",,Time
+12299,today,,Time
+12300,tomorrow,,Time
+12301,day after tomorrow,,Time
+12302,yesterday,,Time
+12303,day before yesterday,,Time
+12304,hour,,Time
+12305,"watch, clock",,Time
+12306,week,,Time
+12307,Sunday,,Time
+12308,Monday,,Time
+12309,Tuesday,,Time
+12310,Wednesday,,Time
+12311,Thursday,,Time
+12312,Friday,,Time
+12313,Saturday,,Time
+12314,month,,Time
+12315,year,,Time
+12316,winter,,Time
+12317,spring,,Time
+12318,summer,,Time
+12319,autumn,,Time
+12320,season,,Time
+12321,before,,Time
+12322,after,,Time
+12323,"short, brief",,Time
+12167,necklace,,Adornments
+12168,waist band,,Adornments
+12371,agouti tooth,,Adornments
+12372,coconut bead,,Adornments
+12176,hoe,,Agricultural tools
+12177,sickle,,Agricultural tools
+12324,amburana tree,,Trees
+12325,araguaney tree,,Trees
+12367,coconut tree,,Trees
+12368,walking palm,,Trees
+12369,peach palm,,Trees
+12001,bull,,Farm animals
+12002,cow,,Farm animals
+12003,ox,,Farm animals
+12004,cattle (collective term),,Farm animals
+12005,horse,,Farm animals
+12006,donkey,,Farm animals
+12007,sheep (collective term),,Farm animals
+12008,ram,,Farm animals
+12009,lamb,,Farm animals
+12010,goat,,Farm animals
+12011,pig,,Farm animals
+12012,piglet,,Farm animals
+12013,hen,,Farm animals
+12014,rooster,,Farm animals
+12015,chicken,,Farm animals
+12016,duck,,Farm animals
+12017,dog,,Farm animals
+12018,cat,,Farm animals
+12019,bee,,Farm animals
+12020,yearling,,Farm animals
+12021,wolf,,Wild animals
+12022,bear,,Wild animals
+12023,wild pig,,Wild animals
+12024,leopard,,Wild animals
+12025,lion,,Wild animals
+12026,fox,,Wild animals
+12027,jackal,,Wild animals
+12028,bison,,Wild animals
+12029,hare,,Wild animals
+12030,rabbit,,Wild animals
+12031,snake,,Wild animals
+12032,raven,,Wild animals
+12033,eagle,,Wild animals
+12034,deer,,Wild animals
+12035,wool,,Products
+12036,fur,,Products
+12037,honey,,Products
+12038,milk,,Products
+12039,salt,,Products
+12040,wine,,Products
+12041,mead,,Products
+12042,hops,,Products
+12043,beeswax,,Products
+12044,meat,,Products
+12045,grease,,Products
+12046,to weave,,Activities
+12047,to spin (thread),,Activities
+12048,to sew,,Activities
+12049,to plough,,Activities
+12050,to sow,,Activities
+12051,wheat,,Crops & fruit
+12052,barley,,Crops & fruit
+12053,rye,,Crops & fruit
+12054,oats,,Crops & fruit
+12055,lentils,,Crops & fruit
+12056,grain (generic),,Crops & fruit
+12057,turnip,,Crops & fruit
+12058,apple,,Crops & fruit
+12059,berry,,Crops & fruit
+12060,grape,,Crops & fruit
+12061,flax,,Crops & fruit
+12062,scythe,,Cultural artefacts & tools
+12063,sickle,,Cultural artefacts & tools
+12064,spade,,Cultural artefacts & tools
+12065,plough (n),,Cultural artefacts & tools
+12066,saw,,Cultural artefacts & tools
+12067,axe,,Cultural artefacts & tools
+12068,yoke,,Cultural artefacts & tools
+12069,wagon,,Cultural artefacts & tools
+12070,wheel,,Cultural artefacts & tools
+12071,hub,,Cultural artefacts & tools
+12072,axle,,Cultural artefacts & tools
+12073,cultivated field,,Cultural artefacts & tools
+12074,pasture,,Cultural artefacts & tools
+12075,furrow,,Cultural artefacts & tools
+12076,(ceramic) pot,,Cultural artefacts & tools
+12077,flutes,,Cultural artefacts & tools
+12078,summer,,Seasons
+12079,autumn,,Seasons
+12080,harvest,,Seasons
+12081,winter,,Seasons
+12082,spring,,Seasons
+12083,copper,,Metals & materials
+12084,iron,,Metals & materials
+12085,silver,,Metals & materials
+12086,gold,,Metals & materials
+12087,wood,,Metals & materials
+12088,stone,,Metals & materials
+12089,leather,,Metals & materials
+12090,spear,,Weapons etc.
+12091,bow,,Weapons etc.
+12092,arrow,,Weapons etc.
+12093,sword,,Weapons etc.
+12094,knife,,Weapons etc.
+12095,shield,,Weapons etc.
+12096,army,,Weapons etc.
+12097,battle axe,,Weapons etc.
+12098,temple,,Belief
+12099,sacrifice,,Belief
+12100,fast,,Belief
+12101,to pray,,Belief
+12102,priest / shaman,,Belief
+12103,grave,,Belief
+12104,wedding,,Belief
+12105,belief,,Belief
+12106,rite,,Belief
+12107,sacred,,Belief
+12108,priest,,Belief
+12109,demon,,Belief
+12110,ghost,,Belief
+12113,sacred grove,,Belief
+12114,funeral,,Belief
+12115,burial mound,,Belief
+12116,ancestor,,Belief
+12117,"to give to drink, to libate",,Belief
+12118,witchcraft (evil),,Belief
+12119,healing witchcraft,,Belief
+12120,sorcerer (evil),,Belief
+12121,witch-doctor,,Belief
+12122,sun,,Astronomy
+12123,moon,,Astronomy
+12124,star,,Astronomy
+12125,polar star,,Astronomy
+12126,Morning Star,,Astronomy
+12127,Evening Star,,Astronomy
+12128,Ursa Major (Big Dipper),,Astronomy
+12129,Orion’s belt,,Astronomy
+1001,all (of a number),,Swadesh 100
+1002,ash(es),,Swadesh 100
+1003,bark (of tree),,Swadesh 100
+1004,"belly (abdomen, stomach)",,Swadesh 100
+1005,big,,Swadesh 100
+1006,bird,,Swadesh 100
+1007,to bite,,Swadesh 100
+1008,black (colour),,Swadesh 100
+1009,blood (n),,Swadesh 100
+1010,bone,,Swadesh 100
+1011,breast,,Swadesh 100
+1012,to burn (intr.),,Swadesh 100
+1013,fingernail,,Swadesh 100
+1014,cloud (not fog),,Swadesh 100
+1015,cold (of weather),,Swadesh 100
+1016,to come,,Swadesh 100
+1017,to die,,Swadesh 100
+1018,dog,,Swadesh 100
+1019,to drink,,Swadesh 100
+1020,dry (adj),,Swadesh 100
+1021,ear,,Swadesh 100
+1022,"earth (soil, ground)",,Swadesh 100
+1023,to eat,,Swadesh 100
+1024,egg,,Swadesh 100
+1025,eye,,Swadesh 100
+1026,fat (organic substance),,Swadesh 100
+1027,feather (not down),,Swadesh 100
+1028,fire,,Swadesh 100
+1029,fish (n),,Swadesh 100
+1030,to fly,,Swadesh 100
+1031,foot (not leg),,Swadesh 100
+1032,full,,Swadesh 100
+1033,to give,,Swadesh 100
+1034,good,,Swadesh 100
+1035,green (colour),,Swadesh 100
+1036,hair (of head),,Swadesh 100
+1037,hand (not arm),,Swadesh 100
+1038,head (anatomic),,Swadesh 100
+1039,to hear,,Swadesh 100
+1040,heart (organ),,Swadesh 100
+1041,horn,,Swadesh 100
+1042,I (1sg),,Swadesh 100
+1043,to kill,,Swadesh 100
+1044,knee,,Swadesh 100
+1045,to know,,Swadesh 100
+1046,leaf (botanics),,Swadesh 100
+1047,to lie (recline),,Swadesh 100
+1048,liver,,Swadesh 100
+1049,long (adj),,Swadesh 100
+1050,louse (lice),,Swadesh 100
+1051,man (adult male human),,Swadesh 100
+1052,many,,Swadesh 100
+1053,meat/flesh,,Swadesh 100
+1054,moon,,Swadesh 100
+1055,mountain,,Swadesh 100
+1056,mouth,,Swadesh 100
+1057,name,,Swadesh 100
+1058,neck,,Swadesh 100
+1059,new,,Swadesh 100
+1060,night,,Swadesh 100
+1061,nose,,Swadesh 100
+1062,not,,Swadesh 100
+1063,one,,Swadesh 100
+1064,person (individual human),,Swadesh 100
+1065,rain (n),,Swadesh 100
+1066,red (colour),,Swadesh 100
+1067,road/path,,Swadesh 100
+1068,root (botanics),,Swadesh 100
+1069,round,,Swadesh 100
+1070,sand,,Swadesh 100
+1071,to say,,Swadesh 100
+1072,to see,,Swadesh 100
+1073,seed (n),,Swadesh 100
+1074,to sit,,Swadesh 100
+1075,skin (person's),,Swadesh 100
+1076,to sleep,,Swadesh 100
+1077,small,,Swadesh 100
+1078,smoke (n),,Swadesh 100
+1079,to stand,,Swadesh 100
+1080,star,,Swadesh 100
+1081,stone,,Swadesh 100
+1082,sun,,Swadesh 100
+1083,to swim,,Swadesh 100
+1084,tail,,Swadesh 100
+1085,"that (deixis, distal)",,Swadesh 100
+1086,"this (deixis, proximal)",,Swadesh 100
+1087,thou (2sg),,Swadesh 100
+1088,tongue (anatomical),,Swadesh 100
+1089,tooth (general),,Swadesh 100
+1090,tree,,Swadesh 100
+1091,two,,Swadesh 100
+1092,to walk,,Swadesh 100
+1093,warm (of weather),,Swadesh 100
+1094,water (n),,Swadesh 100
+1095,we (1pl),,Swadesh 100
+1096,what?,,Swadesh 100
+1097,white (colour),,Swadesh 100
+1098,who?,,Swadesh 100
+1099,woman,,Swadesh 100
+1100,yellow (colour),,Swadesh 100
+1101,child,,Swadesh 100
+1103,we (1pl incl.),,Swadesh 100
+1104,you (2pl),,Swadesh 100
+12370,we (1pl excl.),,Swadesh 100
+2001,all (of a number),,Swadesh 200
+2002,and,,Swadesh 200
+2003,animal,,Swadesh 200
+2004,ash(es),,Swadesh 200
+2005,at,,Swadesh 200
+2006,back (of body),,Swadesh 200
+2007,bad,,Swadesh 200
+2008,bark (of tree),,Swadesh 200
+2009,because,,Swadesh 200
+2010,"belly (abdomen, stomach)",,Swadesh 200
+2011,big,,Swadesh 200
+2012,bird,,Swadesh 200
+2013,to bite,,Swadesh 200
+2014,black (colour),,Swadesh 200
+2015,blood (n),,Swadesh 200
+2016,to blow,,Swadesh 200
+2017,bone,,Swadesh 200
+2018,breast,,Swadesh 200
+2019,to breathe,,Swadesh 200
+2020,to burn (intr.),,Swadesh 200
+2021,child,,Swadesh 200
+2022,cloud (not fog),,Swadesh 200
+2023,cold (of weather),,Swadesh 200
+2024,to come,,Swadesh 200
+2025,to count,,Swadesh 200
+2026,to cut,,Swadesh 200
+2027,day,,Swadesh 200
+2028,to die,,Swadesh 200
+2029,to dig,,Swadesh 200
+2030,dirty,,Swadesh 200
+2031,dog,,Swadesh 200
+2032,to drink,,Swadesh 200
+2033,dry (adj),,Swadesh 200
+2034,dull,,Swadesh 200
+2035,dust,,Swadesh 200
+2036,ear,,Swadesh 200
+2037,"earth (soil, ground)",,Swadesh 200
+2038,to eat,,Swadesh 200
+2039,egg,,Swadesh 200
+2040,eye,,Swadesh 200
+2041,to fall,,Swadesh 200
+2042,far,,Swadesh 200
+2043,fat (organic substance),,Swadesh 200
+2044,father,,Swadesh 200
+2045,to fear,,Swadesh 200
+2046,feather (not down),,Swadesh 200
+2047,few,,Swadesh 200
+2048,to fight,,Swadesh 200
+2049,fingernail,,Swadesh 200
+2050,fire,,Swadesh 200
+2051,fish (n),,Swadesh 200
+2052,five,,Swadesh 200
+2053,to float,,Swadesh 200
+2054,to flow,,Swadesh 200
+2055,flower,,Swadesh 200
+2056,to fly,,Swadesh 200
+2057,fog (mist),,Swadesh 200
+2058,foot (not leg),,Swadesh 200
+2059,four,,Swadesh 200
+2060,to freeze,,Swadesh 200
+2061,fruit,,Swadesh 200
+2062,full,,Swadesh 200
+2063,to give,,Swadesh 200
+2064,good,,Swadesh 200
+2065,grass,,Swadesh 200
+2066,green (colour),,Swadesh 200
+2067,guts,,Swadesh 200
+2068,hair (of head),,Swadesh 200
+2069,hand (not arm),,Swadesh 200
+2070,he (3sg m),,Swadesh 200
+2071,head (anatomic),,Swadesh 200
+2072,to hear,,Swadesh 200
+2073,heart (organ),,Swadesh 200
+2074,heavy,,Swadesh 200
+2075,here (proximal),,Swadesh 200
+2076,to hit,,Swadesh 200
+2077,to hold,,Swadesh 200
+2078,horn,,Swadesh 200
+2079,how?,,Swadesh 200
+2080,to hunt,,Swadesh 200
+2081,husband,,Swadesh 200
+2082,I (1sg),,Swadesh 200
+2083,ice,,Swadesh 200
+2084,if,,Swadesh 200
+2085,in,,Swadesh 200
+2086,to kill,,Swadesh 200
+2087,knee,,Swadesh 200
+2088,to know,,Swadesh 200
+2089,lake,,Swadesh 200
+2090,to laugh,,Swadesh 200
+2091,leaf (botanics),,Swadesh 200
+2092,left (not right),,Swadesh 200
+2093,leg,,Swadesh 200
+2094,to lie (recline),,Swadesh 200
+2095,to live,,Swadesh 200
+2096,liver,,Swadesh 200
+2097,long (adj),,Swadesh 200
+2098,louse (lice),,Swadesh 200
+2099,man (adult male human),,Swadesh 200
+2100,many,,Swadesh 200
+2101,meat/flesh,,Swadesh 200
+2102,moon,,Swadesh 200
+2103,mother,,Swadesh 200
+2104,mountain,,Swadesh 200
+2105,mouth,,Swadesh 200
+2106,name,,Swadesh 200
+2107,narrow,,Swadesh 200
+2108,near,,Swadesh 200
+2109,neck,,Swadesh 200
+2110,new,,Swadesh 200
+2111,night,,Swadesh 200
+2112,nose,,Swadesh 200
+2113,not,,Swadesh 200
+2114,old,,Swadesh 200
+2115,one,,Swadesh 200
+2116,other,,Swadesh 200
+2117,person (individual human),,Swadesh 200
+2118,to play,,Swadesh 200
+2119,to pull,,Swadesh 200
+2120,to push,,Swadesh 200
+2121,rain (n),,Swadesh 200
+2122,red (colour),,Swadesh 200
+2123,right (correct),,Swadesh 200
+2124,right (side),,Swadesh 200
+2125,river,,Swadesh 200
+2126,road/path,,Swadesh 200
+2127,root (botanics),,Swadesh 200
+2128,rope,,Swadesh 200
+2129,rotten (adj),,Swadesh 200
+2130,round,,Swadesh 200
+2131,to rub,,Swadesh 200
+2132,salt,,Swadesh 200
+2133,sand,,Swadesh 200
+2134,to say,,Swadesh 200
+2135,to scratch,,Swadesh 200
+2136,sea,,Swadesh 200
+2137,to see,,Swadesh 200
+2138,seed (n),,Swadesh 200
+2139,to sew,,Swadesh 200
+2140,sharp,,Swadesh 200
+2142,short,,Swadesh 200
+2143,to sing,,Swadesh 200
+2144,to sit,,Swadesh 200
+2145,skin (person's),,Swadesh 200
+2146,sky,,Swadesh 200
+2147,to sleep,,Swadesh 200
+2148,small,,Swadesh 200
+2149,to smell,,Swadesh 200
+2150,smooth,,Swadesh 200
+2151,snake,,Swadesh 200
+2152,snow (n),,Swadesh 200
+2153,some,,Swadesh 200
+2154,to spit,,Swadesh 200
+2155,to split,,Swadesh 200
+2156,to squeeze,,Swadesh 200
+2157,to stab,,Swadesh 200
+2158,to stand,,Swadesh 200
+2159,star,,Swadesh 200
+2160,stick (n),,Swadesh 200
+2161,stone,,Swadesh 200
+2162,straight,,Swadesh 200
+2163,to suck,,Swadesh 200
+2164,sun,,Swadesh 200
+2165,to swell,,Swadesh 200
+2166,to swim,,Swadesh 200
+2167,tail,,Swadesh 200
+2168,"that (deixis, distal)",,Swadesh 200
+2169,there (distal),,Swadesh 200
+2170,they (3pl),,Swadesh 200
+2171,thick,,Swadesh 200
+2172,thin,,Swadesh 200
+2173,to think,,Swadesh 200
+2174,"this (deixis, proximal)",,Swadesh 200
+2175,thou (2sg),,Swadesh 200
+2176,three,,Swadesh 200
+2177,to throw,,Swadesh 200
+2178,to tie,,Swadesh 200
+2179,tongue (anatomical),,Swadesh 200
+2180,tooth (general),,Swadesh 200
+2181,tree,,Swadesh 200
+2182,to turn,,Swadesh 200
+2183,two,,Swadesh 200
+2184,to walk,,Swadesh 200
+2185,warm (of weather),,Swadesh 200
+2186,to wash/to bathe,,Swadesh 200
+2187,water (n),,Swadesh 200
+2189,wet,,Swadesh 200
+2190,what?,,Swadesh 200
+2191,when?,,Swadesh 200
+2192,where?,,Swadesh 200
+2193,white (colour),,Swadesh 200
+2194,who?,,Swadesh 200
+2195,wide,,Swadesh 200
+2196,wife,,Swadesh 200
+2197,wind,,Swadesh 200
+2198,wing,,Swadesh 200
+2199,to wipe,,Swadesh 200
+2200,with (accompanying),,Swadesh 200
+2201,woman,,Swadesh 200
+2202,to vomit,,Swadesh 200
+2203,woods/forest,,Swadesh 200
+2204,worm,,Swadesh 200
+2205,year,,Swadesh 200
+2206,yellow (colour),,Swadesh 200
+2207,you (2pl),,Swadesh 200
+2208,we (1pl incl.),,Swadesh 200
+2209,smoke (n),,Swadesh 200
+12373,we (1pl),,Swadesh 200
+12374,we (1pl excl.),,Swadesh 200
+3009,bee,,Farm animals
+3012,bull,,Farm animals
+3013,calf,,Farm animals
+3014,cat,,Farm animals
+3015,cattle,,Farm animals
+3016,chicken,,Farm animals
+3018,cow,,Farm animals
+3021,dog,,Farm animals
+3022,donkey,,Farm animals
+3023,duck,,Farm animals
+3030,goat,,Farm animals
+3037,hen,,Farm animals
+3040,horse,,Farm animals
+3044,kid,,Farm animals
+3046,lamb,,Farm animals
+3056,ox,,Farm animals
+3058,pig,,Farm animals
+3059,piglet,,Farm animals
+3063,ram,,Farm animals
+3065,rooster,,Farm animals
+3071,sheep,,Farm animals
+3008,bear,,Wild animals
+3010,bison,,Wild animals
+3020,deer,,Wild animals
+3024,eagle,,Wild animals
+3027,fox,,Wild animals
+3035,hare,,Wild animals
+3043,jackal,,Wild animals
+3048,leopard,,Wild animals
+3049,lion,,Wild animals
+3050,lynx,,Wild animals
+3055,owl,,Wild animals
+3062,rabbit,,Wild animals
+3064,raven,,Wild animals
+3074,snake,,Wild animals
+3089,wild boar,,Wild animals
+3092,wolf,,Wild animals
+3028,fur,,Products
+3034,grease,,Products
+3038,honey,,Products
+3051,mead,,Products
+3052,meat,,Products
+3053,milk,,Products
+3067,salt,,Products
+3085,wax (bees),,Products
+3090,wine,,Products
+3094,wool,,Products
+3061,to plough,,Activities
+3070,to sew,,Activities
+3075,to sow,,Activities
+3078,to spin (thread),,Activities
+3086,to weave,,Activities
+3002,apple,,Crops & fruit
+3007,barley,,Crops & fruit
+3026,flax,,Crops & fruit
+3032,grain (generic),,Crops & fruit
+3033,grape,,Crops & fruit
+3039,hops,,Crops & fruit
+3054,oats,,Crops & fruit
+3066,rye,,Crops & fruit
+3083,turnip,,Crops & fruit
+3087,wheat,,Crops & fruit
+3005,axe,,Agricultural tools etc.
+3006,axle,,Agricultural tools etc.
+3019,cultivated field,,Agricultural tools etc.
+3029,furrow,,Agricultural tools etc.
+3041,hub,,Agricultural tools etc.
+3060,plough (noun),,Agricultural tools etc.
+3068,saw,,Agricultural tools etc.
+3069,scythe,,Agricultural tools etc.
+3072,sickle,,Agricultural tools etc.
+3076,spade,,Agricultural tools etc.
+3084,wagon,,Agricultural tools etc.
+3088,wheel,,Agricultural tools etc.
+3096,yoke,,Agricultural tools etc.
+3004,autumn,,Seasons
+3036,harvest,,Seasons
+3079,spring,,Seasons
+3081,summer,,Seasons
+3091,winter,,Seasons
+3017,copper,,Metals & materials
+3031,gold,,Metals & materials
+3042,iron,,Metals & materials
+3047,leather,,Metals & materials
+3073,silver,,Metals & materials
+3080,stone,,Metals & materials
+3093,wood,,Metals & materials
+3003,arrow,,Weapons etc.
+3011,bow,,Weapons etc.
+3045,knife,,Weapons etc.
+3077,spear,,Weapons etc.
+3082,sword,,Weapons etc.
+12130,birch,,Trees
+12131,oak,,Trees
+12132,ash,,Trees
+12133,elm,,Trees
+12135,beech,,Trees
