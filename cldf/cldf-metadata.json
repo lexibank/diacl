@@ -3,6 +3,7 @@
     "dc:bibliographicCitation": "",
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#Wordlist",
     "dc:identifier": "https://diacl.ht.lu.se/",
+    "dc:source": "sources.bib",
     "dc:title": "Diachronic Atlas of Comparative Linguistics ",
     "dcat:accessURL": "https://github.com/lexibank/diacl",
     "rdf:ID": "diacl",
@@ -22,7 +23,7 @@
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
-            "dc:extent": 86412,
+            "dc:extent": 70927,
             "tableSchema": {
                 "columns": [
                     {
@@ -83,6 +84,10 @@
                     {
                         "datatype": "boolean",
                         "name": "Loan"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "diacl_id"
                     }
                 ],
                 "foreignKeys": [
@@ -199,7 +204,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#CognateTable",
-            "dc:extent": 0,
+            "dc:extent": 46695,
             "tableSchema": {
                 "columns": [
                     {
@@ -250,6 +255,10 @@
                     {
                         "datatype": "string",
                         "name": "Alignment_Source"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "diacl_lexeme_id"
                     }
                 ],
                 "foreignKeys": [
