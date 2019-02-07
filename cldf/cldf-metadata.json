@@ -1,6 +1,6 @@
 {
     "@context": "http://www.w3.org/ns/csvw",
-    "dc:bibliographicCitation": "",
+    "dc:bibliographicCitation": "Carling, Gerd (ed.) 2017. Diachronic Atlas of Comparative Linguistics Online. Lund: Lund University. (DOI/URL: https://diacl.ht.lu.se/. ). Accessed on: 2019-02-07.",
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#Wordlist",
     "dc:identifier": "https://diacl.ht.lu.se/",
     "dc:source": "sources.bib",
@@ -15,15 +15,15 @@
         {
             "dc:title": "environment",
             "properties": {
-                "glottolog_version": "pyglottolog-1.2.1-9-gee58abb",
-                "concepticon_version": "pyconcepticon-1.4.0-42-g46b0e60"
+                "glottolog_version": "v3.3.2",
+                "concepticon_version": "pyconcepticon-1.4.0-59-gee7867b"
             }
         }
     ],
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
-            "dc:extent": 70927,
+            "dc:extent": 40537,
             "tableSchema": {
                 "columns": [
                     {
@@ -122,7 +122,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#LanguageTable",
-            "dc:extent": 422,
+            "dc:extent": 318,
             "tableSchema": {
                 "columns": [
                     {
@@ -158,6 +158,18 @@
                     {
                         "datatype": "string",
                         "name": "Family"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "time_frame"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Longitude"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Latitude"
                     }
                 ],
                 "primaryKey": [
@@ -168,7 +180,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ParameterTable",
-            "dc:extent": 1247,
+            "dc:extent": 437,
             "tableSchema": {
                 "columns": [
                     {
@@ -190,10 +202,6 @@
                     {
                         "datatype": "string",
                         "name": "Concepticon_Gloss"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "word_list_category"
                     }
                 ],
                 "primaryKey": [
@@ -204,7 +212,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#CognateTable",
-            "dc:extent": 46695,
+            "dc:extent": 22754,
             "tableSchema": {
                 "columns": [
                     {

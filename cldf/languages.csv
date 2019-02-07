@@ -1,423 +1,319 @@
-ID,Name,Glottocode,Glottolog_Name,ISO639P3code,Macroarea,Family
-100,Aikanã,aika1237,,tba,,
-5200,Baure,baur1253,,brg,,
-6800,Atayal (Ci'uli),atay1247,,tay,,
-6900,Atayal (Squliq),atay1247,,tay,,
-7050,Seediq,taro1264,,trv,,
-7600,Bunun,bunu1267,,bnn,,
-8200,Amis,amis1246,,ami,,
-8500,Kuvalan,kava1241,,ckv,,
-8700,Siraya,sira1267,,fos,,
-9000,Bali,bali1278,,ban,,
-9500,Tukang Besi,tuka1249,,bhq,,
-9900,Uma,umaa1242,,ppk,,
-10600,Manggarai,mang1405,,mqy,,
-11600,Buru,buru1303,,mhs,,
-12600,Kambera,kamb1299,,xbr,,
-13200,Eastern Fijian,fiji1243,,fij,,
-13250,Hawaiian,hawa1245,,haw,,
-13300,Maori,maor1246,,mri,,
-13500,Rapanui,rapa1244,,rap,,
-13700,Rotuman,rotu1241,,rtm,,
-13800,Samoan,samo1305,,smo,,
-13900,Tahitian,tahi1242,,tah,,
-14000,Tongan,tong1325,,ton,,
-14100,Trukese,chuu1238,,chk,,
-14600,Kiribati,gilb1244,,gil,,
-14800,Marshallese,mars1254,,mah,,
-15100,Ponapean,pohn1238,,pon,,
-16000,Cemuhî,cemu1238,,cam,,
-16060,Paama,paam1238,,pma,,
-16200,Irarutu,irar1238,,irh,,
-16250,Sawai,sawa1247,,szw,,
-16400,A'jië,ajie1238,,aji,,
-18400,Kilivila,kili1267,,kij,,
-19400,Motu,motu1246,,meu,,
-20300,Lau,lauu1247,,llu,,
-20900,Chamorro,cham1312,,cha,,
-21200,Malagasy (Merina),,,mlg,,
-21300,Ma'anyan,maan1238,,mhy,,
-21500,Javanese,java1254,,jav,,
-21700,Madurese,nucl1460,,mad,,
-21900,Acehnese,achi1257,,ace,,
-22000,Cham (Hainan),west2650,,cja,,
-22100,Chru,chru1239,,cje,,
-22200,Indonesian,indo1316,,ind,,
-22700,Timugon,timu1262,,tih,,
-22900,Batak Toba,bata1289,,bbc,,
-23100,Agta,cent2084,,agt,,
-23200,Casiguran Dumagat,casi1235,,dgc,,
-23300,Aklanon,akla1241,,akl,,
-23500,Pamplona (Atta),pamp1244,,att,,
-23600,Balangaw,bala1310,,blw,,
-23800,Sama,bala1311,,sse,,
-24000,Palawan,bata1301,,bya,,
-24200,Koronadal,koro1310,,bpr,,
-24400,Binukid,binu1244,,bkd,,
-24425,Cebuano,cebu1242,,ceb,,
-24450,Eastern Bontok,,,ebk,,
-24600,Gaddang,gadd1244,,gad,,
-24700,Gorontalo,goro1259,,gor,,
-24800,Guinaang,lubu1243,,knb,,
-25000,Amganad,amga1235,,ifa,,
-25100,Batad,bata1298,,ifb,,
-25150,lokano,ilok1237,,ilo,,
-25300,Kakiduge:n,ilon1239,,ilk,,
-25400,Inibaloi,ibal1244,,ibl,,
-25500,Isnag,isna1241,,isd,,
-25700,Binongan,bino1237,,itb,,
-25900,Ivatan (Batanes Islands),ivat1242,,ivv,,
-26000,Ivatan (Itbayaten),ivat1242,,ivv,,
-26200,Kalagan,kala1388,,kqe,,
-26400,Guinaang,lubu1243,,knb,,
-26700,Kayapa Proper,ahin1234,,kak,,
-26800,Keleyqiq,kele1259,,ify,,
-27000,Kankanay (Northern),nort2877,,xnn,,
-27100,Mamanwa,mama1275,,mmn,,
-27300,Ata,atam1240,,atd,,
-27400,Dibabawon,diba1242,,mbd,,
-27500,Kalamansig Cotabato,cota1241,,mta,,
-27600,Ilianen,ilia1236,,mbi,,
-27700,Sarangani,sara1327,,mbs,,
-27800,Tigwa,mati1250,,mbt,,
-27900,Western Bukidnon,west2555,,mbb,,
-28100,Mansaka,mans1262,,msk,,
-28200,Maranao,mara1404,,mrw,,
-28400,Botolan,boto1242,,sbl,,
-28600,Sangir,sang1336,,sxn,,
-28800,Siocon,west2557,,suc,,
-29000,Sindangan,cent2089,,syb,,
-29100,Tagabili,tbol1240,,tbl,,
-29200,Tagalog,taga1270,,tgl,,
-29400,Aborlan,tagb1258,,tbw,,
-29500,Kalamian,cala1258,,tbk,,
-29600,Tausug,taus1251,,tsg,,
-29700,Yami,yami1254,,tao,,
-29900,Bugis,bugi1244,,bug,,
-30300,Sundanese,sund1252,,sun,,
-30500,Pazeh,kulo1237,,uun,,
-30700,Saisyat,sais1237,,xsy,,
-30800,Taokas,babu1240,,bzg,,
-31000,Paiwan,paiw1248,,pwn,,
-31100,Paiwan (Makazayazaya),paiw1248,,pwn,,
-31300,Puyuma,puyu1239,,pyu,,
-31600,Puyuma (Rikavong),puyu1239,,pyu,,
-31900,Rukai,ruka1240,,dru,,
-32000,Rukai (Maga),ruka1240,,dru,,
-32300,Rukai (Tona),ruka1240,,dru,,
-32500,Kanakanabu,kana1286,,xnb,,
-32600,Saaroa,saar1237,,sxr,,
-32700,Tsou,tsou1248,,tsu,,
-33000,Favorlang,babu1240,,bzg,,
-33200,Thao,thao1240,,ssf,,
-33500,Basque (West),,,baq,,
-33900,Kuikúro-Kalapálo,kuik1246,,kui,,
-33950,Cayubaba,cayu1262,,cyb,,
-34400,Oro Eo,orow1243,,orw,,
-34500,Oro Mon,orow1243,,orw,,
-34600,Oro Nao,orow1243,,orw,,
-34700,Oro Waram,orow1243,,orw,,
-34800,Oro Waram Xijem,orow1243,,orw,,
-34900,Oro Win,orow1243,,orw,,
-34950,Wari',wari1268,,pav,,
-35000,Conjubim,,,,,
-35075,Chiquitano,chiq1248,,cax,,
-35100,Proto-Indo-European,,,,,
-35200,Proto-Albanian,,,,,
-35300,Albanian (Tosk),tosk1239,,als,,
-35500,Hittite,hitt1242,,hit,,
-35600,Luwian,cune1239,,xlu,,
-35700,Lycian,lyci1241,,xlc,,
-35800,Lydian,lydi1241,,xld,,
-35900,Proto-Armenian,,,,,
-36000,Classical Armenian,clas1249,,xcl,,
-36100,Modern Armenian,,,arm,,
-36200,Proto-Balto-Slavic,,,,,
-36500,Latvian,latv1249,,lav,,
-36600,Lithuanian,lith1251,,lit,,
-36625,Old Prussian,prus1238,,prg,,
-36700,Proto-Slavic,,,,,
-36900,Old Russian,oldr1238,,orv,,
-37000,Russian,russ1263,,rus,,
-37100,Ukrainian,ukra1253,,ukr,,
-37300,Bulgarian,bulg1262,,bul,,
-37400,Croatian,croa1245,,hrv,,
-37500,Serbian,serb1264,,srp,,
-37525,Serbo-Croatian,,,,,
-37550,Slovene,slov1268,,slv,,
-37700,Czech,,,cze,,
-37800,Old Church Slavonic,chur1257,,chu,,
-37900,Polish,poli1260,,pol,,
-38000,Proto-Celtic,,,,,
-38200,Breton,bret1244,,bre,,
-38300,Cornish,corn1251,,cor,,
-38400,Middle Breton,,,xbm,,
-38600,Middle Welsh,,,wlm,,
-38700,Old Breton,,,obt,,
-38800,Old Cornish,,,oco,,
-38900,Old Welsh,oldw1239,,owl,,
-39000,Welsh,,,wel,,
-39150,Celtiberian,celt1247,,xce,,
-39200,Gaulish,tran1282,,xtg,,
-39400,Irish,iris1253,,gle,,
-39500,Manx,manx1243,,glv,,
-39600,Middle Irish,,,mga,,
-39700,Old Irish,oldi1245,,sga,,
-39800,Scottish Gaelic,scot1245,,gla,,
-39900,Proto-Germanic,,,,,
-40100,Gothic,goth1244,,got,,
-40300,Danish,dani1285,,dan,,
-40400,Elfdalian,elfd1234,,ovd,,
-40500,Faroese,faro1244,,fao,,
-40600,Icelandic,,,ice,,
-40700,Norwegian,norw1258,,nor,,
-40800,Norwegian (Bokmål),norw1259,,nob,,
-40900,Norwegian (Nynorsk),norw1262,,nno,,
-40950,Old Danish,,,,,
-41000,Old Norse,oldn1244,,non,,
-41100,Old Swedish,,,,,
-41200,Swedish,swed1254,,swe,,
-41400,Dutch,dutc1256,,nld,,
-41500,English,stan1293,,eng,,
-41600,Frisian,west2354,,fry,,
-41700,German,,,ger,,
-41800,Low German,nort2627,,nds,,
-41900,Middle Dutch,midd1321,,dum,,
-42000,Middle English,midd1317,,enm,,
-42100,Middle High German,midd1343,,gmh,,
-42200,Middle Low German,midd1318,,gml,,
-42300,Old Dutch,oldd1237,,odt,,
-42400,Old English,olde1238,,ang,,
-42500,Old Frisian,oldf1241,,ofs,,
-42600,Old High German,oldh1241,,goh,,
-42700,Old Saxon,olds1250,,osx,,
-42800,Swiss German,swis1247,,gsw,,
-42825,Yiddish,east2295,,ydd,,
-43000,Classical Greek,anci1242,,grc,,
-43100,Middle Greek,anci1242,,grc,,
-43200,Modern Greek,,,gre,,
-43400,Proto-Indo-Aryan,,,,,
-43600,Prakrit,,,pra,,
-43700,Pali,pali1273,,pli,,
-43900,Sanskrit,sans1269,,san,,
-43950,Buddhist Hybrid Sanskrit,,,,,
-44100,Hindi,hind1269,,hin,,
-44300,Kumauni,kuma1273,,kfy,,
-44400,Marwari,marw1256,,mve,,
-44500,Old Awadhi,,,,,
-44600,Punjabi,panj1256,,pan,,
-44900,Romani (Arli),balk1252,,rmn,,
-45000,Romani (Bugurdži),,,,,
-45100,Romani (Crimean),,,,,
-45200,Romani (Kosovo Arli),balk1252,,rmn,,
-45300,Romani (Macedonian Arli),balk1252,,rmn,,
-45400,Romani (Sepečides),,,,,
-45500,Romani (Sofia Erli),balk1252,,rmn,,
-45600,Romani (Ursari),,,,,
-45800,Romani (East Slovak),,,,,
-45900,Romani (Gurvari),,,,,
-46000,Romani (Hungarian Vend),,,,,
-46100,Romani (Prekmurski),,,,,
-46200,Romani (Romungro),carp1235,,rmc,,
-46300,Romani (Veršend),,,,,
-46500,Angloromani,angl1239,,rme,,
-46600,Romani (Burgenland),,,,,
-46700,Romani (Kale),kalo1256,,rmf,,
-46800,Romani (Latvian),,,,,
-46900,Romani (Lithuanian),,,,,
-47000,Romani (North Russian),,,,,
-47100,Scandoromani,tavr1235,,rmu,,
-47200,Romani (Sinte),sint1235,,rmo,,
-47300,Romani (Welsh),wels1246,,rmw,,
-47500,Romani (Banatiski Gurbet),,,,,
-47600,Romani (Dolenjski),,,,,
-47700,Romani (Gurbet),,,,,
-47800,Romani (Kelderash),vlax1238,,rmy,,
-47900,Romani (Lovara),vlax1238,,rmy,,
-48000,Romani (Macedonian Džambazi),,,,,
-48100,Romani (Sremski Gurbet),,,,,
-48300,Assamese,assa1263,,asm,,
-48400,Bengali,beng1280,,ben,,
-48500,Maithili,mait1250,,mai,,
-48600,Oriya,oriy1255,,ory,,
-48800,Nepali,nepa1254,,npi,,
-49000,Kashmiri,kash1277,,kas,,
-49100,Khowar,khow1242,,khw,,
-49200,Lahnda,,,lah,,
-49300,Sindhi,sind1272,,snd,,
-49500,Maldivian,dhiv1236,,div,,
-49600,Sinhalese,sinh1246,,sin,,
-49800,Konkani,konk1267,,knn,,
-49900,Marathi,mara1378,,mar,,
-50000,Old Marathi,,,,,
-50200,Gujarati,guja1252,,guj,,
-50300,Old Gujarati,,,,,
-50500,Proto-Iranian,,,,,
-50700,Avestan,aves1237,,ave,,
-50750,Khotanese,khot1251,,kho,,
-50900,Ossetian (Iron),osse1243,,oss,,
-51000,Pashto,nucl1276,,pus,,
-51050,Shughni,shug1248,,sgh,,
-51100,Sogdian,sogd1245,,sog,,
-51150,Wakhi,wakh1245,,wbl,,
-51200,Yagnobi,yagn1238,,yai,,
-51400,Baluchi,,,bal,,
-51500,Gilaki,gila1241,,glk,,
-51700,Kurdish (Kurmanji),nort2641,,kmr,,
-51800,Kurdish (Sorani),cent1972,,ckb,,
-51900,Old Persian,oldp1254,,peo,,
-52000,Middle Persian,pahl1241,,pal,,
-52050,Parachi,para1299,,prc,,
-52100,Persian,,,per,,
-52200,Tajik,taji1245,,tgk,,
-52300,Talysh,taly1247,,tly,,
-52500,Ashkun,ashk1246,,ask,,
-52600,Kati,kati1270,,bsh,,
-52700,Prasun,pras1239,,prn,,
-52800,Tregami,treg1243,,trm,,
-52900,Waigali,waig1243,,wbk,,
-53000,Proto-Italic,,,,,
-53200,Catalan,stan1289,,cat,,
-53300,French,,,fre,,
-53400,Friulian,friu1240,,fur,,
-53500,Italian,ital1282,,ita,,
-53600,Ladin,ladi1250,,lld,,
-53650,Late Latin,,,,,
-53700,Latin,lati1261,,lat,,
-53800,Middle French,midd1316,,frm,,
-53850,Occitan,occi1239,,oci,,
-53900,Old French,oldf1239,,fro,,
-54000,Old Italian,,,,,
-54050,Old Portuguese,,,,,
-54100,Old Provençal,oldp1253,,pro,,
-54200,Old Spanish,olds1249,,osp,,
-54300,Portuguese,port1283,,por,,
-54350,Proto-Gallo-Romance,,,,,
-54400,Provençal,occi1239,,oci,,
-54500,Romanian,,,rum,,
-54600,Romansh,roma1326,,roh,,
-54700,Sardinian,,,srd,,
-54800,Spanish,stan1288,,spa,,
-54850,Vulgar Latin,,,,,
-54900,Walloon,wall1255,,wln,,
-55100,Oscan,osca1245,,osc,,
-55150,Umbrian,umbr1253,,xum,,
-55300,Proto-Tocharian,,,,,
-55400,Tocharian A,tokh1242,,xto,,
-55500,Tocharian B,tokh1243,,txb,,
-55550,Itonama,iton1250,,ito,,
-55650,Arikapú,arik1265,,ark,,
-55700,Jabutí,djeo1235,,jbt,,
-55900,Proto-Southern Jê,,,,,
-56000,Xokleng,xokl1240,,xok,,
-56500,Georgian,,,geo,,
-56550,Old Georgian,oldg1234,,oge,,
-56700,Svan,svan1243,,sva,,
-56900,Laz,lazz1240,,lzz,,
-57000,Megrelian,ming1252,,xmf,,
-57050,Kwaza,kwaz1243,,xwa,,
-57055,Leko,leco1242,,lec,,
-57060,Mosetén,mose1249,,cas,,
-57075,Movima,movi1243,,mzp,,
-57300,Mamaindé,mama1278,,wmd,,
-57400,Latundê,latu1238,,ltn,,
-57500,Sabané,saba1268,,sae,,
-57800,Batsbi,bats1242,,bbl,,
-57850,Chechen,chec1245,,che,,
-58100,Kryz,kryt1240,,kry,,
-58200,Lezgian,lezg1247,,lez,,
-58500,Khwarshi,khva1239,,khv,,
-58800,Abkhaz,abkh1244,,abk,,
-59000,Kabardian,kaba1278,,kbd,,
-59190,Chácobo,chac1251,,cao,,
-59300,Kashararí,kaxa1239,,ktx,,
-59500,Kashinawá,cash1254,,cbs,,
-59507,Cavineña,cavi1250,,cav,,
-59509,Old Chinese,oldc1244,,och,,
-59520,Stub PIE Swadesh,,,,,
-59900,Karitiâna,kari1311,,ktn,,
-60200,Aruá,arua1261,,arx,,
-60300,Cinta Larga,cint1239,,cin,,
-60400,Gavião do Jiparaná,gavi1246,,gvo,,
-60800,Suruí Paitér,suru1262,,sru,,
-61000,Puruborá,puru1264,,pur,,
-61200,Káro,karo1305,,arr,,
-61500,Makuráp,maku1278,,mpu,,
-61600,Mekéns,saki1248,,skf,,
-61700,Tuparí,tupa1250,,tpr,,
-61800,Wayoró,wayo1238,,wyr,,
-64600,Yuqui,yuqu1240,,yuq,,
-65500,Kamayurá,kama1373,,kay,,
-65700,Amondawa,amun1246,,adw,,
-66300,Uru-Eu-Wau-Wau,urue1240,,urz,,
-67750,Turkmen,turk1304,,tuk,,
-67760,Turkish,nucl1301,,tur,,
-67780,Kazakh,kaza1248,,kaz,,
-68000,Estonian,,,est,,
-68100,Finnish,finn1318,,fin,,
-68150,Northern Saami,nort2671,,sme,,
-68300,Hungarian,hung1274,,hun,,
-68400,Yurakaré,yura1255,,yuz,,
-68404,Proto-Indo-Iranian,,,,,
-68407,Medieval Latin,,,,,
-68409,Tibetan,tibe1272,,bod,,
-68410,Nuclear Burmese,nucl1310,,mya,,
-68411,Bodo (India),bodo1269,,brx,,
-68412,Pa'o Karen,paok1235,,blk,,
-68413,Jingpho,kach1280,,kac,,
-68414,Southern Qiang,sout2728,,qxs,,
-68415,Apatani,apat1240,,apt,,
-68416,Newari,newa1246,,new,,
-68417,Mandarin Chinese,mand1415,,cmn,,
-68418,Lepcha,lepc1244,,lep,,
-68419,Proto-Tibeto-Burman,,,,,
-68420,Proto-Kuki-Chin,,,,,
-68421,Proto-Lolo-Burmese,,,,,
-68422,Proto-Tani,,,,,
-68423,Middle Chinese,midd1344,,ltc,,
-68424,Proto-Sino-Tibetan,,,,,
-68425,Proto-Central-Naga,,,,,
-68426,Proto-Northern-Naga,,,,,
-68427,Proto-Lolish,,,,,
-68428,Proto-Tangkhulic,,,,,
-68430,Proto-Karenic,,,,,
-68431,Proto-Qiangic,,,,,
-68433,Standard Arabic,stan1318,,arb,,
-68441,Stub proto-form,,,,,
-68442,Stub Culture Indo-European,,,,,
-68445,Adyghe,adyg1241,,ady,,
-68446,Ingush,ingu1240,,inh,,
-68447,Udi,udii1243,,udi,,
-68448,Beshta,bezh1248,,kap,,
-68449,Khinalug,khin1240,,kjj,,
-68450,Budukh,budu1248,,bdk,,
-68455,Proto-Ibero-Romance,,,,,
-68457,Anglo-Norman,angl1258,,xno,,
-68458,Old Czech,,,,,
-68459,Proto-Brythonic,,,,,
-68462,Old Franconian,fran1264,,frk,,
-68463,Proto-Romance,,,,,
-68464,Proto-North-Germanic,,,,,
-68465,Proto-South-Slavic,,,,,
-68466,Abaza,abaz1241,,abq,,
-68467,Ubykh,ubyk1235,,uby,,
-68468,Avar,avar1256,,ava,,
-68469,Andi,andi1255,,ani,,
-68470,Lak,lakk1252,,lbe,,
-68471,Dargwa,darg1241,,dar,,
-68474,Ugaritic,ugar1238,,uga,,
-68475,Old Testament Hebrew,anci1244,,hbo,,
-68476,Gagauz,gaga1249,,gag,,
-68477,Crimean Tatar,crim1257,,crh,,
-68478,Kumyk,kumy1244,,kum,,
-68479,Tabasaran,taba1259,,tab,,
-68480,Aghul,aghu1253,,agx,,
-68481,Tsakhur,tsak1249,,tkr,,
-68482,Rutul,rutu1240,,rut,,
-68483,Azerbaijani,nort2697,,azj,,
-68484,Tuvan,tuvi1240,,tyv,,
-68485,Akkadian,akka1240,,akk,,
-68486,Old Gutnish,,,,,
-68489,Southern Altai,sout2694,,alt,,
-68495,Old Catalan,,,,,
-68496,Old Polish,,,,,
+ID,Name,Glottocode,Glottolog_Name,ISO639P3code,Macroarea,Family,time_frame,Longitude,Latitude
+100,Aikanã,aika1237,,tba,,,,-61.788401,-11.808008
+5200,Baure,baur1253,,brg,,,,-63.5258730788,-13.7604405528
+6800,Atayal (Ci'uli),atay1247,,tay,,,,121.135737,23.917063
+6900,Atayal (Squliq),atay1247,,tay,,,,121.205603,24.506825
+7050,Seediq,taro1264,,trv,,,,121.530659,24.151839
+7600,Bunun,bunu1267,,bnn,,,,120.829753,23.03953
+8200,Amis,amis1246,,ami,,,,121.531092,23.693252
+8500,Kuvalan,kava1241,,ckv,,,,121.910028,24.964816
+8700,Siraya,sira1267,,fos,,,,120.268611,22.941123
+9000,Bali,bali1278,,ban,,,,115.204781,-8.385356
+9500,Tukang Besi,tuka1249,,bhq,,,,123.9571,-5.760491
+9900,Uma,umaa1242,,ppk,,,,119.901433,-1.516005
+10600,Manggarai,mang1405,,mqy,,,,119.933716,-8.597801
+11600,Buru,buru1303,,mhs,,,,-3.489321,126.66412
+12600,Kambera,kamb1299,,xbr,,,,120.450471,-9.953635
+13200,Eastern Fijian,fiji1243,,fij,,,,178.431126,-17.988576
+13250,Hawaiian,hawa1245,,haw,,,,-160.135279,21.903317
+13300,Maori,maor1246,,mri,,,,178.171952,-37.731738
+13500,Rapanui,rapa1244,,rap,,,,-109.359173,-27.113549
+13700,Rotuman,rotu1241,,rtm,,,,177.0836,-12.503921
+13800,Samoan,samo1305,,smo,,,,-172.346564,-13.657383
+13900,Tahitian,tahi1242,,tah,,,,-151.428067,-16.845173
+14000,Tongan,tong1325,,ton,,,,-175.139869,-21.226113
+14100,Trukese,chuu1238,,chk,,,,151.61633,7.35606
+14600,Kiribati,gilb1244,,gil,,,,156.834499,-8.094695
+14800,Marshallese,mars1254,,mah,,,,171.381795,7.090212
+15100,Ponapean,pohn1238,,pon,,,,158.214085,6.893155
+16000,Cemuhî,cemu1238,,cam,,,,165.237854,-20.801125
+16060,Paama,paam1238,,pma,,,,168.235365,-16.460682
+16200,Irarutu,irar1238,,irh,,,,133.163332,-2.923085
+16250,Sawai,sawa1247,,szw,,,,127.940678,0.480578
+16400,A'jië,ajie1238,,aji,,,,165.752557,-21.367137
+18400,Kilivila,kili1267,,kij,,,,151.058855,-8.479039
+19400,Motu,motu1246,,meu,,,,147.29456,-9.49682
+20300,Lau,lauu1247,,llu,,,,160.796082,-8.385264
+20900,Chamorro,cham1312,,cha,,,,145.6174,15.056387
+21200,Malagasy (Merina),meri1243,,mlg,,,,47.562928,-18.876835
+21300,Ma'anyan,maan1238,,mhy,,,,115.827399,-2.61428
+21500,Javanese,java1254,,jav,,,,109.751026,-7.181816
+21700,Madurese,nucl1460,,mad,,,,114.187514,-7.745545
+21900,Acehnese,achi1257,,ace,,,,95.355341,5.590818
+22000,Cham (Hainan),west2650,,cja,,,,109.477321,18.282927
+22100,Chru,chru1239,,cje,,,,108.564966,11.756623
+22200,Indonesian,indo1316,,ind,,,,106.846225,-6.16417
+22700,Timugon,timu1262,,tih,,,,115.686312,5.342971
+22900,Batak Toba,bata1289,,bbc,,,,99.183037,2.304874
+23100,Agta,cent2084,,agt,,,,121.912626,18.029677
+23200,Casiguran Dumagat,casi1235,,dgc,,,,122.176298,16.508525
+23300,Aklanon,akla1241,,akl,,,,122.38998,11.622083
+23500,Pamplona (Atta),pamp1244,,att,,,,121.273,18.525544
+23600,Balangaw,bala1310,,blw,,,,121.12499,17.046989
+23800,Sama,bala1311,,sse,,,,116.753051,7.024136
+24000,Palawan,bata1301,,bya,,,,119.140877,10.211768
+24200,Koronadal,koro1310,,bpr,,,,125.146004,6.090326
+24400,Binukid,binu1244,,bkd,,,,124.767008,8.445478
+24425,Cebuano,cebu1242,,ceb,,,,124.971823,8.917579
+24450,Eastern Bontok,barl1240,,ebk,,,,121.077816,17.145296
+24600,Gaddang,gadd1244,,gad,,,,121.015812,16.460202
+24700,Gorontalo,goro1259,,gor,,,,122.447249,0.723093
+24800,Guinaang,lubu1243,,knb,,,,121.074187,17.445044
+25000,Amganad,amga1235,,ifa,,,,121.023268,16.853469
+25100,Batad,bata1298,,ifb,,,,121.229261,16.866004
+25150,lokano,ilok1237,,ilo,,,,120.457088,17.742714
+25300,Kakiduge:n,ilon1239,,ilk,,,,121.406505,16.204881
+25400,Inibaloi,ibal1244,,ibl,,,,120.624797,16.477679
+25500,Isnag,isna1241,,isd,,,,121.069292,18.300273
+25700,Binongan,bino1237,,itb,,,,120.871538,17.531942
+25900,Ivatan (Batanes Islands),ivat1242,,ivv,,,,121.953189,20.397989
+26000,Ivatan (Itbayaten),ivat1242,,ivv,,,,121.818607,20.75027
+26200,Kalagan,kala1388,,kqe,,,,125.656709,7.126208
+26400,Guinaang,lubu1243,,knb,,,,121.137574,17.423707
+26700,Kayapa Proper,ahin1234,,kak,,,,120.91333,16.26332
+26800,Keleyqiq,kele1259,,ify,,,,120.788402,16.649693
+27000,Kankanay (Northern),nort2877,,xnn,,,,120.618423,16.927014
+27100,Mamanwa,mama1275,,mmn,,,,125.56714,9.460415
+27300,Ata,atam1240,,atd,,,,125.401522,7.688796
+27400,Dibabawon,diba1242,,mbd,,,,125.99753,7.702405
+27500,Kalamansig Cotabato,cota1241,,mta,,,,124.062007,6.474727
+27600,Ilianen,ilia1236,,mbi,,,,124.761568,7.266697
+27700,Sarangani,sara1327,,mbs,,,,125.530611,5.834193
+27800,Tigwa,mati1250,,mbt,,,,125.088412,7.852077
+27900,Western Bukidnon,west2555,,mbb,,,,124.893404,7.702405
+28100,Mansaka,mans1262,,msk,,,,126.079928,7.220378
+28200,Maranao,mara1404,,mrw,,,,124.246154,7.976856
+28400,Botolan,boto1242,,sbl,,,,120.080063,15.202349
+28600,Sangir,sang1336,,sxn,,,,125.254175,1.462705
+28800,Siocon,west2557,,suc,,,,122.284201,7.752429
+29000,Sindangan,cent2089,,syb,,,,123.154868,8.269185
+29100,Tagabili,tbol1240,,tbl,,,,124.393576,6.23674
+29200,Tagalog,taga1270,,tgl,,,,120.980602,14.599609
+29400,Aborlan,tagb1258,,tbw,,,,119.038726,10.371602
+29500,Kalamian,cala1258,,tbk,,,,120.044823,12.096752
+29600,Tausug,taus1251,,tsg,,,,121.071698,6.025194
+29700,Yami,yami1254,,tao,,,,121.529609,22.056423
+29900,Bugis,bugi1244,,bug,,,,119.992254,-4.244649
+30300,Sundanese,sund1252,,sun,,,,107.561143,-6.713434
+30500,Pazeh,kulo1237,,uun,,,,120.92573,24.007941
+30700,Saisyat,sais1237,,xsy,,,,120.999401,24.600048
+30800,Taokas,babu1240,,bzg,,,,120.781019,24.569341
+31000,Paiwan,paiw1248,,pwn,,,,120.822459,22.515959
+31100,Paiwan (Makazayazaya),paiw1248,,pwn,,,,120.688606,22.680056
+31300,Puyuma,puyu1239,,pyu,,,,121.076695,22.857901
+31600,Puyuma (Rikavong),puyu1239,,pyu,,,,121.065755,22.774798
+31900,Rukai,ruka1240,,dru,,,,120.860472,22.744106
+32000,Rukai (Maga),ruka1240,,dru,,,,120.67555,22.898045
+32300,Rukai (Tona),ruka1240,,dru,,,,120.71795,22.910616
+32500,Kanakanabu,kana1286,,xnb,,,,120.803885,23.27469
+32600,Saaroa,saar1237,,sxr,,,,120.898642,23.316314
+32700,Tsou,tsou1248,,tsu,,,,120.855391,23.39812
+33000,Favorlang,babu1240,,bzg,,,,120.387091,23.886375
+33200,Thao,thao1240,,ssf,,,,120.935463,23.848729
+33900,Kuikúro-Kalapálo,kuik1246,,kui,,,,-52.131742,-8.944098
+33950,Cayubaba,cayu1262,,cyb,,,,-65.360661,-13.457824
+34400,Oro Eo,orow1243,,orw,,,,-64.692853,-10.804699
+34500,Oro Mon,orow1243,,orw,,,,-65.035394,-10.305172
+34600,Oro Nao,orow1243,,orw,,,,-64.692853,-10.804699
+34700,Oro Waram,orow1243,,orw,,,,-65.159897,-10.549145
+34800,Oro Waram Xijem,orow1243,,orw,,,,-65.02133,-10.535876
+34900,Oro Win,orow1243,,orw,,,,-64.0423,-10.747746
+34950,Wari',wari1268,,pav,,,,-65.275391,-11.143812
+35000,Conjubim,,,,,,,-64.167083,-12.242937
+35075,Chiquitano,chiq1248,,cax,,,,-60.524715,-17.329057
+35100,Proto-Indo-European,,,,,,,31.897499,47.688327
+35300,Albanian (Tosk),tosk1239,,als,,,,19.988251,40.446947
+35500,Hittite,hitt1242,,hit,,,,34.621158,40.013951
+35600,Luwian,cune1239,,xlu,,,,36.788273,36.620598
+35700,Lycian,lyci1241,,xlc,,,,29.318383,36.355961
+35800,Lydian,lydi1241,,xld,,,,28.040288,38.488284
+36000,Classical Armenian,clas1249,,xcl,,,,44.543638,39.939225
+36100,Modern Armenian,,,arm,,,,44.527159,40.147389
+36500,Latvian,latv1249,,lav,,,,24.113274,56.915
+36600,Lithuanian,lith1251,,lit,,,,25.255852,54.680183
+36625,Old Prussian,prus1238,,prg,,,,19.900799,54.436292
+37000,Russian,russ1263,,rus,,,,37.64843,55.677584
+37300,Bulgarian,bulg1262,,bul,,,,23.3535,42.698586
+37400,Croatian,croa1245,,hrv,,,,15.992661,45.813486
+37500,Serbian,serb1264,,srp,,,,20.472164,44.801327
+37700,Czech,,,cze,,,,14.468136,50.071244
+37800,Old Church Slavonic,chur1257,,chu,,,,22.871767,43.955965
+37900,Polish,poli1260,,pol,,,,20.994015,52.237892
+38200,Breton,bret1244,,bre,,,,-4.102864,47.995619
+38300,Cornish,corn1251,,cor,,,,-5.567517,50.191816
+38400,Middle Breton,,,xbm,,,,-1.532472,47.207854
+38600,Middle Welsh,,,wlm,,,,-3.380017,52.240359
+38700,Old Breton,,,obt,,,,-2.756737,47.657948
+38800,Old Cornish,,,oco,,,,-5.054844,50.263709
+38900,Old Welsh,oldw1239,,owl,,,,-4.087487,52.586497
+39000,Welsh,,,wel,,,,-4.38518,52.926407
+39200,Gaulish,tran1282,,xtg,,,,3.194284,43.973131
+39400,Irish,iris1253,,gle,,,,-9.301101,53.244432
+39500,Manx,manx1243,,glv,,,,-4.484657,54.151988
+39700,Old Irish,oldi1245,,sga,,,,-6.873827,53.726794
+39800,Scottish Gaelic,scot1245,,gla,,,,-7.368974,57.16276
+40100,Gothic,goth1244,,got,,,,20.199324,53.042874
+40300,Danish,dani1285,,dan,,,,12.583182,55.679885
+40400,Elfdalian,elfd1234,,ovd,,,,14.040485,61.225938
+40500,Faroese,faro1244,,fao,,,,-6.773322,62.009754
+40600,Icelandic,,,ice,,,,-21.939672,64.144237
+40800,Norwegian (Bokmål),norw1259,,nob,,,,10.740802,59.912785
+40900,Norwegian (Nynorsk),norw1262,,nno,,,,5.075361,60.330984
+41000,Old Norse,oldn1244,,non,,,,10.397522,63.426975
+41100,Old Swedish,,,,,,,16.321936,58.481083
+41200,Swedish,swed1254,,swe,,,,17.438718,59.73823
+41400,Dutch,dutc1256,,nld,,,,4.898126,52.374367
+41500,English,stan1293,,eng,,,,-0.100059,51.497728
+41600,Frisian,west2354,,fry,,,,5.795597,53.20394
+41700,German,,,ger,,,,13.409092,52.520822
+41800,Low German,nort2627,,nds,,,,9.488653,53.931994
+41900,Middle Dutch,midd1321,,dum,,,,5.959192,52.213073
+42000,Middle English,midd1317,,enm,,,,-0.758622,51.313607
+42100,Middle High German,midd1343,,gmh,,,,9.717403,48.742717
+42200,Middle Low German,midd1318,,gml,,,,10.68504,53.867783
+42400,Old English,olde1238,,ang,,,,-1.314163,51.060696
+42500,Old Frisian,oldf1241,,ofs,,,,6.567738,53.215696
+42600,Old High German,oldh1241,,goh,,,,9.962616,49.795477
+42700,Old Saxon,olds1250,,osx,,,,8.806043,53.07585
+42800,Swiss German,swis1247,,gsw,,,,8.538354,47.36888
+42825,Yiddish,east2295,,ydd,,,,20.148303,51.959579
+43000,Classical Greek,anci1242,,grc,,,,23.999205,37.696861
+43100,Middle Greek,anci1242,,grc,,,,28.997555,41.058644
+43200,Modern Greek,,,gre,,,,23.694334,38.028622
+43600,Prakrit,,,pra,,,,84.727979,25.379098
+43700,Pali,pali1273,,pli,,,,83.000379,27.617895
+43900,Sanskrit,sans1269,,san,,,,76.28612,23.511415
+44100,Hindi,hind1269,,hin,,,,80.335868,25.458226
+44300,Kumauni,kuma1273,,kfy,,,,80.031573,29.962744
+44400,Marwari,marw1256,,mve,,,,73.042305,26.290598
+44500,Old Awadhi,,,,,,,80.955201,26.852508
+44600,Punjabi,panj1256,,pan,,,,74.349411,31.536604
+44900,Romani (Arli),balk1252,,rmn,,,,19.881168,42.970349
+45000,Romani (Bugurdži),,,,,,,21.222651,42.118106
+45100,Romani (Crimean),,,,,,,40.194456,43.590558
+45200,Romani (Kosovo Arli),balk1252,,rmn,,,,20.960514,42.516912
+45300,Romani (Macedonian Arli),balk1252,,rmn,,,,21.452102,41.992304
+45400,Romani (Sepečides),,,,,,,27.131666,38.392804
+45500,Romani (Sofia Erli),balk1252,,rmn,,,,23.334084,42.696568
+45600,Romani (Ursari),ursa1238,,,,,,24.592698,46.085349
+45800,Romani (East Slovak),east2314,,,,,,15.255232,49.763272
+45900,Romani (Gurvari),,,,,,,20.059279,47.040238
+46000,Romani (Hungarian Vend),,,,,,,17.201586,46.233155
+46100,Romani (Prekmurski),,,,,,,15.356687,46.129708
+46200,Romani (Romungro),carp1235,,rmc,,,,18.546486,47.928582
+46300,Romani (Veršend),,,,,,,19.727951,46.346997
+46500,Angloromani,angl1239,,rme,,,,-2.355272,53.779521
+46600,Romani (Burgenland),,,,,,,16.377534,47.193164
+46700,Romani (Kale),kalo1256,,rmf,,,,21.470967,60.972087
+46800,Romani (Latvian),latv1250,,,,,,24.343824,56.308972
+46900,Romani (Lithuanian),lith1252,,,,,,22.082897,55.071324
+47000,Romani (North Russian),nort2655,,,,,,32.363493,54.002981
+47100,Scandoromani,tavr1235,,rmu,,,,13.158622,59.481307
+47200,Romani (Sinte),sint1235,,rmo,,,,10.203424,51.4992
+47300,Romani (Welsh),wels1246,,rmw,,,,-3.598538,52.033957
+47500,Romani (Banatiski Gurbet),,,,,,,20.263488,45.596361
+47600,Romani (Dolenjski),,,,,,,14.037737,45.958089
+47700,Romani (Gurbet),,,,,,,19.218989,43.781873
+47800,Romani (Kelderash),vlax1238,,rmy,,,,22.495093,47.187683
+47900,Romani (Lovara),vlax1238,,rmy,,,,23.090199,47.401544
+48000,Romani (Macedonian Džambazi),,,,,,,21.717456,42.131525
+48100,Romani (Sremski Gurbet),,,,,,,19.853655,45.59485
+48300,Assamese,assa1263,,asm,,,,91.79022,26.143538
+48400,Bengali,beng1280,,ben,,,,90.2792399,23.7805733
+48500,Maithili,mait1250,,mai,,,,86.155454,26.075397
+48600,Oriya,oriy1255,,ory,,,,86.278412,20.608549
+48800,Nepali,nepa1254,,npi,,,,85.338319,27.695645
+49000,Kashmiri,kash1277,,kas,,,,75.939182,34.322996
+49100,Khowar,khow1242,,khw,,,,72.51658,36.457958
+49200,Lahnda,,,lah,,,,72.507162,30.050444
+49300,Sindhi,sind1272,,snd,,,,69.674802,23.253479
+49500,Maldivian,dhiv1236,,div,,,,73.511939,4.17191
+49600,Sinhalese,sinh1246,,sin,,,,79.85635,6.935115
+49800,Konkani,konk1267,,knn,,,,74.873675,12.861391
+49900,Marathi,mara1378,,mar,,,,74.241441,16.697611
+50000,Old Marathi,,,,,,,75.494714,19.38701
+50200,Gujarati,guja1252,,guj,,,,72.139869,22.44456
+50300,Old Gujarati,,,,,,,72.139869,22.44456
+50700,Avestan,aves1237,,ave,,,,55.9499,31.70708
+50900,Ossetian (Iron),osse1243,,oss,,,,44.125389,42.739725
+51000,Pashto,nucl1276,,pus,,,,68.188804,31.432929
+51050,Shughni,shug1248,,sgh,,,,72.451504,37.695952
+51100,Sogdian,sogd1245,,sog,,,,66.962682,39.646576
+51150,Wakhi,wakh1245,,wbl,,,,72.760057,37.219477
+51200,Yagnobi,yagn1238,,yai,,,,69.053129,39.378064
+51400,Baluchi,,,bal,,,,65.03622,26.27794
+51500,Gilaki,gila1241,,glk,,,,50.875388,36.811621
+51700,Kurdish (Kurmanji),nort2641,,kmr,,,,43.822746,37.788081
+51800,Kurdish (Sorani),cent1972,,ckb,,,,45.728512,35.821161
+51900,Old Persian,oldp1254,,peo,,,,52.891196,29.935501
+52000,Middle Persian,pahl1241,,pal,,,,51.675883,32.647027
+52050,Parachi,para1299,,prc,,,,69.702595,34.832889
+52100,Persian,,,per,,,,55.748043,32.735314
+52200,Tajik,taji1245,,tgk,,,,70.342617,38.663458
+52300,Talysh,taly1247,,tly,,,,48.718777,37.549799
+52500,Ashkun,ashk1246,,ask,,,,70.63132,34.872462
+52600,Kati,kati1270,,bsh,,,,71.050871,35.210853
+52700,Prasun,pras1239,,prn,,,,70.741619,35.33661
+52800,Tregami,treg1243,,trm,,,,70.807995,35.090068
+52900,Waigali,waig1243,,wbk,,,,70.928386,35.085277
+53200,Catalan,stan1289,,cat,,,,2.179642,41.379225
+53300,French,,,fre,,,,2.347857,48.854451
+53400,Friulian,friu1240,,fur,,,,13.150281,46.124793
+53500,Italian,ital1282,,ita,,,,12.385145,43.115956
+53600,Ladin,ladi1250,,lld,,,,11.608699,46.706884
+53700,Latin,lati1261,,lat,,,,12.4923,41.890189
+53800,Middle French,midd1316,,frm,,,,2.347857,48.854451
+53900,Old French,oldf1239,,fro,,,,2.347857,48.854451
+54000,Old Italian,,,,,,,11.249249,43.776281
+54100,Old Provençal,oldp1253,,pro,,,,6.222519,43.426825
+54200,Old Spanish,olds1249,,osp,,,,-3.894,42.386
+54300,Portuguese,port1283,,por,,,,-9.135132,38.708043
+54400,Provençal,occi1239,,oci,,,,6.222519,43.426825
+54500,Romanian,,,rum,,,,26.086373,44.427511
+54600,Romansh,roma1326,,roh,,,,9.838341,46.496755
+54700,Sardinian,,,srd,,,,8.791873,40.552627
+54800,Spanish,stan1288,,spa,,,,-3.703482,40.416881
+54900,Walloon,wall1255,,wln,,,,4.865382,50.464478
+55400,Tocharian A,tokh1242,,xto,,,,86.154785,41.760336
+55500,Tocharian B,tokh1243,,txb,,,,81.514435,41.645502
+55550,Itonama,iton1250,,ito,,,,-64.44043,-12.670255
+55650,Arikapú,arik1265,,ark,,,,-64.132813,-12.230409
+55700,Jabutí,djeo1235,,jbt,,,,-62.817828,-11.962975
+55900,Proto-Southern Jê,,,,,,,-49.321967,-27.16847
+56000,Xokleng,xokl1240,,xok,,,,-49.321967,-27.16847
+56500,Georgian,,,geo,,,,44.824791,41.619549
+56550,Old Georgian,oldg1234,,oge,,,,44.708626,41.840144
+56700,Svan,svan1243,,sva,,,,42.523092,42.992369
+56900,Laz,lazz1240,,lzz,,,,41.569662,41.462154
+57000,Megrelian,ming1252,,xmf,,,,41.937332,42.373764
+57050,Kwaza,kwaz1243,,xwa,,,,-61.069223,-12.696804
+57055,Leko,leco1242,,lec,,,,-68.226131,-15.272974
+57060,Mosetén,mose1249,,cas,,,,-68.29861,-14.441231
+57075,Movima,movi1243,,mzp,,,,-65.672878,-14.164441
+57300,Mamaindé,mama1278,,wmd,,,,-59.321435,-13.496486
+57400,Latundê,latu1238,,ltn,,,,-60.76401,-12.73779
+57500,Sabané,saba1268,,sae,,,,-59.983981,-12.448295
+57800,Batsbi,bats1242,,bbl,,,,45.29342,42.039273
+58200,Lezgian,lezg1247,,lez,,,,48.038979,41.553811
+58800,Abkhaz,abkh1244,,abk,,,,41.017252,42.999497
+59190,Chácobo,chac1251,,cao,,,,-66.439941,-11.811339
+59300,Kashararí,kaxa1239,,ktx,,,,-66.003625,-9.396823
+59500,Kashinawá,cash1254,,cbs,,,,-71.393669,-10.026289
+59507,Cavineña,cavi1250,,cav,,,,-66.857422,-13.622401
+59520,Stub PIE Swadesh,,,,,,,31.897,47.688
+59900,Karitiâna,kari1311,,ktn,,,,-64.154967443,-9.407927435
+60200,Aruá,arua1261,,arx,,,,-62.6040978569999,-12.244936937
+60300,Cinta Larga,cint1239,,cin,,,,-60.903692689,-10.646928179
+60400,Gavião do Jiparaná,gavi1246,,gvo,,,,-61.724559092,-10.763661682
+60800,Suruí Paitér,suru1262,,sru,,,,-61.3329038689999,-11.140077654
+61000,Puruborá,puru1264,,pur,,,,-62.665842773,-11.713520358
+61200,Káro,karo1305,,arr,,,,-62.157940701,-9.465963089
+61500,Makuráp,maku1278,,mpu,,,,-63.4086221869999,-11.9271918209999
+61600,Mekéns,saki1248,,skf,,,,-62.116214315,-13.0828365889999
+61700,Tuparí,tupa1250,,tpr,,,,-61.6842978589999,-11.879184619
+61800,Wayoró,wayo1238,,wyr,,,,-62.7493008439999,-12.387635939
+64600,Yuqui,yuqu1240,,yuq,,,,-65.554156,-16.963692
+65500,Kamayurá,kama1373,,kay,,,,-53.300745001,-11.955425148
+65700,Amondawa,amun1246,,adw,,,,-63.049749,-11.044694
+66300,Uru-Eu-Wau-Wau,urue1240,,urz,,,,-63.87598,-11.097689
+68400,Yurakaré,yura1255,,yuz,,,,-66.0014,-16.622424
