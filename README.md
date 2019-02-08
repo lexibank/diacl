@@ -13,6 +13,11 @@ From [Diachronic Atlas of Comparative Linguistics (DiACL)—A database for ancie
 > An important additional resource of the database DiACL is constituted by basic vocabulary lists, consisting of a Swadesh 100-list, analysed by cognacy and with loans removed. Nearly all languages for Eurasia that are in the data set DiACL Typology/ Eurasia have complementary sets of basic vocabulary, with the exception of North-East and North-West Caucasian languages, for which cognacy analysis is not available. The basic vocabulary data set has been compiled according to the same basic principles as the typological set: we aim towards symmetry between extinct and contemporary languages (i.e., concerning polymorphism), and all data points are sourced in reliable literature. The basic vocabulary data set is a useful resource, for instance for testing typological against lexical change, or for establishing a lexical phylogenetic tree, against which gain and loss rates of typological data can be measured. The basic vocabulary data can be retrieved from the following URL: https://diacl.ht.lu.se/WordList/Index.
 
 
+## Derivation of "Swadesh" cognate sets
+
+FIXME
+
+
 
 ## Statistics
 
@@ -22,11 +27,11 @@ From [Diachronic Atlas of Comparative Linguistics (DiACL)—A database for ancie
 ![Concepticon: 100%](https://img.shields.io/badge/Concepticon-100%25-brightgreen.svg "Concepticon: 100%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
 
-- **Varieties:** 318
-- **Concepts:** 437
-- **Lexemes:** 40,537
-- **Synonymy:** 1.17
-- **Cognacy:** 22,754 cognates in 2,618 cognate sets
+- **Varieties:** 421
+- **Concepts:** 504
+- **Lexemes:** 59,326
+- **Synonymy:** 1.38
+- **Cognacy:** 39,177 cognates in 5,539 cognate sets
 - **Invalid lexemes:** 0
 - **Tokens:** 0
 - **Segments:** 0 (0 BIPA errors, 0 CTLS sound class errors, 0 CLTS modified)

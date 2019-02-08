@@ -3,17 +3,17 @@ ID,Name,Glottocode,Glottolog_Name,ISO639P3code,Macroarea,Family,time_frame,Longi
 24450,Eastern Bontok,barl1240,,ebk,,,,121.077816,17.145296
 35000,Conjubim,,,,,,,-64.167083,-12.242937
 35100,Proto-Indo-European,,,,,,,31.897499,47.688327
-36100,Modern Armenian,,,arm,,,,44.527159,40.147389
-37700,Czech,,,cze,,,,14.468136,50.071244
+36100,Modern Armenian,nucl1235,,hye,,,,44.527159,40.147389
+37700,Czech,czec1258,,ces,,,,14.468136,50.071244
 38400,Middle Breton,,,xbm,,,,-1.532472,47.207854
 38600,Middle Welsh,,,wlm,,,,-3.380017,52.240359
 38700,Old Breton,,,obt,,,,-2.756737,47.657948
 38800,Old Cornish,,,oco,,,,-5.054844,50.263709
-39000,Welsh,,,wel,,,,-4.38518,52.926407
-40600,Icelandic,,,ice,,,,-21.939672,64.144237
+39000,Welsh,wels1247,,cym,,,,-4.38518,52.926407
+40600,Icelandic,icel1247,,isl,,,,-21.939672,64.144237
 41100,Old Swedish,,,,,,,16.321936,58.481083
-41700,German,,,ger,,,,13.409092,52.520822
-43200,Modern Greek,,,gre,,,,23.694334,38.028622
+41700,German,stan1295,,deu,,,,13.409092,52.520822
+43200,Modern Greek,mode1248,,ell,,,,23.694334,38.028622
 43600,Prakrit,,,pra,,,,84.727979,25.379098
 44500,Old Awadhi,,,,,,,80.955201,26.852508
 45000,Romani (Bugurdži),,,,,,,21.222651,42.118106
@@ -39,10 +39,10 @@ ID,Name,Glottocode,Glottolog_Name,ISO639P3code,Macroarea,Family,time_frame,Longi
 50300,Old Gujarati,,,,,,,72.139869,22.44456
 51400,Baluchi,,,bal,,,,65.03622,26.27794
 52100,Persian,,,per,,,,55.748043,32.735314
-53300,French,,,fre,,,,2.347857,48.854451
+53300,French,stan1290,,fra,,,,2.347857,48.854451
 54000,Old Italian,,,,,,,11.249249,43.776281
-54500,Romanian,,,rum,,,,26.086373,44.427511
+54500,Romanian,roma1327,,ron,,,,26.086373,44.427511
 54700,Sardinian,,,srd,,,,8.791873,40.552627
 55900,Proto-Southern Jê,,,,,,,-49.321967,-27.16847
-56500,Georgian,,,geo,,,,44.824791,41.619549
+56500,Georgian,nucl1302,,kat,,,,44.824791,41.619549
 59520,Stub PIE Swadesh,,,,,,,31.897,47.688

@@ -23,7 +23,7 @@
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
-            "dc:extent": 40537,
+            "dc:extent": 59326,
             "tableSchema": {
                 "columns": [
                     {
@@ -88,6 +88,22 @@
                     {
                         "datatype": "string",
                         "name": "diacl_id"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "meaning"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "meaning_note"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "transliteration"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "ipa"
                     }
                 ],
                 "foreignKeys": [
@@ -122,7 +138,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#LanguageTable",
-            "dc:extent": 318,
+            "dc:extent": 421,
             "tableSchema": {
                 "columns": [
                     {
@@ -180,7 +196,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ParameterTable",
-            "dc:extent": 437,
+            "dc:extent": 504,
             "tableSchema": {
                 "columns": [
                     {
@@ -212,7 +228,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#CognateTable",
-            "dc:extent": 22754,
+            "dc:extent": 39180,
             "tableSchema": {
                 "columns": [
                     {

@@ -110,6 +110,7 @@ ID,Name,Glottocode,Glottolog_Name,ISO639P3code,Macroarea,Family,time_frame,Longi
 32700,Tsou,tsou1248,,tsu,,,,120.855391,23.39812
 33000,Favorlang,babu1240,,bzg,,,,120.387091,23.886375
 33200,Thao,thao1240,,ssf,,,,120.935463,23.848729
+33500,Basque (West),,,baq,,,,-2.681615,42.85901
 33900,Kuikúro-Kalapálo,kuik1246,,kui,,,,-52.131742,-8.944098
 33950,Cayubaba,cayu1262,,cyb,,,,-65.360661,-13.457824
 34400,Oro Eo,orow1243,,orw,,,,-64.692853,-10.804699
@@ -122,23 +123,32 @@ ID,Name,Glottocode,Glottolog_Name,ISO639P3code,Macroarea,Family,time_frame,Longi
 35000,Conjubim,,,,,,,-64.167083,-12.242937
 35075,Chiquitano,chiq1248,,cax,,,,-60.524715,-17.329057
 35100,Proto-Indo-European,,,,,,,31.897499,47.688327
+35200,Proto-Albanian,,,,,,,19.708944,41.692936
 35300,Albanian (Tosk),tosk1239,,als,,,,19.988251,40.446947
 35500,Hittite,hitt1242,,hit,,,,34.621158,40.013951
 35600,Luwian,cune1239,,xlu,,,,36.788273,36.620598
 35700,Lycian,lyci1241,,xlc,,,,29.318383,36.355961
 35800,Lydian,lydi1241,,xld,,,,28.040288,38.488284
+35900,Proto-Armenian,,,,,,,45.379026,40.287906
 36000,Classical Armenian,clas1249,,xcl,,,,44.543638,39.939225
-36100,Modern Armenian,,,arm,,,,44.527159,40.147389
+36100,Modern Armenian,nucl1235,,arm,,,,44.527159,40.147389
+36200,Proto-Balto-Slavic,,,,,,,23.122101,54.23095
 36500,Latvian,latv1249,,lav,,,,24.113274,56.915
 36600,Lithuanian,lith1251,,lit,,,,25.255852,54.680183
 36625,Old Prussian,prus1238,,prg,,,,19.900799,54.436292
+36700,Proto-Slavic,,,,,,,24.298095,51.027576
+36900,Old Russian,oldr1238,,orv,,,,31.275345,58.521428
 37000,Russian,russ1263,,rus,,,,37.64843,55.677584
+37100,Ukrainian,ukra1253,,ukr,,,,30.525414,50.449474
 37300,Bulgarian,bulg1262,,bul,,,,23.3535,42.698586
 37400,Croatian,croa1245,,hrv,,,,15.992661,45.813486
 37500,Serbian,serb1264,,srp,,,,20.472164,44.801327
-37700,Czech,,,cze,,,,14.468136,50.071244
+37525,Serbo-Croatian,,,,,,,17.992661,45.301327
+37550,Slovene,slov1268,,slv,,,,14.50823,46.050593
+37700,Czech,czec1258,,cze,,,,14.468136,50.071244
 37800,Old Church Slavonic,chur1257,,chu,,,,22.871767,43.955965
 37900,Polish,poli1260,,pol,,,,20.994015,52.237892
+38000,Proto-Celtic,,,,,,,8.697509,46.815099
 38200,Breton,bret1244,,bre,,,,-4.102864,47.995619
 38300,Cornish,corn1251,,cor,,,,-5.567517,50.191816
 38400,Middle Breton,,,xbm,,,,-1.532472,47.207854
@@ -146,26 +156,31 @@ ID,Name,Glottocode,Glottolog_Name,ISO639P3code,Macroarea,Family,time_frame,Longi
 38700,Old Breton,,,obt,,,,-2.756737,47.657948
 38800,Old Cornish,,,oco,,,,-5.054844,50.263709
 38900,Old Welsh,oldw1239,,owl,,,,-4.087487,52.586497
-39000,Welsh,,,wel,,,,-4.38518,52.926407
+39000,Welsh,wels1247,,wel,,,,-4.38518,52.926407
+39150,Celtiberian,celt1247,,xce,,,,-1.0239,41.506497
 39200,Gaulish,tran1282,,xtg,,,,3.194284,43.973131
 39400,Irish,iris1253,,gle,,,,-9.301101,53.244432
 39500,Manx,manx1243,,glv,,,,-4.484657,54.151988
+39600,Middle Irish,,,mga,,,,-8.634407,52.658918
 39700,Old Irish,oldi1245,,sga,,,,-6.873827,53.726794
 39800,Scottish Gaelic,scot1245,,gla,,,,-7.368974,57.16276
+39900,Proto-Germanic,,,,,,,9.927978,53.317749
 40100,Gothic,goth1244,,got,,,,20.199324,53.042874
 40300,Danish,dani1285,,dan,,,,12.583182,55.679885
 40400,Elfdalian,elfd1234,,ovd,,,,14.040485,61.225938
 40500,Faroese,faro1244,,fao,,,,-6.773322,62.009754
-40600,Icelandic,,,ice,,,,-21.939672,64.144237
+40600,Icelandic,icel1247,,ice,,,,-21.939672,64.144237
+40700,Norwegian,norw1258,,nor,,,,10.740802,59.912785
 40800,Norwegian (Bokmål),norw1259,,nob,,,,10.740802,59.912785
 40900,Norwegian (Nynorsk),norw1262,,nno,,,,5.075361,60.330984
+40950,Old Danish,,,,,,,12.583182,55.679885
 41000,Old Norse,oldn1244,,non,,,,10.397522,63.426975
 41100,Old Swedish,,,,,,,16.321936,58.481083
 41200,Swedish,swed1254,,swe,,,,17.438718,59.73823
 41400,Dutch,dutc1256,,nld,,,,4.898126,52.374367
 41500,English,stan1293,,eng,,,,-0.100059,51.497728
 41600,Frisian,west2354,,fry,,,,5.795597,53.20394
-41700,German,,,ger,,,,13.409092,52.520822
+41700,German,stan1295,,ger,,,,13.409092,52.520822
 41800,Low German,nort2627,,nds,,,,9.488653,53.931994
 41900,Middle Dutch,midd1321,,dum,,,,5.959192,52.213073
 42000,Middle English,midd1317,,enm,,,,-0.758622,51.313607
@@ -179,10 +194,12 @@ ID,Name,Glottocode,Glottolog_Name,ISO639P3code,Macroarea,Family,time_frame,Longi
 42825,Yiddish,east2295,,ydd,,,,20.148303,51.959579
 43000,Classical Greek,anci1242,,grc,,,,23.999205,37.696861
 43100,Middle Greek,anci1242,,grc,,,,28.997555,41.058644
-43200,Modern Greek,,,gre,,,,23.694334,38.028622
+43200,Modern Greek,mode1248,,gre,,,,23.694334,38.028622
+43400,Proto-Indo-Aryan,,,,,,,74.670604,29.322264
 43600,Prakrit,,,pra,,,,84.727979,25.379098
 43700,Pali,pali1273,,pli,,,,83.000379,27.617895
 43900,Sanskrit,sans1269,,san,,,,76.28612,23.511415
+43950,Buddhist Hybrid Sanskrit,,,,,,,76.28612,23.511415
 44100,Hindi,hind1269,,hin,,,,80.335868,25.458226
 44300,Kumauni,kuma1273,,kfy,,,,80.031573,29.962744
 44400,Marwari,marw1256,,mve,,,,73.042305,26.290598
@@ -234,7 +251,9 @@ ID,Name,Glottocode,Glottolog_Name,ISO639P3code,Macroarea,Family,time_frame,Longi
 50000,Old Marathi,,,,,,,75.494714,19.38701
 50200,Gujarati,guja1252,,guj,,,,72.139869,22.44456
 50300,Old Gujarati,,,,,,,72.139869,22.44456
+50500,Proto-Iranian,,,,,,,42.063181,40.193507
 50700,Avestan,aves1237,,ave,,,,55.9499,31.70708
+50750,Khotanese,khot1251,,kho,,,,79.04449,38.329467
 50900,Ossetian (Iron),osse1243,,oss,,,,44.125389,42.739725
 51000,Pashto,nucl1276,,pus,,,,68.188804,31.432929
 51050,Shughni,shug1248,,sgh,,,,72.451504,37.695952
@@ -256,24 +275,33 @@ ID,Name,Glottocode,Glottolog_Name,ISO639P3code,Macroarea,Family,time_frame,Longi
 52700,Prasun,pras1239,,prn,,,,70.741619,35.33661
 52800,Tregami,treg1243,,trm,,,,70.807995,35.090068
 52900,Waigali,waig1243,,wbk,,,,70.928386,35.085277
+53000,Proto-Italic,,,,,,,14.542236,46.362093
 53200,Catalan,stan1289,,cat,,,,2.179642,41.379225
-53300,French,,,fre,,,,2.347857,48.854451
+53300,French,stan1290,,fre,,,,2.347857,48.854451
 53400,Friulian,friu1240,,fur,,,,13.150281,46.124793
 53500,Italian,ital1282,,ita,,,,12.385145,43.115956
 53600,Ladin,ladi1250,,lld,,,,11.608699,46.706884
+53650,Late Latin,,,,,,,12.560382,42.260942
 53700,Latin,lati1261,,lat,,,,12.4923,41.890189
 53800,Middle French,midd1316,,frm,,,,2.347857,48.854451
+53850,Occitan,occi1239,,oci,,,,2.507338,43.747853
 53900,Old French,oldf1239,,fro,,,,2.347857,48.854451
 54000,Old Italian,,,,,,,11.249249,43.776281
+54050,Old Portuguese,,,,,,,-8.629141,41.15818
 54100,Old Provençal,oldp1253,,pro,,,,6.222519,43.426825
 54200,Old Spanish,olds1249,,osp,,,,-3.894,42.386
 54300,Portuguese,port1283,,por,,,,-9.135132,38.708043
+54350,Proto-Gallo-Romance,,,,,,,2.650625,47.033581
 54400,Provençal,occi1239,,oci,,,,6.222519,43.426825
-54500,Romanian,,,rum,,,,26.086373,44.427511
+54500,Romanian,roma1327,,rum,,,,26.086373,44.427511
 54600,Romansh,roma1326,,roh,,,,9.838341,46.496755
 54700,Sardinian,,,srd,,,,8.791873,40.552627
 54800,Spanish,stan1288,,spa,,,,-3.703482,40.416881
+54850,Vulgar Latin,,,,,,,12.615314,42.561066
 54900,Walloon,wall1255,,wln,,,,4.865382,50.464478
+55100,Oscan,osca1245,,osc,,,,15.154865,41.071559
+55150,Umbrian,umbr1253,,xum,,,,12.592088,43.354099
+55300,Proto-Tocharian,,,,,,,81.107941,41.101381
 55400,Tocharian A,tokh1242,,xto,,,,86.154785,41.760336
 55500,Tocharian B,tokh1243,,txb,,,,81.514435,41.645502
 55550,Itonama,iton1250,,ito,,,,-64.44043,-12.670255
@@ -281,7 +309,7 @@ ID,Name,Glottocode,Glottolog_Name,ISO639P3code,Macroarea,Family,time_frame,Longi
 55700,Jabutí,djeo1235,,jbt,,,,-62.817828,-11.962975
 55900,Proto-Southern Jê,,,,,,,-49.321967,-27.16847
 56000,Xokleng,xokl1240,,xok,,,,-49.321967,-27.16847
-56500,Georgian,,,geo,,,,44.824791,41.619549
+56500,Georgian,nucl1302,,geo,,,,44.824791,41.619549
 56550,Old Georgian,oldg1234,,oge,,,,44.708626,41.840144
 56700,Svan,svan1243,,sva,,,,42.523092,42.992369
 56900,Laz,lazz1240,,lzz,,,,41.569662,41.462154
@@ -294,12 +322,17 @@ ID,Name,Glottocode,Glottolog_Name,ISO639P3code,Macroarea,Family,time_frame,Longi
 57400,Latundê,latu1238,,ltn,,,,-60.76401,-12.73779
 57500,Sabané,saba1268,,sae,,,,-59.983981,-12.448295
 57800,Batsbi,bats1242,,bbl,,,,45.29342,42.039273
+57850,Chechen,chec1245,,che,,,,45.685017,43.315979
+58100,Kryz,kryt1240,,kry,,,,48.191748,41.180749
 58200,Lezgian,lezg1247,,lez,,,,48.038979,41.553811
+58500,Khwarshi,khva1239,,khv,,,,46.05035,42.377659
 58800,Abkhaz,abkh1244,,abk,,,,41.017252,42.999497
+59000,Kabardian,kaba1278,,kbd,,,,43.603923,43.484037
 59190,Chácobo,chac1251,,cao,,,,-66.439941,-11.811339
 59300,Kashararí,kaxa1239,,ktx,,,,-66.003625,-9.396823
 59500,Kashinawá,cash1254,,cbs,,,,-71.393669,-10.026289
 59507,Cavineña,cavi1250,,cav,,,,-66.857422,-13.622401
+59509,Old Chinese,oldc1244,,och,,,,114.363827,35.962789
 59520,Stub PIE Swadesh,,,,,,,31.897,47.688
 59900,Karitiâna,kari1311,,ktn,,,,-64.154967443,-9.407927435
 60200,Aruá,arua1261,,arx,,,,-62.6040978569999,-12.244936937
@@ -316,4 +349,74 @@ ID,Name,Glottocode,Glottolog_Name,ISO639P3code,Macroarea,Family,time_frame,Longi
 65500,Kamayurá,kama1373,,kay,,,,-53.300745001,-11.955425148
 65700,Amondawa,amun1246,,adw,,,,-63.049749,-11.044694
 66300,Uru-Eu-Wau-Wau,urue1240,,urz,,,,-63.87598,-11.097689
+67750,Turkmen,turk1304,,tuk,,,,58.388708,37.939486
+67760,Turkish,nucl1301,,tur,,,,32.857539,39.926806
+67780,Kazakh,kaza1248,,kaz,,,,71.460067,51.157374
+68000,Estonian,,,est,,,,24.753907,59.436958
+68100,Finnish,finn1318,,fin,,,,24.941099,60.173335
+68150,Northern Saami,nort2671,,sme,,,,20.272909,69.418231
+68300,Hungarian,hung1274,,hun,,,,19.040247,47.497865
 68400,Yurakaré,yura1255,,yuz,,,,-66.0014,-16.622424
+68404,Proto-Indo-Iranian,,,,,,,62,45
+68407,Medieval Latin,,,,,,,12.615,42.561
+68409,Tibetan,tibe1272,,bod,,,,90.11,28.22
+68410,Nuclear Burmese,nucl1310,,mya,,,,93.58,20.48
+68411,Bodo (India),bodo1269,,brx,,,,89.2,26.44
+68412,Pa'o Karen,paok1235,,blk,,,,97.36,20.13
+68413,Jingpho,kach1280,,kac,,,,97.2,25.28
+68414,Southern Qiang,sout2728,,qxs,,,,103.23,31.32
+68415,Apatani,apat1240,,apt,,,,93.44,27.12
+68416,Newari,newa1246,,new,,,,84.57,27.16
+68417,Mandarin Chinese,mand1415,,cmn,,,,116.14,40.01
+68418,Lepcha,lepc1244,,lep,,,,88.34,27.05
+68419,Proto-Tibeto-Burman,,,,,,,90,28
+68420,Proto-Kuki-Chin,,,,,,,93,27
+68421,Proto-Lolo-Burmese,,,,,,,93,20
+68422,Proto-Tani,,,,,,,93,27
+68423,Middle Chinese,midd1344,,ltc,,,,116,40
+68424,Proto-Sino-Tibetan,,,,,,,98,26
+68425,Proto-Central-Naga,,,,,,,94,25
+68426,Proto-Northern-Naga,,,,,,,95,27
+68427,Proto-Lolish,,,,,,,101,24
+68428,Proto-Tangkhulic,,,,,,,94,25
+68430,Proto-Karenic,,,,,,,97,18
+68431,Proto-Qiangic,,,,,,,103,31
+68433,Standard Arabic,stan1318,,arb,,,,43,27
+68441,Stub proto-form,,,,,,,22.347415,47.644448
+68442,Stub Culture Indo-European,,,,,,,31.897499,47.688327
+68445,Adyghe,adyg1241,,ady,,,,39.420799,44.018006
+68446,Ingush,ingu1240,,inh,,,,44.750595,43.467736
+68447,Udi,udii1243,,udi,,,,47.651941,41.014877
+68448,Beshta,bezh1248,,kap,,,,46.053,42.129
+68449,Khinalug,khin1240,,kjj,,,,48.127456,41.175584
+68450,Budukh,budu1248,,bdk,,,,48.371,41.18169
+68455,Proto-Ibero-Romance,,,,,,,-3.896,42.64
+68457,Anglo-Norman,angl1258,,xno,,,,-1.501,52.727
+68458,Old Czech,,,,,,,14.468,50.071
+68459,Proto-Brythonic,,,,,,,-2.946,52.504
+68462,Old Franconian,fran1264,,frk,,,,9.98,52.9
+68463,Proto-Romance,,,,,,,10.407,45.239
+68464,Proto-North-Germanic,,,,,,,9.007021,55.262462
+68465,Proto-South-Slavic,,,,,,,22.872,43.956
+68466,Abaza,abaz1241,,abq,,,,42.028739,44.154438
+68467,Ubykh,ubyk1235,,uby,,,,39.67,43.67
+68468,Avar,avar1256,,ava,,,,46.56,41.7
+68469,Andi,andi1255,,ani,,,,46.29,42.81
+68470,Lak,lakk1252,,lbe,,,,47.08,42.13
+68471,Dargwa,darg1241,,dar,,,,47.44,42.43
+68474,Ugaritic,ugar1238,,uga,,,,35.785,35.61
+68475,Old Testament Hebrew,anci1244,,hbo,,,,35.219,31.767
+68476,Gagauz,gaga1249,,gag,,,,28.793871,46.213149
+68477,Crimean Tatar,crim1257,,crh,,,,34.08,45
+68478,Kumyk,kumy1244,,kum,,,,47.373272,43.718021
+68479,Tabasaran,taba1259,,tab,,,,47.84,42.02
+68480,Aghul,aghu1253,,agx,,,,47.58,41.92
+68481,Tsakhur,tsak1249,,tkr,,,,46.89,41.59
+68482,Rutul,rutu1240,,rut,,,,47.32,41.62
+68483,Azerbaijani,nort2697,,azj,,,,46.47,40.98
+68484,Tuvan,tuvi1240,,tyv,,,,92.443734,51.336061
+68485,Akkadian,akka1240,,akk,,,,44.421,32.536
+68486,Old Gutnish,,,,,,,18.55,57.5
+68489,Southern Altai,sout2694,,alt,,,,86.771111,51.796438
+68495,Old Catalan,,,,,,,2.18,41.379
+68496,Old Polish,,,,,,,20.994,52.238
