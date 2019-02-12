@@ -270,6 +270,11 @@ class Dataset(BaseDataset):
                         meaning=lex['meaning'],
                         meaning_note=lex['meaning_note'],
                     ):
+                        pass
+                        #
+                        # FIXME: We leave cognates out for a first release. These should be
+                        # considerably more complete some time in 2019.
+                        #
                         for csid in lex_to_cogid.get((lid, frozenset([cid])), []):
                             ds.add_cognate(lexeme=l, Cognateset_ID=csid, diacl_lexeme_id=lid)
 

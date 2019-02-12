@@ -31,7 +31,7 @@ FIXME
 - **Concepts:** 504
 - **Lexemes:** 59,326
 - **Synonymy:** 1.38
-- **Cognacy:** 39,177 cognates in 5,539 cognate sets
+- **Cognacy:** 39,393 cognates in 5,565 cognate sets
 - **Invalid lexemes:** 0
 - **Tokens:** 0
 - **Segments:** 0 (0 BIPA errors, 0 CTLS sound class errors, 0 CLTS modified)
