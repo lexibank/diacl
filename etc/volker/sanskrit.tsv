@@ -1,0 +1,534 @@
+DIACL_ID	CHECKED	COMMENT	CONCEPT	CONCEPT_ID	CORRECT	DIACL_ID	ENGLISH	FORM	GLOTTOCODE	LANGUAGE	LATITUDE	LONGITUDE	PROBLEM
+43900-1001-1	F		ALL	98		28163	all (of a number)	sarva-	sans1269	Sanskrit	20	77	
+43900-1001-2	T		ALL	98	T	28164	all (of a number)	sama-	sans1269	Sanskrit	20	77	
+43900-1001-3	F		ALL	98		28165	all (of a number)	viśva-	sans1269	Sanskrit	20	77	
+43900-1002-1	F		ASH	646		28166	ash(es)	āsa-	sans1269	Sanskrit	20	77	
+43900-1002-2	F		ASH	646		28167	ash(es)	bhasman-	sans1269	Sanskrit	20	77	
+43900-1002-3	F		ASH	646		28168	ash(es)	rakṣā-	sans1269	Sanskrit	20	77	
+43900-1003-1	F		BARK	1204		28169	bark (of tree)	cárman-	sans1269	Sanskrit	20	77	
+43900-1003-2	F		BARK	1204		28170	bark (of tree)	tvác-	sans1269	Sanskrit	20	77	
+43900-1003-3	F		BARK	1204		28171	bark (of tree)	challi-	sans1269	Sanskrit	20	77	
+43900-1003-4	F		BARK	1204		28172	bark (of tree)	valká-, valkala-	sans1269	Sanskrit	20	77	
+43900-1004-1	F		BELLY OR STOMACH	2114		28173	belly (abdomen, stomach)	jaṭhara-	sans1269	Sanskrit	20	77	
+43900-1004-2	F		BELLY OR STOMACH	2114		28174	belly (abdomen, stomach)	udara-	sans1269	Sanskrit	20	77	
+43900-1004-3	T		BELLY OR STOMACH	2114	T	28175	belly (abdomen, stomach)	kukṣí-	sans1269	Sanskrit	20	77	
+43900-1005-1	F		BIG	1202		28176	big	mahānt-, mah-	sans1269	Sanskrit	20	77	
+43900-1005-2	F		BIG	1202		28177	big	vaḍra-	sans1269	Sanskrit	20	77	
+43900-1005-3	F		BIG	1202		28178	big	sthūlá-	sans1269	Sanskrit	20	77	
+43900-1006-1	F		BIRD	937		28179	bird	pakṣin-	sans1269	Sanskrit	20	77	
+43900-1006-2	F		BIRD	937		28180	bird	vi-	sans1269	Sanskrit	20	77	
+43900-1007-1	T		BITE	1403	T	28181	to bite	*ḍakk-, *ḍaṅk, *ḍaṅkh-, *daṅk-	sans1269	Sanskrit	20	77	
+43900-1007-2	F		BITE	1403		28182	to bite	daṁś-	sans1269	Sanskrit	20	77	
+43900-1008-1	F		BLACK OR DARK	2633		28183	black (colour)	śyāma-	sans1269	Sanskrit	20	77	
+43900-1008-2	F		BLACK OR DARK	2633		28184	black (colour)	kṛṣṇa-	sans1269	Sanskrit	20	77	
+43900-1008-3	F		BLACK OR DARK	2633		28185	black (colour)	kāla-	sans1269	Sanskrit	20	77	
+43900-1008-4	F		BLACK OR DARK	2633		28186	black (colour)	ásita-	sans1269	Sanskrit	20	77	
+43900-1008-5	T		BLACK OR DARK	2633	T	28187	black (colour)	nīla-	sans1269	Sanskrit	20	77	
+43900-1009-1	F		BLOOD	946		28188	blood (n)	rudhira-	sans1269	Sanskrit	20	77	
+43900-1009-2	F		BLOOD	946		28189	blood (n)	ásr̥k-, asnás	sans1269	Sanskrit	20	77	
+43900-1009-3	F		BLOOD	946		28190	blood (n)	lohita-	sans1269	Sanskrit	20	77	
+43900-1009-4	F		BLOOD	946		28191	blood (n)	śōṇita-	sans1269	Sanskrit	20	77	
+43900-1010-1	T		BONE	1394	T	28192	bone	aṣṭhi-, asthi-	sans1269	Sanskrit	20	77	
+43900-1010-2	F		BONE	1394		28193	bone	haḍḍa-	sans1269	Sanskrit	20	77	
+43900-1011-1	F		BREAST	1402		28194	breast	stana-	sans1269	Sanskrit	20	77	
+43900-1011-2	F		BREAST	1402		28195	breast	kuca-	sans1269	Sanskrit	20	77	
+43900-1011-3	T		BREAST	1402	T	28196	breast	úras-	sans1269	Sanskrit	20	77	
+43900-1011-4	F		BREAST	1402		28197	breast	vákṣas-	sans1269	Sanskrit	20	77	
+43900-1011-5	F		BREAST	1402		28198	breast	krōḍá-	sans1269	Sanskrit	20	77	
+43900-1012-1	F		BURNING	1428		28199	to burn (intr.)	dah	sans1269	Sanskrit	20	77	
+43900-1012-2	F		BURNING	1428		28200	to burn (intr.)	oṣ-	sans1269	Sanskrit	20	77	
+43900-1014-1	T		CLOUD	1489	T	28201	cloud (not fog)	abhra-	sans1269	Sanskrit	20	77	
+43900-1014-2	F		CLOUD	1489		28202	cloud (not fog)	ghana-	sans1269	Sanskrit	20	77	
+43900-1014-3	F		CLOUD	1489		28203	cloud (not fog)	meghá-	sans1269	Sanskrit	20	77	
+43900-1014-4	F		CLOUD	1489		28204	cloud (not fog)	nábhas-	sans1269	Sanskrit	20	77	
+43900-1015-1	F		COLD (OF WEATHER)	2483		28205	cold (of weather)	śītá-	sans1269	Sanskrit	20	77	
+43900-1015-2	F		COLD (OF WEATHER)	2483		28206	cold (of weather)	śiśira-	sans1269	Sanskrit	20	77	
+43900-1016-1	F		COME	1446		28207	to come	ā-gam-	sans1269	Sanskrit	20	77	
+43900-1016-2	T		COME	1446	T	28208	to come	(ā)i-	sans1269	Sanskrit	20	77	
+43900-1016-3	F		COME	1446		28209	to come	ā́yāti	sans1269	Sanskrit	20	77	
+43900-1017-1	F		DIE	1494		28210	to die	mṛ-, mṛta-, mṛti-, maraṇa-, mrṭyu-	sans1269	Sanskrit	20	77	
+43900-1018-1	T		DOG	2009	T	28211	dog	śván-, śuna-	sans1269	Sanskrit	20	77	
+43900-3021-1	T		DOG	2009	T	28211	dog	śván-, śuna-	sans1269	Sanskrit	20	77	
+43900-1018-2	F		DOG	2009		28212	dog	bhaluha-	sans1269	Sanskrit	20	77	
+43900-1018-3	F		DOG	2009		28213	dog	kurkurá-	sans1269	Sanskrit	20	77	
+43900-1019-1	F		DRINK	1401		28214	to drink	pā-, píbati	sans1269	Sanskrit	20	77	
+43900-1020-1	F		DRY	1398		28215	dry (adj)	śúṣka-	sans1269	Sanskrit	20	77	
+43900-1021-1	F		EAR	1247		28216	ear	kárṇa-	sans1269	Sanskrit	20	77	
+43900-1022-1	F		EARTH (SOIL)	1228		28217	earth (soil, ground)	bhū-, bhūmi-	sans1269	Sanskrit	20	77	
+43900-1022-2	F		EARTH (SOIL)	1228		28218	earth (soil, ground)	pṛthivi-	sans1269	Sanskrit	20	77	
+43900-1022-3	F		EARTH (SOIL)	1228		28219	earth (soil, ground)	mahī-	sans1269	Sanskrit	20	77	
+43900-1022-4	F		EARTH (SOIL)	1228		28220	earth (soil, ground)	kṣam	sans1269	Sanskrit	20	77	
+43900-1023-1	T		EAT	1336	T	28221	to eat	ad-	sans1269	Sanskrit	20	77	
+43900-1023-2	F		EAT	1336		28222	to eat	ghas-	sans1269	Sanskrit	20	77	
+43900-1023-3	T		EAT	1336	T	28223	to eat	aś-	sans1269	Sanskrit	20	77	
+43900-3011-1	F		BOW	994		28224	bow	bhuj-	sans1269	Sanskrit	20	77	
+43900-1023-4	F		EAT	1336		28224	to eat	bhuj-	sans1269	Sanskrit	20	77	
+43900-1023-5	F		EAT	1336		28225	to eat	khā́dati	sans1269	Sanskrit	20	77	
+43900-1024-1	F		EGG	744		28226	egg	āṇḍá-	sans1269	Sanskrit	20	77	
+43900-1024-2	F		EGG	744		28227	egg	ḍimba-	sans1269	Sanskrit	20	77	
+43900-1025-1	T		EYE	1248	T	28228	eye	akṣi-	sans1269	Sanskrit	20	77	
+43900-1025-2	F		EYE	1248		28229	eye	locana-	sans1269	Sanskrit	20	77	
+43900-1025-3	F		EYE	1248		28230	eye	netra-	sans1269	Sanskrit	20	77	
+43900-1026-1	F		FAT (ORGANIC SUBSTANCE)	323		28231	fat (organic substance)	pīvra-	sans1269	Sanskrit	20	77	
+43900-1026-2	F		FAT (ORGANIC SUBSTANCE)	323		28232	fat (organic substance)	medas-	sans1269	Sanskrit	20	77	
+43900-1026-3	F		FAT (ORGANIC SUBSTANCE)	323		28233	fat (organic substance)	vásā-	sans1269	Sanskrit	20	77	
+43900-1026-4	F		FAT (ORGANIC SUBSTANCE)	323		28234	fat (organic substance)	ā́ñjana-	sans1269	Sanskrit	20	77	
+43900-1027-1	F		FEATHER	1201		28235	feather (not down)	pattra-	sans1269	Sanskrit	20	77	
+43900-1027-2	F		FEATHER	1201		28236	feather (not down)	pakṣa-	sans1269	Sanskrit	20	77	
+43900-1013-1	F		FINGERNAIL	1258		28237	fingernail	nakha-	sans1269	Sanskrit	20	77	
+43900-1028-1	T		FIRE	221	T	28238	fire	anala-	sans1269	Sanskrit	20	77	
+43900-1028-2	T		FIRE	221	T	28239	fire	agni-	sans1269	Sanskrit	20	77	
+43900-1029-1	F		FISH	227		28240	fish (n)	matsya-	sans1269	Sanskrit	20	77	
+43900-1030-1	F		FLY (MOVE THROUGH AIR)	1441		28241	to fly	pat-	sans1269	Sanskrit	20	77	
+43900-1030-2	T		FLY (MOVE THROUGH AIR)	1441	T	28242	to fly	*uddrāti-, uḍḍīyatē	sans1269	Sanskrit	20	77	
+43900-1031-1	F		FOOT	1301		28243	foot (not leg)	pad-	sans1269	Sanskrit	20	77	
+43900-1031-2	F		FOOT	1301		28244	foot (not leg)	caraṇa-	sans1269	Sanskrit	20	77	
+43900-1032-1	F		FULL	1429		28245	full	pūrṇa-	sans1269	Sanskrit	20	77	
+43900-3022-1	F		DONKEY	1862		34253	donkey	rā-	sans1269	Sanskrit	20	77	
+43900-1033-1	F		GIVE	1447		34253	to give	rā-	sans1269	Sanskrit	20	77	
+43900-1033-2	F		GIVE	1447		34254	to give	dā-	sans1269	Sanskrit	20	77	
+43900-1034-1	F		GOOD	1035		34255	good	sādhu-	sans1269	Sanskrit	20	77	
+43900-1034-2	F		GOOD	1035		34256	good	vasu-	sans1269	Sanskrit	20	77	
+43900-1034-3	T		GOOD	1035	T	34257	good	bhadra-	sans1269	Sanskrit	20	77	
+43900-1034-4	F		GOOD	1035		34258	good	su-	sans1269	Sanskrit	20	77	
+43900-1034-5	F		GOOD	1035		34259	good	śubha-	sans1269	Sanskrit	20	77	
+43900-1035-1	F		GREEN	1425		34260	green (colour)	hárita-, hári-	sans1269	Sanskrit	20	77	
+43900-1035-2	F		GREEN	1425		34261	green (colour)	pālāśa-	sans1269	Sanskrit	20	77	
+43900-1036-1	F		HAIR (HEAD)	2648		34262	hair (of head)	kéśa-	sans1269	Sanskrit	20	77	
+43900-1036-2	F		HAIR (HEAD)	2648		34263	hair (of head)	śiroruh-	sans1269	Sanskrit	20	77	
+43900-1037-1	F		LEFT	244		34264	hand (not arm)	hasta-	sans1269	Sanskrit	20	77	
+43900-1037-2	F		LEFT	244		34265	hand (not arm)	kará-	sans1269	Sanskrit	20	77	
+43900-1037-3	F		LEFT	244		34266	hand (not arm)	pāṇí-	sans1269	Sanskrit	20	77	
+43900-1038-1	F		HEAD	1256		34267	head (anatomic)	mūrdhan-	sans1269	Sanskrit	20	77	
+43900-1038-2	F		HEAD	1256		34268	head (anatomic)	śíras-, śīrṣá-	sans1269	Sanskrit	20	77	
+43900-1038-3	F		HEAD	1256		34269	head (anatomic)	masta-	sans1269	Sanskrit	20	77	
+43900-1039-1	F		HEAR	1408		34270	to hear	śru-, śr̥ṇōti-	sans1269	Sanskrit	20	77	
+43900-1040-1	F		GUTS OR HEART	2436		34271	heart (organ)	hṛd-, hṛdaya-	sans1269	Sanskrit	20	77	
+43900-1040-2	T		GUTS OR HEART	2436	T	34272	heart (organ)	agramāṁsa-	sans1269	Sanskrit	20	77	
+43900-3030-1	T	"MEANING: Translation given is ""heart (organ); goat"". I was not able to verify the meaning ""heart (organ)"" from the source. "	GOAT	1502	F	34273	goat	bukka-	sans1269	Sanskrit	20	77	
+43900-1040-3	T	"MEANING: Translation states ""heart (organ); goat"". I was unable to verify the meaning ""heart (organ)"" in the source."	GUTS OR HEART	2436	F	34273	heart (organ)	bukka-	sans1269	Sanskrit	20	77	
+43900-1041-1	F		HORN (ANATOMY)	1393		34274	horn	śr̥ṅga-	sans1269	Sanskrit	20	77	
+43900-1041-2	F		HORN (ANATOMY)	1393		34275	horn	viṣā́ṇa-	sans1269	Sanskrit	20	77	
+43900-1042-1	T		I	1209	T	34276	I (1sg)	ahám	sans1269	Sanskrit	20	77	
+43900-1043-1	F		KILL	1417		34277	to kill	han-	sans1269	Sanskrit	20	77	
+43900-1043-2	F		KILL	1417		34278	to kill	māráyati	sans1269	Sanskrit	20	77	
+43900-1043-3	T		KILL	1417	T	34279	to kill	*vadhati	sans1269	Sanskrit	20	77	
+43900-1044-1	F		KNEE	1371		34280	knee	jānu-	sans1269	Sanskrit	20	77	
+43900-1044-2	T		KNEE	1371	T	34281	knee	aṣṭhīvát-	sans1269	Sanskrit	20	77	
+43900-1044-3	F		KNEE	1371		34282	knee	kūrpara-	sans1269	Sanskrit	20	77	
+43900-1045-1	F		KNOW (SOMETHING)	1410		34283	to know	jñā-, jānāti	sans1269	Sanskrit	20	77	
+43900-1045-2	F		KNOW (SOMETHING)	1410		34284	to know	vid-	sans1269	Sanskrit	20	77	
+43900-1045-3	F		KNOW (SOMETHING)	1410		34285	to know	buddha-	sans1269	Sanskrit	20	77	
+43900-1045-4	T		KNOW (SOMETHING)	1410	T	34286	to know	*munāti	sans1269	Sanskrit	20	77	
+43900-1046-1	F		LEAF	628		34287	leaf (botanics)	parṇa-	sans1269	Sanskrit	20	77	
+43900-1046-2	F		LEAF	628		34288	leaf (botanics)	pattra-	sans1269	Sanskrit	20	77	
+43900-1046-3	F		LEAF	628		34289	leaf (botanics)	dala-	sans1269	Sanskrit	20	77	
+43900-1046-4	F		LEAF	628		34290	leaf (botanics)	chada-, chadana-	sans1269	Sanskrit	20	77	
+43900-1047-1	F		LIE (MISLEAD)	601		34291	to lie (recline)	śī-, śētē	sans1269	Sanskrit	20	77	
+43900-1048-1	F		LIVER	1224		34292	liver	yakṛt-	sans1269	Sanskrit	20	77	
+43900-1048-2	F		LIVER	1224		34293	liver	kālēyaka-	sans1269	Sanskrit	20	77	
+43900-1049-1	F		LONG	1203		34294	long (adj)	dīrgha-	sans1269	Sanskrit	20	77	
+43900-1050-1	F		LOUSE	1392		34295	louse (lice)	yū́kā-	sans1269	Sanskrit	20	77	
+43900-1050-2	F		LOUSE	1392		34296	louse (lice)	utkuṇa-	sans1269	Sanskrit	20	77	
+43900-1051-1	F		MAN	1554		34297	man (adult male human)	mánu-, mánuṣa-, mānuṣa-, mānavá-	sans1269	Sanskrit	20	77	
+43900-1051-2	F		MAN	1554		34298	man (adult male human)	márta-, mártya-	sans1269	Sanskrit	20	77	
+43900-1051-3	F		MAN	1554		34299	man (adult male human)	nára-	sans1269	Sanskrit	20	77	
+43900-1051-4	F		MAN	1554		34300	man (adult male human)	pumaṇs-	sans1269	Sanskrit	20	77	
+43900-1051-5	F		MAN	1554		34301	man (adult male human)	vīra-	sans1269	Sanskrit	20	77	
+43900-1051-6	F		MAN	1554		34302	man (adult male human)	púruṣa-	sans1269	Sanskrit	20	77	
+43900-1052-1	F		BE MANY	428		34303	many	puru-	sans1269	Sanskrit	20	77	
+43900-1052-2	T		BE MANY	428	T	34304	many	bahu-	sans1269	Sanskrit	20	77	
+43900-1052-3	F		BE MANY	428		34305	many	bhūri-	sans1269	Sanskrit	20	77	
+43900-1052-4	F		BE MANY	428		34306	many	ánēka-	sans1269	Sanskrit	20	77	
+43900-1053-1	F		FLESH OR MEAT	2615		34307	meat/flesh	māṁśa-	sans1269	Sanskrit	20	77	
+43900-1053-2	F		FLESH OR MEAT	2615		34308	meat/flesh	āmiśá-	sans1269	Sanskrit	20	77	
+43900-1054-1	F		MOON	1313		34309	moon	mās-, mā́sa-	sans1269	Sanskrit	20	77	
+43900-1054-2	F		MOON	1313		34310	moon	candra-	sans1269	Sanskrit	20	77	
+43900-1054-3	F		MOON	1313		34311	moon	śaśin-	sans1269	Sanskrit	20	77	
+43900-1054-4	F		MOON	1313		34312	moon	indu-	sans1269	Sanskrit	20	77	
+43900-1055-1	T		MOUNTAIN	639	T	34313	mountain	acala-	sans1269	Sanskrit	20	77	
+43900-1055-2	F		MOUNTAIN	639		34314	mountain	parvata-	sans1269	Sanskrit	20	77	
+43900-1055-3	F		MOUNTAIN	639		34315	mountain	giri-	sans1269	Sanskrit	20	77	
+43900-1056-1	F		MOUTH	674		34316	mouth	āsya-	sans1269	Sanskrit	20	77	
+43900-1056-2	F		MOUTH	674		34317	mouth	múkha-	sans1269	Sanskrit	20	77	
+43900-1056-3	F		MOUTH	674		34318	mouth	tuṇḍa-	sans1269	Sanskrit	20	77	
+43900-1056-4	F		MOUTH	674		34319	mouth	vádana-	sans1269	Sanskrit	20	77	
+43900-1056-5	F		MOUTH	674		34320	mouth	vaktrá-	sans1269	Sanskrit	20	77	
+43900-1056-6	F		MOUTH	674		34321	mouth	lapana-	sans1269	Sanskrit	20	77	
+43900-1057-1	F		CALL BY NAME	180		34322	name	nāman-	sans1269	Sanskrit	20	77	
+43900-1058-1	F		NECK	1333		34323	neck	kaṇṭhá-	sans1269	Sanskrit	20	77	
+43900-1058-2	F		NECK	1333		34324	neck	grīvā-	sans1269	Sanskrit	20	77	
+43900-1058-3	F		NECK	1333		34325	neck	gala-	sans1269	Sanskrit	20	77	
+43900-1059-1	F		NEW	1231		34326	new	nava-, vaya-	sans1269	Sanskrit	20	77	
+43900-1060-1	F		NIGHT	1233		34327	night	nakt-	sans1269	Sanskrit	20	77	
+43900-1060-2	F		NIGHT	1233		34328	night	rātrī-	sans1269	Sanskrit	20	77	
+43900-1060-3	F		NIGHT	1233		34329	night	kṣap-	sans1269	Sanskrit	20	77	
+43900-1060-4	F		NIGHT	1233		34330	night	niśā-	sans1269	Sanskrit	20	77	
+43900-1061-1	F		NOSE	1221		34331	nose	nās-	sans1269	Sanskrit	20	77	
+43900-1061-2	F		NOSE	1221		34332	nose	ghrāṇa-	sans1269	Sanskrit	20	77	
+43900-1062-1	F		NOT	1240		34333	not	na	sans1269	Sanskrit	20	77	
+43900-1063-1	F		ONE	1493		34334	one	eka-	sans1269	Sanskrit	20	77	
+43900-1064-1	F		PERSON (CLASSIFIER)	516		34335	person (individual human)	manuṣya-	sans1269	Sanskrit	20	77	
+43900-1064-2	F		PERSON (CLASSIFIER)	516		34336	person (individual human)	nārá-	sans1269	Sanskrit	20	77	
+43900-1064-3	F		PERSON (CLASSIFIER)	516		34337	person (individual human)	jána-	sans1269	Sanskrit	20	77	
+43900-1065-1	F		RAIN (PRECIPITATION)	658		34338	rain (n)	varṣa-	sans1269	Sanskrit	20	77	
+43900-1066-1	F		RED	156		40607	red (colour)	lohita-	sans1269	Sanskrit	20	77	
+43900-1066-2	F		RED	156		40608	red (colour)	rakta-	sans1269	Sanskrit	20	77	
+43900-1066-3	F		RED	156		40609	red (colour)	śoṇa-	sans1269	Sanskrit	20	77	
+43900-1066-4	T		RED	156	T	40610	red (colour)	aruṇá-	sans1269	Sanskrit	20	77	
+43900-1067-1	F		PATH OR ROAD	2457		40611	road/path	vártman-	sans1269	Sanskrit	20	77	
+43900-1067-2	T		PATH OR ROAD	2457	T	40612	road/path	adhvan-	sans1269	Sanskrit	20	77	
+43900-1067-3	F		PATH OR ROAD	2457		40613	road/path	mārga-	sans1269	Sanskrit	20	77	
+43900-1067-4	F		PATH OR ROAD	2457		40614	road/path	pathá-, pathí-, pánthā-	sans1269	Sanskrit	20	77	
+43900-1068-1	F		ROOT	670		40615	root (botanics)	mūla-	sans1269	Sanskrit	20	77	
+43900-1069-1	F		ROUND	1395		40616	round	vartula-	sans1269	Sanskrit	20	77	
+43900-1069-2	T		ROUND	1395	T	40617	round	*cakrala-	sans1269	Sanskrit	20	77	
+43900-1070-1	F		SAND	671		40618	sand	vālukā-	sans1269	Sanskrit	20	77	
+43900-1070-2	F		SAND	671		40619	sand	sikatā-	sans1269	Sanskrit	20	77	
+43900-1070-3	T		SAND	671	T	40620	sand	pāṁsú-	sans1269	Sanskrit	20	77	
+43900-1071-1	F		SAY	1458		40621	to say	vac-	sans1269	Sanskrit	20	77	
+43900-1071-2	F		SAY	1458		40622	to say	brū-	sans1269	Sanskrit	20	77	
+43900-1071-3	F		SAY	1458		40623	to say	vádati	sans1269	Sanskrit	20	77	
+43900-1072-1	F		SEE	1409		40624	to see	ikṣ-	sans1269	Sanskrit	20	77	
+43900-1072-2	F		SEE	1409		40625	to see	paç-	sans1269	Sanskrit	20	77	
+43900-1072-3	F		SEE	1409		40626	to see	dṛś-	sans1269	Sanskrit	20	77	
+43900-1073-1	F		GRAIN	605		40627	seed (n)	bīja-	sans1269	Sanskrit	20	77	
+43900-3075-1	F		SOW SEEDS	748		40628	to sow	vap-	sans1269	Sanskrit	20	77	
+43900-1073-2	F		GRAIN	605		40628	seed (n)	vap-	sans1269	Sanskrit	20	77	
+43900-1074-1	F		SIT	1416		40629	to sit	ās-	sans1269	Sanskrit	20	77	
+43900-1074-2	F		SIT	1416		40630	to sit	sad-	sans1269	Sanskrit	20	77	
+43900-1075-1	F		SKIN (HUMAN)	2613		40631	skin (person's)	carman-	sans1269	Sanskrit	20	77	
+43900-1075-2	F		SKIN (HUMAN)	2613		40632	skin (person's)	tvác-	sans1269	Sanskrit	20	77	
+43900-1075-3	F		SKIN (HUMAN)	2613		40633	skin (person's)	chavī́-	sans1269	Sanskrit	20	77	
+43900-1076-1	F		SLEEP	1585		40634	to sleep	drai-	sans1269	Sanskrit	20	77	
+43900-1076-2	F		SLEEP	1585		40635	to sleep	svap-, svapna-	sans1269	Sanskrit	20	77	
+43900-1076-3	F		SLEEP	1585		40636	to sleep	sas-, *sasyati	sans1269	Sanskrit	20	77	
+43900-1077-1	T		SMALL	1246	T	40637	small	alpa-	sans1269	Sanskrit	20	77	
+43900-1077-2	F		SMALL	1246		40638	small	kṣudra-	sans1269	Sanskrit	20	77	
+43900-1077-3	F		SMALL	1246		40639	small	ślakṣṇá-	sans1269	Sanskrit	20	77	
+43900-1077-4	T		SMALL	1246	T	40640	small	*chōṭṭa-	sans1269	Sanskrit	20	77	
+43900-1078-1	F		SMOKE (EMIT SMOKE)	2859		40641	smoke (n)	dhūma-	sans1269	Sanskrit	20	77	
+43900-1079-1	F		STAND	1442		40642	to stand	sthā-	sans1269	Sanskrit	20	77	
+43900-1080-1	F		STAR	1430		40643	star	stṛ-, tārakā-	sans1269	Sanskrit	20	77	
+43900-1081-1	F		STONE (OF FRUIT)	1762		40644	stone	śilā́-	sans1269	Sanskrit	20	77	
+43900-1081-2	T	MEANING. It's not clear whether the the word includes the meaning stone (of fruit).	STONE (OF FRUIT)	1762	F	40645	stone	aśman-, aśan-	sans1269	Sanskrit	20	77	MEANING 
+43900-3080-1	T	MEANING. It's not clear whether the the word includes the meaning stone (of fruit).	STONE (OF FRUIT)	1762	F	40646	stone	pāṣāṇá-	sans1269	Sanskrit	20	77	
+43900-1081-3	T	MEANING. It's not clear whether the the word includes the meaning stone (of fruit).	STONE (OF FRUIT)	1762	F	40646	stone	pāṣāṇá-	sans1269	Sanskrit	20	77	
+43900-1081-4	F		STONE (OF FRUIT)	1762		40647	stone	úpala-	sans1269	Sanskrit	20	77	
+43900-3080-2	F		STONE (OF FRUIT)	1762		40648	stone	karkara-	sans1269	Sanskrit	20	77	
+43900-1081-5	F		STONE (OF FRUIT)	1762		40648	stone	karkara-	sans1269	Sanskrit	20	77	
+43900-1081-6	F		STONE (OF FRUIT)	1762		40649	stone	prastará-	sans1269	Sanskrit	20	77	
+43900-1082-1	F		SUN	1343		40650	sun	bhāna-	sans1269	Sanskrit	20	77	
+43900-1082-2	F		SUN	1343		40651	sun	ravi-	sans1269	Sanskrit	20	77	
+43900-1082-3	F		SUN	1343		40652	sun	sūrya-	sans1269	Sanskrit	20	77	
+43900-1083-1	F		SWIM	1439		40653	to swim	plu-	sans1269	Sanskrit	20	77	
+43900-1084-1	F		TAIL	1220		40654	tail	lāṅgūlá-	sans1269	Sanskrit	20	77	
+43900-1084-2	F		TAIL	1220		40655	tail	puccha-	sans1269	Sanskrit	20	77	
+43900-1084-3	F		TAIL	1220		40656	tail	śēpyā́-	sans1269	Sanskrit	20	77	
+43900-1084-4	F		TAIL	1220		40657	tail	lañja-	sans1269	Sanskrit	20	77	
+43900-1085-1	T		THAT	78	T	40658	that (deixis, distal)	sá/sā́	sans1269	Sanskrit	20	77	
+43900-1085-2	T		THAT	78	T	40659	that (deixis, distal)	asáu	sans1269	Sanskrit	20	77	
+43900-1086-1	T		THIS	1214	T	40660	this (deixis, proximal)	sá-/tá-	sans1269	Sanskrit	20	77	
+43900-1086-2	T		THIS	1214	T	40661	this (deixis, proximal)	ayám, iyám	sans1269	Sanskrit	20	77	
+43900-1087-1	F		THOU	1215		40662	thou (2sg)	tuvám, tvám	sans1269	Sanskrit	20	77	
+43900-1088-1	F		TONGUE	1205		40663	tongue (anatomical)	jihvā-	sans1269	Sanskrit	20	77	
+43900-1089-1	F		TOOTH	1380		40664	tooth (general)	dánta-	sans1269	Sanskrit	20	77	
+43900-1090-1	F		TREE	906		40665	tree	vana-	sans1269	Sanskrit	20	77	
+43900-1090-2	F		TREE	906		40666	tree	vṛkṣa-, *rukṣa-	sans1269	Sanskrit	20	77	
+43900-1090-3	F		TREE	906		40667	tree	druma-, taru-	sans1269	Sanskrit	20	77	
+43900-1091-1	T		TWO	1498	T	40668	two	dvā́	sans1269	Sanskrit	20	77	
+43900-1092-1	F		WALK	1443		40669	to walk	gam-	sans1269	Sanskrit	20	77	
+43900-1092-2	F		WALK	1443		40670	to walk	kramatē	sans1269	Sanskrit	20	77	
+43900-1092-3	T		WALK	1443	T	40671	to walk	i-	sans1269	Sanskrit	20	77	
+43900-1093-1	F		WARM (OF WEATHER)	2110		40672	warm (of weather)	uṣṇa-	sans1269	Sanskrit	20	77	
+43900-1093-2	F		WARM (OF WEATHER)	2110		40673	warm (of weather)	tapta-	sans1269	Sanskrit	20	77	
+43900-1094-1	F		IRRIGATE	3078		40674	water (n)	áp-	sans1269	Sanskrit	20	77	
+43900-1094-2	F		IRRIGATE	3078		40675	water (n)	jala-	sans1269	Sanskrit	20	77	
+43900-1094-3	T	"MEANING and POS: Translation given is ""water"" (n) which is different from ""to water"" (v) as in irrigate."	IRRIGATE	3078	F	40676	water (n)	ambhas-	sans1269	Sanskrit	20	77	
+43900-1094-4	F		IRRIGATE	3078		40677	water (n)	udan-, udaká-	sans1269	Sanskrit	20	77	
+43900-1094-5	F		IRRIGATE	3078		40678	water (n)	pānī́ya-	sans1269	Sanskrit	20	77	
+43900-1094-6	F		IRRIGATE	3078		40679	water (n)	vā́ri-	sans1269	Sanskrit	20	77	
+43900-1094-7	F		IRRIGATE	3078		40680	water (n)	nīrá-	sans1269	Sanskrit	20	77	
+43900-1095-1	F		WE	1212		40681	we (1pl)	vayám	sans1269	Sanskrit	20	77	
+43900-1096-1	F		WHAT	1236		40682	what?	kím	sans1269	Sanskrit	20	77	
+43900-1097-1	F		WHITE	1335		40683	white (colour)	śvētá-, śvitrá-	sans1269	Sanskrit	20	77	
+43900-1097-2	F		WHITE	1335		40684	white (colour)	śuklá-	sans1269	Sanskrit	20	77	
+43900-1097-3	F		WHITE	1335		40685	white (colour)	pāṇḍú-, pā́ṇḍara-	sans1269	Sanskrit	20	77	
+43900-1097-4	F		WHITE	1335		40686	white (colour)	gaurá-	sans1269	Sanskrit	20	77	
+43900-1098-1	T		WHO	1235	T	40687	who?	ká-	sans1269	Sanskrit	20	77	
+43900-1099-1	F		WOMAN	962		40688	woman	strī-	sans1269	Sanskrit	20	77	
+43900-1099-2	F		WOMAN	962		40689	woman	nārī-	sans1269	Sanskrit	20	77	
+43900-1099-3	F		WOMAN	962		40690	woman	jani-	sans1269	Sanskrit	20	77	
+43900-1100-1	F		YELLOW	1424		40691	yellow (colour)	hari-, harita-	sans1269	Sanskrit	20	77	
+43900-1100-2	F		YELLOW	1424		40692	yellow (colour)	pīta-, pītala-	sans1269	Sanskrit	20	77	
+43900-12130-1	T		BIRCH	1855	T	43660	birch	bhūrjá-	sans1269	Sanskrit	20	77	
+43900-3043-1	T		???			43743	jackal	niśācara-	sans1269	Sanskrit	20	77	
+43900-3043-2	T	NOCONCEPT	???		F	43766	jackal	lopāśá-	sans1269	Sanskrit	20	77	
+43900-3027-1	T	MEANING: Translation states a kind of jackal; (prob. also) fox. 	FOX	1312	F	43766	fox	lopāśá-	sans1269	Sanskrit	20	77	
+43900-3094-1	T		WOOL	964	T	43839	wool	ū́rṇā-	sans1269	Sanskrit	20	77	
+43900-12148-1	F		???			44505	colour term orange	nāranga-	sans1269	Sanskrit	20	77	
+43900-1025-4	F		EYE	1248		44906	eye	cakṣus-	sans1269	Sanskrit	20	77	
+43900-3012-1	F		BULL	1008		54401	bull	sthaurá-	sans1269	Sanskrit	20	77	
+43900-3012-2	F		BULL	1008		54585	bull	pr̩thuka-	sans1269	Sanskrit	20	77	
+43900-3012-3	T		BULL	1008	T	54606	bull	go-vrṣá-	sans1269	Sanskrit	20	77	
+43900-3012-4	F		BULL	1008		54619	bull	sāˊṇḍa-	sans1269	Sanskrit	20	77	
+43900-3012-5	T	MEANING. Translation states: egg; testicles. Suggested concept: EGG	BULL	1008	F	54627	bull	āṇḍá-	sans1269	Sanskrit	20	77	
+43900-3018-1	F		COW	1007		54788	cow	gāus-	sans1269	Sanskrit	20	77	
+43900-3018-2	F		COW	1007		54789	cow	gávya-	sans1269	Sanskrit	20	77	
+43900-3018-3	F		COW	1007		54790	cow	go-	sans1269	Sanskrit	20	77	
+43900-3018-4	T		COW	1007	T	54792	cow	*gāvā-	sans1269	Sanskrit	20	77	
+43900-3018-5	T		COW	1007	T	54916	cow	ahī́-	sans1269	Sanskrit	20	77	
+43900-3018-6	T		COW	1007	T	54924	cow	babhru-	sans1269	Sanskrit	20	77	
+43900-3056-1	T	MEANING. Translation states: young bull. Suggested concept: BULL	OX	1169	F	55058	ox	ukṣán-	sans1269	Sanskrit	20	77	
+43900-3056-2	F		OX	1169		55088	ox	go-yūti-	sans1269	Sanskrit	20	77	
+43900-3056-3	T	MEANING. Translation states: man, male animal (bull, stallion); manly, powerful.	OX	1169	F	55141	ox	vŕ̥ṣan-	sans1269	Sanskrit	20	77	
+43900-3063-1	T		RAM	1344	T	55141	ram	vŕ̥ṣan-	sans1269	Sanskrit	20	77	
+43900-3056-4	T		OX	1169		55145	ox	vr̥ṣabhá-	sans1269	Sanskrit	20	77	
+43900-3063-2	T		RAM	1344	T	55145	ram	vr̥ṣabhá-	sans1269	Sanskrit	20	77	
+43900-3056-5	F		OX	1169		55256	ox	damya-	sans1269	Sanskrit	20	77	
+43900-3056-6	T		OX	1169	T	55261	ox	balilla-	sans1269	Sanskrit	20	77	
+43900-3013-1	T		CALF	1989		55271	calf	gárbha-	sans1269	Sanskrit	20	77	
+43900-3058-1	T	MEANING. Translation states: calf; calf; yearling; yearling, calf, child	PIG	1337	F	55423	pig	vatsá-	sans1269	Sanskrit	20	77	
+43900-3013-2	T		CALF	1989	T	55423	calf	vatsá-	sans1269	Sanskrit	20	77	
+43900-3063-3	T	"MEANING. Translation states: calf; calf; yearling; yearling, calf, child. The same diacl_id has also been mapped incorrectly to ""PIG""."	RAM	1344	F	55423	ram	vatsá-	sans1269	Sanskrit	20	77	
+43900-3015-1	F		CATTLE	1153		55428	cattle	gōrūpá-	sans1269	Sanskrit	20	77	
+43900-3015-2	T		CATTLE	1153		55565	cattle	dám-	sans1269	Sanskrit	20	77	
+43900-3015-3	T	"Note: Translation given in diacl is broader. It states ""cattle, animal; domestic or sacrificial animal; goat."""	CATTLE	1153	T	55782	cattle	páśu-, paśú-	sans1269	Sanskrit	20	77	
+43900-3094-2	T	"MEANING. Translation states: cattle, animal; domestic or sacrificial animal; goat. Note: Grammatical data specifies ""male"" and ""neuter""."	WOOL	964	F	55782	wool	páśu-, paśú-	sans1269	Sanskrit	20	77	
+43900-3015-4	F		CATTLE	1153		55906	cattle	jīvá-	sans1269	Sanskrit	20	77	
+43900-3040-1	T		HORSE	615	T	56200	horse	áśva-	sans1269	Sanskrit	20	77	
+43900-3040-2	T		HORSE	615	T	56202	horse	áśvā-	sans1269	Sanskrit	20	77	
+43900-3040-3	T		HORSE	615	T	56204	horse	áśv(i)ya-	sans1269	Sanskrit	20	77	
+43900-3040-4	T		HORSE	615	T	56257	horse	háya-	sans1269	Sanskrit	20	77	
+43900-3040-5	F		HORSE	615		56260	horse	ghōṭa-	sans1269	Sanskrit	20	77	
+43900-3022-2	F		DONKEY	1862		57121	donkey	khára-	sans1269	Sanskrit	20	77	
+43900-3022-3	F		DONKEY	1862		57127	donkey	gardabhá-	sans1269	Sanskrit	20	77	
+43900-3022-4	F		DONKEY	1862		57136	donkey	rāsabha-	sans1269	Sanskrit	20	77	
+43900-3022-5	F		DONKEY	1862		57137	donkey	rāsa-	sans1269	Sanskrit	20	77	
+43900-3071-1	T		SHEEP	1331	T	57408	sheep	ávi-	sans1269	Sanskrit	20	77	
+43900-3094-3	F		WOOL	964		57440	wool	urā-	sans1269	Sanskrit	20	77	
+43900-3071-2	F		SHEEP	1331		57440	sheep	urā-	sans1269	Sanskrit	20	77	
+43900-3071-3	T		SHEEP	1331	T	57522	sheep	meṣá-	sans1269	Sanskrit	20	77	
+43900-3071-4	T		SHEEP	1331	T	57524	sheep	meṣī-	sans1269	Sanskrit	20	77	
+43900-3071-5	F		SHEEP	1331		57531	sheep	bhēḍa-	sans1269	Sanskrit	20	77	
+43900-3019-1	T		???			57690	cultivated field	ájra-	sans1269	Sanskrit	20	77	
+43900-3071-6	T	MEANING. Translation states: field, plain; plain; open field	SHEEP	1331	F	57690	sheep	ájra-	sans1269	Sanskrit	20	77	
+43900-3020-1	T		DEER	1936	T	58148	deer	śáma-	sans1269	Sanskrit	20	77	
+43900-3063-4	T	MEANING. Translation states: hornless	RAM	1344	F	58148	ram	śáma-	sans1269	Sanskrit	20	77	
+43900-3063-5	T		RAM	1344		58209	ram	r̥ṣabhá-	sans1269	Sanskrit	20	77	
+43900-3063-6	T		RAM	1344		58254	ram	vádhri-	sans1269	Sanskrit	20	77	
+43900-3046-1	T	"Note: Grammatical data specifies ""female""."	LAMB	820	T	58477	lamb	úraṇa-	sans1269	Sanskrit	20	77	
+43900-3030-2	T		GOAT	1502	T	58553	goat	ajá-	sans1269	Sanskrit	20	77	
+43900-3030-3	F		GOAT	1502		58666	goat	chāga-, chagalá-	sans1269	Sanskrit	20	77	
+43900-3030-4	F		GOAT	1502		58891	goat	kápṛth-	sans1269	Sanskrit	20	77	
+43900-3044-1	T		KID	1972		59062	kid	sámā-	sans1269	Sanskrit	20	77	
+43900-3081-1	T	MEANING: Translation states: year, season; year, half-year, season. 	SUMMER	1342	F	59062	summer	sámā-	sans1269	Sanskrit	20	77	
+43900-3058-2	T		PIG	1337		59263	pig	sūkará-	sans1269	Sanskrit	20	77	
+43900-3037-1	F		HEN	1514		59871	hen	kukkuṭī-	sans1269	Sanskrit	20	77	
+43900-3037-2	T	"MEANING. Translation given is ""bird"" however this has been mapped to HEN specifically."	HEN	1514	F	60070	hen	vayas-	sans1269	Sanskrit	20	77	
+43900-3065-1	T		ROOSTER	1511	T	60117	rooster	uṣākala-	sans1269	Sanskrit	20	77	
+43900-3065-2	F		ROOSTER	1511		60318	rooster	kukkuṭa-	sans1269	Sanskrit	20	77	
+43900-3065-3	F		ROOSTER	1511		60377	rooster	kṛka-vā́ku-	sans1269	Sanskrit	20	77	
+43900-3016-1	T	"MEANING. Translation given is ""cow which has its first calf after a year"". Note: the grammatical data specifies ""female""."	CHICKEN	1318	F	60729	chicken	paryāríṇī-	sans1269	Sanskrit	20	77	
+43900-3079-1	T	"MEANING. Translation given is ""cow which has its first calf after a year"". Note: the grammatical data specifies ""female"". The same diacl_id has also been mapped incorrectly to ""CHICKEN""."	SPRING (OF WATER)	849	F	60729	spring	paryāríṇī-	sans1269	Sanskrit	20	77	
+43900-3023-1	T		DUCK	1360	T	60868	duck	ātí-, ātī́-	sans1269	Sanskrit	20	77	
+43900-3023-2	F		DUCK	1360		60873	duck	haṁsá-	sans1269	Sanskrit	20	77	
+43900-3021-2	T	"MEANING: Translation given is ""bitch"". Grammatical data specifies ""female""."	DOG	2009	F	61080	dog	śunī́-	sans1269	Sanskrit	20	77	
+43900-3014-1	F		CAT	1208		61468	cat	bíḍāla-	sans1269	Sanskrit	20	77	
+43900-3014-2	F		CAT	1208		61473	cat	mārjāra-	sans1269	Sanskrit	20	77	
+43900-3014-3	F		CAT	1208		61474	cat	mṛj-	sans1269	Sanskrit	20	77	
+43900-3009-1	T	MEANING. Translation given is: black bee, scorpion	BEE	665	F	61731	bee	alin-	sans1269	Sanskrit	20	77	
+43900-3009-2	F		BEE	665		61734	bee	bhramará-	sans1269	Sanskrit	20	77	
+43900-3051-1	T	"MEANING: Translation given is ""bee (lit. ""honey-licker"")"". Grammatical data specifies ""male""."	MEAD	941	F	61739	mead	madhu-lih-	sans1269	Sanskrit	20	77	
+43900-3009-3	T		BEE	665	T	61739	bee	madhu-lih-	sans1269	Sanskrit	20	77	
+43900-3009-4	F		BEE	665		61742	bee	mákṣā-, mákṣ-	sans1269	Sanskrit	20	77	
+43900-3092-1	T		WOLF	522	T	61995	wolf	vŕ̥ka-	sans1269	Sanskrit	20	77	
+43900-3008-1	T		BEAR	1820	T	62238	bear	ŕ̥kṣa-	sans1269	Sanskrit	20	77	
+43900-3008-2	T	"MEANING: Translation given is ""honey eater"" which was verified in the source. However this could be a literal translation of a euphemism for bear due to a taboo. "	BEAR	1820	F	62290	bear	madhvád-	sans1269	Sanskrit	20	77	
+43900-3008-3	F		BEAR	1820		62419	bear	bhallū´ka-	sans1269	Sanskrit	20	77	
+43900-3089-1	F		WILD BOAR	3154		62534	wild boar	varāha-	sans1269	Sanskrit	20	77	
+43900-3089-2	F		WILD BOAR	3154		62622	wild boar	íbha-	sans1269	Sanskrit	20	77	
+43900-3055-1	T		OWL	735	T	62900	owl	úlūka-	sans1269	Sanskrit	20	77	
+43900-3055-2	T		OWL	735	T	62906	owl	pécaka-	sans1269	Sanskrit	20	77	
+43900-3048-1	T		LEOPARD	1139	T	63073	leopard	pŕ̥dāku-	sans1269	Sanskrit	20	77	
+43900-3048-2	T		LEOPARD	1139	T	63279	leopard	puṇḍarīka-	sans1269	Sanskrit	20	77	
+43900-3048-3	F		LEOPARD	1139		63288	leopard	citrakāya	sans1269	Sanskrit	20	77	
+43900-3048-4	F		LEOPARD	1139		63299	leopard	citraka-	sans1269	Sanskrit	20	77	
+43900-3048-5	T		LEOPARD	1139	T	63319	leopard	siṃhá-	sans1269	Sanskrit	20	77	
+43900-3049-1	T		LION	1386	T	63553	lion	keśarin-, kēsarin-	sans1269	Sanskrit	20	77	
+43900-3027-2	T		FOX	1312	T	63892	fox	púcha-	sans1269	Sanskrit	20	77	
+43900-3027-3	T		FOX	1312	T	63920	fox	lopāka-	sans1269	Sanskrit	20	77	
+43900-3043-3	F		???			64105	jackal	pheru-	sans1269	Sanskrit	20	77	
+43900-3043-4	T	NOCONCEPT	???		F	64149	jackal	śṛkāla-, śr̥gālá-	sans1269	Sanskrit	20	77	
+43900-3043-5	T	NOCONCEPT	???		F	64153	jackal	*gidda-	sans1269	Sanskrit	20	77	
+43900-3035-1	T		HARE	1190	T	64340	hare	śaśá-	sans1269	Sanskrit	20	77	
+43900-3035-2	F		HARE	1190		64570	hare	kárṇa-	sans1269	Sanskrit	20	77	
+43900-3074-1	T		SNAKE	730	T	64871	snake	sarpá-	sans1269	Sanskrit	20	77	
+43900-3074-2	T		SNAKE	730	T	64872	snake	sárp-	sans1269	Sanskrit	20	77	
+43900-3074-3	T		SNAKE	730	T	64874	snake	sárpati	sans1269	Sanskrit	20	77	
+43900-3074-4	F		SNAKE	730		64880	snake	sarpa-	sans1269	Sanskrit	20	77	
+43900-3074-5	T		SNAKE	730	T	64960	snake	áhi-	sans1269	Sanskrit	20	77	
+43900-3074-6	F		SNAKE	730		65163	snake	vrj-	sans1269	Sanskrit	20	77	
+43900-3074-7	F		SNAKE	730		65164	snake	vamra-	sans1269	Sanskrit	20	77	
+43900-3024-1	T		EAGLE	1905	T	66182	eagle	r̥jipyá-	sans1269	Sanskrit	20	77	
+43900-3024-2	F		EAGLE	1905		66184	eagle	śyená-	sans1269	Sanskrit	20	77	
+43900-3024-3	T		EAGLE	1905	T	66252	eagle	váy-	sans1269	Sanskrit	20	77	
+43900-3020-2	F		DEER	1936		66372	deer	hariṇá-	sans1269	Sanskrit	20	77	
+43900-3020-3	F		DEER	1936		66377	deer	mr̥gá-	sans1269	Sanskrit	20	77	
+43900-3020-4	T		DEER	1936	T	66523	deer	śiras-	sans1269	Sanskrit	20	77	
+43900-3020-5	F		DEER	1936		66907	deer	riśya-	sans1269	Sanskrit	20	77	
+43900-3020-6	T		DEER	1936	T	67202	deer	ŕ̥śya-	sans1269	Sanskrit	20	77	
+43900-3020-7	T	"MEANING. Translation given is ""ewe"" "	DEER	1936	F	67455	deer	avikā́-	sans1269	Sanskrit	20	77	3
+43900-3094-4	T		WOOL	964		67899	wool	pákṣman-	sans1269	Sanskrit	20	77	
+43900-3038-1	F		HONEY	942		68666	honey	kāñcana-	sans1269	Sanskrit	20	77	
+43900-3053-1	T		DRAW MILK	93		69093	milk	pī́vas-	sans1269	Sanskrit	20	77	
+43900-3053-2	T		DRAW MILK	93	T	69095	milk	payas-	sans1269	Sanskrit	20	77	
+43900-3053-3	F		DRAW MILK	93		69105	milk	kṣīra-	sans1269	Sanskrit	20	77	
+43900-3053-4	F		DRAW MILK	93		69119	milk	dhenú-	sans1269	Sanskrit	20	77	
+43900-3053-5	F		DRAW MILK	93		69120	milk	dhenā-	sans1269	Sanskrit	20	77	
+43900-3053-6	F		DRAW MILK	93		69121	milk	dadhan-	sans1269	Sanskrit	20	77	
+43900-3053-7	F		DRAW MILK	93		69122	milk	dhe-	sans1269	Sanskrit	20	77	
+43900-3067-1	T		SALT	1274		69224	salt	sarirá-	sans1269	Sanskrit	20	77	
+43900-3067-2	F		SALT	1274		69369	salt	salilá-	sans1269	Sanskrit	20	77	
+43900-3067-3	F		SALT	1274		69395	salt	ūṣaka-	sans1269	Sanskrit	20	77	
+43900-3067-4	F		SALT	1274		69396	salt	ūṣ-	sans1269	Sanskrit	20	77	
+43900-3067-5	F		SALT	1274		69397	salt	ūṣaṇa-	sans1269	Sanskrit	20	77	
+43900-3067-6	F		SALT	1274		69399	salt	ūṣara-	sans1269	Sanskrit	20	77	
+43900-3067-7	F		SALT	1274		69401	salt	ūṣa-	sans1269	Sanskrit	20	77	
+43900-3067-8	F		SALT	1274		69404	salt	lavaṇa-	sans1269	Sanskrit	20	77	
+43900-3090-1	F		WINE	1524		69669	wine	drākṣārasa-	sans1269	Sanskrit	20	77	
+43900-3033-1	F		GRAPE	920		69669	grape	drākṣārasa-	sans1269	Sanskrit	20	77	
+43900-3051-2	T		MEAD	941	T	69863	mead	mádhu-	sans1269	Sanskrit	20	77	
+43900-3052-1	T		MEAT	634	T	70211	meat	māṃsá-	sans1269	Sanskrit	20	77	
+43900-3052-2	T		MEAT	634	T	70632	meat	kravíṣ-	sans1269	Sanskrit	20	77	
+43900-3052-3	T		MEAT	634	T	70634	meat	krūrá-	sans1269	Sanskrit	20	77	
+43900-3034-1	T		FAT (ORGANIC SUBSTANCE)	323		70809	grease	pī-, pyā-	sans1269	Sanskrit	20	77	
+43900-3034-2	T		FAT (ORGANIC SUBSTANCE)	323	T	71141	grease	añj-	sans1269	Sanskrit	20	77	
+43900-3034-3	T		FAT (ORGANIC SUBSTANCE)	323		71143	grease	áñjas-	sans1269	Sanskrit	20	77	
+43900-3086-1	F		WEAVE	133		71425	to weave	vā-	sans1269	Sanskrit	20	77	
+43900-3086-2	F		WEAVE	133		71427	to weave	vāya-	sans1269	Sanskrit	20	77	
+43900-3086-3	T		WEAVE	133	T	71537	to weave	ūrṇāvábhi-	sans1269	Sanskrit	20	77	
+43900-3086-4	T		WEAVE	133	T	71538	to weave	ubh-	sans1269	Sanskrit	20	77	
+43900-3086-5	T		WEAVE	133	T	71612	to weave	takṣ-	sans1269	Sanskrit	20	77	
+43900-3086-6	F		WEAVE	133		71709	to weave	vāgura-	sans1269	Sanskrit	20	77	
+43900-3086-7	T		WEAVE	133	T	71718	to weave	náhyanti	sans1269	Sanskrit	20	77	
+43900-3086-8	T	"MEANING. Translation given is ""plaited basket, turban"". Note: Grammatical data specifies ""male""."	WEAVE	133	F	71804	to weave	praśna-	sans1269	Sanskrit	20	77	
+43900-3078-1	F		SPIN	121		71913	to spin (thread)	snāyu-, snāvan-	sans1269	Sanskrit	20	77	
+43900-3078-2	F		SPIN	121		71935	to spin (thread)	tan-	sans1269	Sanskrit	20	77	
+43900-3078-3	T	MEANING. Translation states: spindle	SPIN	121	F	72157	to spin (thread)	tarku-	sans1269	Sanskrit	20	77	
+43900-3045-1	F		KNIFE	1352		72210	knife	kṛt-	sans1269	Sanskrit	20	77	
+43900-3078-4	F		SPIN	121		72210	to spin (thread)	kṛt-	sans1269	Sanskrit	20	77	
+43900-3070-1	T		SEW	1457	T	72325	to sew	sī́vya-	sans1269	Sanskrit	20	77	
+43900-3070-2	T	"MEANING. Translation given is ""sewn up""."	SEW	1457	F	72327	to sew	syūtá-	sans1269	Sanskrit	20	77	
+43900-3070-3	T	"MEANING. Translation given is ""band, thong, bridle"""	SEW	1457	F	72330	to sew	syū́man-	sans1269	Sanskrit	20	77	
+43900-3070-4	T	"MEANING. Translation given is ""wire, line, cord"""	SEW	1457	F	72333	to sew	sū́tra-	sans1269	Sanskrit	20	77	
+43900-3061-1	F		PLOUGH	1921		72822	to plough	trap-	sans1269	Sanskrit	20	77	
+43900-3075-2	F		SOW SEEDS	748		73067	to sow	sac-	sans1269	Sanskrit	20	77	
+43900-3087-1	T	"MEANING. Translation given is ""white, whitish"". "	WHEAT	1077	F	73253	wheat	śvítna-	sans1269	Sanskrit	20	77	
+43900-3087-2	T	"MEANING. Translation given is ""white, bright"""	WHEAT	1077	F	73255	wheat	śvetá-	sans1269	Sanskrit	20	77	
+43900-3087-3	T	"MEANING. Translation given is ""grass, Panicum dactylon; panic grass""."	WHEAT	1077	F	73312	wheat	dū́rvā-	sans1269	Sanskrit	20	77	
+43900-3019-2	T	"MEANING. Translation given is ""grass, Panicum dactylon; panic grass"" ; NOCONCEPT: however the same diacl_id has previously been mapped to ""WHEAT""."	???		F	73312	cultivated field	dū́rvā-	sans1269	Sanskrit	20	77	
+43900-3087-4	F		WHEAT	1077		73599	wheat	godhūma-	sans1269	Sanskrit	20	77	
+43900-3087-5	T		WHEAT	1077	T	73600	wheat	*gandhuma-	sans1269	Sanskrit	20	77	
+43900-3007-1	F		BARLEY	932		73810	barley	yava-	sans1269	Sanskrit	20	77	
+43900-3007-2	F		BARLEY	932		73846	barley	sasyá-	sans1269	Sanskrit	20	77	
+43900-3032-1	T	"MEANING. Translation given is ""to age, to grow old, to wear out"""	GRAIN	605	F	74750	grain (generic)	jṛ-	sans1269	Sanskrit	20	77	
+43900-3032-2	T	"MEANING. Translation given is ""old, worn out"""	GRAIN	605	F	74751	grain (generic)	jīrṇa-	sans1269	Sanskrit	20	77	
+43900-3032-3	T	"MEANING. Translation given is ""old"""	GRAIN	605	F	74752	grain (generic)	járant-	sans1269	Sanskrit	20	77	
+43900-3032-4	F		GRAIN	605		74776	grain (generic)	pitu-	sans1269	Sanskrit	20	77	
+43900-3032-5	T	"MEANING. Translation given is ""to part, to divide"""	GRAIN	605	F	74902	grain (generic)	bhaj-	sans1269	Sanskrit	20	77	
+43900-3032-6	T	"MEANING. Translation given is ""share, welfare"""	GRAIN	605	F	74903	grain (generic)	bhaga-	sans1269	Sanskrit	20	77	
+43900-3032-7	F		GRAIN	605		75024	grain (generic)	dhānya-	sans1269	Sanskrit	20	77	
+43900-3032-8	F		GRAIN	605		75025	grain (generic)	dhānā-	sans1269	Sanskrit	20	77	
+43900-3033-2	F		GRAPE	920		76087	grape	drākṣā-	sans1269	Sanskrit	20	77	
+43900-3026-1	F		LINEN	916		76532	flax	kṣumā-	sans1269	Sanskrit	20	77	
+43900-3026-2	F		LINEN	916		76533	flax	kṣauma-	sans1269	Sanskrit	20	77	
+43900-3069-1	F		SCYTHE	20		76655	scythe	dal-	sans1269	Sanskrit	20	77	
+43900-3069-2	T	"MEANING. Translation given is ""to cut (off)"""	SCYTHE	20	F	76718	scythe	lū-	sans1269	Sanskrit	20	77	
+43900-3072-1	T	"MEANING. Translation given is ""to cut (off)"""	SICKLE	341	F	76718	sickle	lū-	sans1269	Sanskrit	20	77	
+43900-3072-2	F		SICKLE	341		76881	sickle	sṛṇī-	sans1269	Sanskrit	20	77	
+43900-3072-3	F		SICKLE	341		76916	sickle	dr̥-	sans1269	Sanskrit	20	77	
+43900-3072-4	T	"MEANING. Translation given is ""sword"""	SICKLE	341	F	76962	sickle	kr̥pāṇa-	sans1269	Sanskrit	20	77	
+43900-3072-5	T		SICKLE	341	T	77060	sickle	laví-	sans1269	Sanskrit	20	77	
+43900-3060-1	T		PLOUGH (INSTRUMENT)	2154	T	77145	plough (noun)	hala-	sans1269	Sanskrit	20	77	
+43900-3072-6	T	"MEANING. Translation given is ""plough"". Note: Grammatical data specifies ""male"". "	SICKLE	341	F	77145	sickle	hala-	sans1269	Sanskrit	20	77	
+43900-3076-1	T	"MEANING. Translation given is ""shoulder-blade"". Note: Grammatical data specifies ""male"". "	SPADE	1176	F	77248	spade	sphyá-	sans1269	Sanskrit	20	77	
+43900-3076-2	T	"MEANING. Translation given is ""solid, firm""."	SPADE	1176	F	77480	spade	pajrá-	sans1269	Sanskrit	20	77	
+43900-3076-3	T	"MEANING. Translation given is ""surface, face"""	SPADE	1176	F	77481	spade	pā́jas-	sans1269	Sanskrit	20	77	
+43900-3076-4	T	MEANING: Translation given is  Oar	SPADE	1176	F	77699	spade	aritra-	sans1269	Sanskrit	20	77	
+43900-3076-5	T	MEANING: Translation given is rower	SPADE	1176	F	77700	spade	ari-tár-	sans1269	Sanskrit	20	77	
+43900-3076-6	F		SPADE	1176		77749	spade	khanitra-	sans1269	Sanskrit	20	77	
+43900-3076-7	F		SPADE	1176		77750	spade	khan-	sans1269	Sanskrit	20	77	
+43900-3060-2	F		PLOUGH (INSTRUMENT)	2154		78219	plough (noun)	śakti-	sans1269	Sanskrit	20	77	
+43900-3060-3	T	MEANING: Translation given is Branch, twig	PLOUGH (INSTRUMENT)	2154	F	78292	plough (noun)	śā́khā-	sans1269	Sanskrit	20	77	
+43900-3068-1	F		SAW	1948		78633	saw	karapatra-	sans1269	Sanskrit	20	77	
+43900-3005-1	T		AXE	677	T	78637	axe	paraśú-	sans1269	Sanskrit	20	77	
+43900-3005-2	F		AXE	677		79057	axe	kr̥vi-	sans1269	Sanskrit	20	77	
+43900-3005-3	F		AXE	677		79354	axe	tuj-	sans1269	Sanskrit	20	77	
+43900-3096-1	T		YOKE	14	T	79490	yoke	yugá-	sans1269	Sanskrit	20	77	
+43900-3096-2	T	MEANING: Translation given is to join	YOKE	14	F	79491	yoke	yuj-	sans1269	Sanskrit	20	77	
+43900-3084-1	T	"MEANING: the given meaning is """"chariot"""", however I believe that is somewhat limited and vahana may be better translated as """"vehicle"""" or """"mount"""""""	WAGON	959	F	79792	wagon	vahana-, vāhana-	sans1269	Sanskrit	20	77	
+43900-3084-2	T	MEANING: Translation given is to ride	WAGON	959	F	79793	wagon	vah-	sans1269	Sanskrit	20	77	
+43900-3084-3	T	MEANING: Translation given is vessel	WAGON	959	F	79795	wagon	vā́has-	sans1269	Sanskrit	20	77	
+43900-3084-4	T	MEANING: Translation given is  Draught animal, vessel	WAGON	959	F	79798	wagon	vāhá-	sans1269	Sanskrit	20	77	
+43900-3084-5	T	MEANING: Translation given is ship	WAGON	959	F	79801	wagon	vahitra-	sans1269	Sanskrit	20	77	
+43900-3088-1	T		WHEEL	710	T	80108	wheel	cakra-	sans1269	Sanskrit	20	77	
+43900-3088-2	T	MEANING: Translation given is chariot, wheel	WHEEL	710	F	80323	wheel	rátha-	sans1269	Sanskrit	20	77	
+43900-3088-3	T	MEANING: Translation given is Hub of the wheel (among others)	WHEEL	710	F	80338	wheel	nā́bhi-	sans1269	Sanskrit	20	77	
+43900-3041-1	T	MEANING: Translation given is Hub of the wheel. NOCONCEPT	???		F	80338	hub	nā́bhi-	sans1269	Sanskrit	20	77	
+43900-3006-1	T		AXLE	1769	T	80584	axle	ákṣa-	sans1269	Sanskrit	20	77	
+43900-3006-2	F		AXLE	1769		80752	axle	vartulā-	sans1269	Sanskrit	20	77	
+43900-3006-3	F		AXLE	1769		80754	axle	vṛt-	sans1269	Sanskrit	20	77	
+43900-3041-2	T	NOCONCEPT	???		F	80862	hub	nábhya-	sans1269	Sanskrit	20	77	
+43900-3019-3	T	MEANING: Translation given is earth, mother earth. NOCONCEPT	???		F	81246	cultivated field	pr̥thvī́-, pr̥thivī́-	sans1269	Sanskrit	20	77	
+43900-3019-4	F		???			81436	cultivated field	mahī́-	sans1269	Sanskrit	20	77	
+43900-3019-5	T	MEANING: Translation given is arable land, field yeiling crop. The distinction here is between a field that has been cultivated and a field that has the potential for cultivation. NOCONCEPT.	???		F	81548	cultivated field	urvárā-	sans1269	Sanskrit	20	77	
+43900-3029-1	T	MEANING: Translation given is furrow	FURROW	1794	F	81729	furrow	párśāna-	sans1269	Sanskrit	20	77	
+43900-3029-2	T	MEANING: Translation given is trajectory, draught	FURROW	1794	F	81824	furrow	ájma-	sans1269	Sanskrit	20	77	
+43900-3091-1	F		WINTER	1471		81912	winter	hāyana-	sans1269	Sanskrit	20	77	
+43900-3091-2	T	MEANING: Translation given is cold, frost	WINTER	1471	F	82024	winter	himá-	sans1269	Sanskrit	20	77	
+43900-3091-3	T	MEANING: Translation given is cold, frost	WINTER	1471	F	82027	winter	hímā-	sans1269	Sanskrit	20	77	
+43900-3091-4	T		WINTER	1471	T	82030	winter	hemantá-	sans1269	Sanskrit	20	77	
+43900-3079-2	F		SPRING (OF WATER)	849		82241	spring	vasantá-	sans1269	Sanskrit	20	77	
+43900-3079-3	T		SPRING (OF WATER)	849		82497	spring	spr̥haya-	sans1269	Sanskrit	20	77	
+43900-3081-2	T		SUMMER	1342		82860	summer	háras-	sans1269	Sanskrit	20	77	
+43900-3081-3	T	MEANING: Translation given is glow, heat, warmth	SUMMER	1342	F	82862	summer	gharmá-	sans1269	Sanskrit	20	77	
+43900-3081-4	T	MEANING: Translation given is heat, glow, blaze of the sun	SUMMER	1342	F	82864	summer	ghr̥ṇá-	sans1269	Sanskrit	20	77	
+43900-3081-5	F		SUMMER	1342		82932	summer	grīṣma-	sans1269	Sanskrit	20	77	
+43900-3081-6	F		SUMMER	1342		82934	summer	nidāgha-	sans1269	Sanskrit	20	77	
+43900-3081-7	F		SUMMER	1342		82935	summer	ni-dah-	sans1269	Sanskrit	20	77	
+43900-3004-1	F		AUTUMN	1276		83398	autumn	śarad-	sans1269	Sanskrit	20	77	
+43900-3017-1	T		COPPER	1825	T	83644	copper	áyas-	sans1269	Sanskrit	20	77	
+43900-3073-1	T		SILVER	759	T	83978	silver	árjuna-	sans1269	Sanskrit	20	77	
+43900-3073-2	T		SILVER	759	T	83996	silver	rajatá-	sans1269	Sanskrit	20	77	
+43900-3031-1	T		GOLD	1369	T	84350	gold	hiraṇya-	sans1269	Sanskrit	20	77	
+43900-3093-1	T	MEANING: Translation given is middle	WOOD	1803	F	84996	wood	mádhya-	sans1269	Sanskrit	20	77	
+43900-3093-2	T		WOOD	1803	T	85188	wood	dā́ru-	sans1269	Sanskrit	20	77	
+43900-3077-1	T	MEANING: Translation given is wood	SPEAR	945	F	85188	spear	dā́ru-	sans1269	Sanskrit	20	77	
+43900-3093-3	F		WOOD	1803		85357	wood	dám-	sans1269	Sanskrit	20	77	
+43900-3080-3	T	MEANING: Translation given is mountain, hill	STONE (OF FRUIT)	1762	F	85429	stone	girí-	sans1269	Sanskrit	20	77	
+43900-3080-4	T	MEANING: Translation given is stone, rock; sky. It's not clear whether the the word includes the meaning stone (of fruit).	STONE (OF FRUIT)	1762	F	85486	stone	áśman-	sans1269	Sanskrit	20	77	
+43900-3080-5	T	MEANING: Translation given is to coagulate	STONE (OF FRUIT)	1762	F	85774	stone	styai-	sans1269	Sanskrit	20	77	
+43900-3047-1	T		LEATHER	629	T	86218	leather	cárman-	sans1269	Sanskrit	20	77	
+43900-3047-2	T	MEANING: Translation given is hide, skin	LEATHER	629	F	86358	leather	ajína-	sans1269	Sanskrit	20	77	
+43900-3047-3	F		LEATHER	629		86404	leather	dṛ-	sans1269	Sanskrit	20	77	
+43900-3045-2	F		KNIFE	1352		86918	knife	śíśā-	sans1269	Sanskrit	20	77	
+43900-3045-3	F		KNIFE	1352		86976	knife	śastrá-	sans1269	Sanskrit	20	77	
+43900-3045-4	F		KNIFE	1352		86977	knife	śas-	sans1269	Sanskrit	20	77	
+43900-3045-5	F		KNIFE	1352		86985	knife	kṛti-	sans1269	Sanskrit	20	77	
+43900-3045-6	T		KNIFE	1352	T	86991	knife	churikā-	sans1269	Sanskrit	20	77	
+43900-3045-7	T		KNIFE	1352	T	86992	knife	kṣurikā-	sans1269	Sanskrit	20	77	
+43900-3045-8	T	MEANING: Translation given is razor	KNIFE	1352	F	86993	knife	kṣurá-	sans1269	Sanskrit	20	77	
+43900-3077-2	F		SPEAR	945		87119	spear	héṣas-	sans1269	Sanskrit	20	77	
+43900-3077-3	F		SPEAR	945		87486	spear	ṛṣṭi-	sans1269	Sanskrit	20	77	
+43900-3077-4	F		SPEAR	945		87556	spear	śalyá-	sans1269	Sanskrit	20	77	
+43900-3011-2	T	MEANING: Translation given is bowstring	BOW	994	F	87849	bow	jiyā́-	sans1269	Sanskrit	20	77	
+43900-3011-3	F		BOW	994		87862	bow	dhanvan-	sans1269	Sanskrit	20	77	
+43900-3003-1	T	MEANING: Translation given is reed	ARROW	977	F	88160	arrow	naḍá-	sans1269	Sanskrit	20	77	
+43900-3003-2	T	MEANING: Translation given is pipe, flute, vein	ARROW	977	F	88162	arrow	nāḍī́-	sans1269	Sanskrit	20	77	
+43900-3003-3	T		ARROW	977	T	88262	arrow	íṣu-	sans1269	Sanskrit	20	77	
+43900-3082-1	F		SWORD	1535		88495	sword	śáru-	sans1269	Sanskrit	20	77	
+43900-3086-9	F		WEAVE	133		94008	to weave	vabh-	sans1269	Sanskrit	20	77	
+43900-3029-3	T		FURROW	1794	T	94017	furrow	sītā-	sans1269	Sanskrit	20	77	
+43900-3011-4	F		BOW	994		94247	bow	bhuj-	sans1269	Sanskrit	20	77	
+43900-1023-6	F		EAT	1336		94247	to eat	bhuj-	sans1269	Sanskrit	20	77	

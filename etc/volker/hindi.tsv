@@ -1,0 +1,188 @@
+DIACL_ID	CHECKED	COMMENT	CONCEPT	CONCEPT_ID	CORRECT	DIACL_ID	ENGLISH	FORM	GLOTTOCODE	LANGUAGE	LATITUDE	LONGITUDE	PROBLEM
+44100-1001-1	T		ALL	98	T	28372	all (of a number)	sab, sabh	hind1269	Hindi	25	77	
+44100-1002-1	T	/rākh, rākhi/	ASH	646	F	28373	ash(es)	rākh	hind1269	Hindi	25	77	2
+44100-1002-2	T	/I could not find the word in the sources and the native speaker could not confirm its existence./	ASH	646	F	28374	ash(es)	chāra, chārā	hind1269	Hindi	25	77	1
+44100-1003-1	T		BARK	1204	T	28375	bark (of tree)	chāl	hind1269	Hindi	25	77	
+44100-1003-2	T	/I could not find the word in the sources and the native speaker could not confirm its existence./	BARK	1204	F	28376	bark (of tree)	bakkal, bakal, baklā	hind1269	Hindi	25	77	1
+44100-1004-1	T		BELLY OR STOMACH	2114	T	28377	belly (abdomen, stomach)	peṭ, peṭā	hind1269	Hindi	25	77	
+44100-1004-2	T		BELLY OR STOMACH	2114	T	28378	belly (abdomen, stomach)	kūkh, kū̃kh, kokh	hind1269	Hindi	25	77	
+44100-1005-1	T		BIG	1202	T	28379	big	baṛ, baṛā	hind1269	Hindi	25	77	
+44100-1006-1	T	/pākhī, pãkhī/	BIRD	937	F	28380	bird	pākhī, pãkhī, pakherū	hind1269	Hindi	25	77	2
+44100-1006-2	T		BIRD	937	T	28381	bird	ciṛiyā	hind1269	Hindi	25	77	
+44100-1007-1	T		BITE	1403	T	28382	to bite	ḍasnā	hind1269	Hindi	25	77	
+44100-1008-1	T	/I wasn/t able to find the evidence of this word colexifying BLACK and DARK, so perhaps it should be mapped to the BlACK concept on the Concepticon./	BLACK OR DARK	2633	F	28383	black (colour)	kālā	hind1269	Hindi	25	77	3
+44100-1009-1	T		BLOOD	946	T	28384	blood (n)	lohū, lahū, lehū	hind1269	Hindi	25	77	
+44100-1010-1	T	/hāṛi/	BONE	1394	F	28385	bone	hāṛ	hind1269	Hindi	25	77	2
+44100-1011-1	T	/sthan/	BREAST	1402	F	28386	breast	than	hind1269	Hindi	25	77	2
+44100-1011-2	T	/The word means /breast, heart/, so perhaps it should be mapped to the HEART concept on the Concepticon as well./	BREAST	1402	F	28387	breast	ur	hind1269	Hindi	25	77	3
+44100-1012-1	T		BURNING	1428	T	28388	to burn (intr.)	dahnā, dādhnā	hind1269	Hindi	25	77	
+44100-1012-2	T		BURNING	1428	T	28389	to burn (intr.)	jalnā	hind1269	Hindi	25	77	
+44100-1014-1	T		CLOUD	1489	T	28390	cloud (not fog)	bādal	hind1269	Hindi	25	77	
+44100-1015-1	T	/shishir/	COLD (OF WEATHER)	2483	F	28391	cold (of weather)	sisir	hind1269	Hindi	25	77	2
+44100-1015-2	T		COLD (OF WEATHER)	2483	T	28392	cold (of weather)	ṭhaṇḍh, ṭhaṇḍhā	hind1269	Hindi	25	77	
+44100-1016-1	T	/has come/	COME	1446	F	28393	to come	āyā	hind1269	Hindi	25	77	4
+44100-1016-2	T		COME	1446	T	28394	to come	ānā	hind1269	Hindi	25	77	
+44100-1017-1	T		DIE	1494	T	28395	to die	mūnā, marnā	hind1269	Hindi	25	77	
+44100-1018-1	T	/I couldn/t find the word in the sources and the native speaker of Hindi couldn/t confirm its existence./	DOG	2009	F	28396	dog	sūnā	hind1269	Hindi	25	77	1
+44100-3021-1	T	/I couldn/t find the word in the sources and the native speaker of Hindi couldn/t confirm its existence./	DOG	2009	F	28396	dog	sūnā	hind1269	Hindi	25	77	1
+44100-1018-2	T		DOG	2009	T	28397	dog	kuttā	hind1269	Hindi	25	77	
+44100-3021-2	T	double entry	DOG	2009	F	28397	dog	kuttā	hind1269	Hindi	25	77	double entry
+44100-1018-3	T	/kūkar, kukur, kukkur/	DOG	2009	F	28398	dog	kūkar, kukur	hind1269	Hindi	25	77	2
+44100-1019-1	T		DRINK	1401	T	28399	to drink	pīnā	hind1269	Hindi	25	77	
+44100-1020-1	T		DRY	1398	T	28400	dry (adj)	sūkhā, sūkā	hind1269	Hindi	25	77	
+44100-1021-1	T		EAR	1247	T	28401	ear	kān	hind1269	Hindi	25	77	
+44100-1022-1	T	/The word colexifies /world/ and /ground/soil/./	EARTH (SOIL)	1228	F	28402	earth (soil, ground)	bhū, bhõ	hind1269	Hindi	25	77	3
+44100-1023-1	T		EAT	1336	T	28403	to eat	khānā	hind1269	Hindi	25	77	
+44100-1024-1	T		EGG	744	T	28404	egg	aṇḍā	hind1269	Hindi	25	77	
+44100-1025-1	T		EYE	1248	T	28405	eye	ā̃kh	hind1269	Hindi	25	77	
+44100-1025-2	T		EYE	1248	T	28406	eye	loyan	hind1269	Hindi	25	77	
+44100-1013-1	T		FINGERNAIL	1258	T	28407	fingernail	nahã	hind1269	Hindi	25	77	
+44100-1028-1	T		FIRE	221	T	28408	fire	āg, āgī	hind1269	Hindi	25	77	
+44100-1029-1	T		FISH	227	T	28409	fish (n)	māch, machlī	hind1269	Hindi	25	77	
+44100-1030-1	T		FLY (MOVE THROUGH AIR)	1441	T	28410	to fly	uṛnā	hind1269	Hindi	25	77	
+44100-1031-1	T	/The correct spellings variants are /spā̃, pā̃i, pāu, pā̃u/; the meaning is /foot, leg, footprint/; so perhaps the words should be mapped to the FOOT OR LEG and FOOTPRINT concepts on the Concepticon./	FOOT	1301	F	28411	foot (not leg)	pā̃, pāu	hind1269	Hindi	25	77	2,3
+44100-1032-1	T	/pūn, pūrā/	FULL	1429	F	28412	full	pūn	hind1269	Hindi	25	77	2
+44100-1033-1	T		GIVE	1447	T	34465	to give	denā	hind1269	Hindi	25	77	
+44100-1034-1	T		GOOD	1035	T	34466	good	bhalā	hind1269	Hindi	25	77	
+44100-1034-2	T		GOOD	1035	T	34467	good	caṅgā	hind1269	Hindi	25	77	
+44100-1034-3	T		GOOD	1035	T	34468	good	āchā	hind1269	Hindi	25	77	
+44100-1035-1	T		GREEN	1425	T	34469	green (colour)	har, hariyā, harā, hariyar	hind1269	Hindi	25	77	
+44100-1036-1	T		HAIR (HEAD)	2648	T	34470	hair (of head)	kes	hind1269	Hindi	25	77	
+44100-1037-1	T	3, /The word should be mapped to the HAND concept on the Concepticon./	LEFT	244	F	34471	hand (not arm)	hāth	hind1269	Hindi	25	77	"""The word should be mapped to the HAND concept on the Concepticon."""
+44100-1038-1	T		HEAD	1256	T	34472	head (anatomic)	mū̃ḍ, mū̃ṛ, mũḍiyā, muṛiyā	hind1269	Hindi	25	77	
+44100-1038-2	T		HEAD	1256	T	34473	head (anatomic)	sir,  sīs	hind1269	Hindi	25	77	
+44100-1038-3	T	/mātha, mā̃tha/	HEAD	1256	F	34474	head (anatomic)	māth, mā̃th	hind1269	Hindi	25	77	2
+44100-1039-1	T		HEAR	1408	T	34475	to hear	sunnā	hind1269	Hindi	25	77	
+44100-1040-1	T	/The word means just /heart/, not /guts/, so perhaps it should be mapped to the HEART concept on the Concepticon./	GUTS OR HEART	2436	F	34476	heart (organ)	hiyā	hind1269	Hindi	25	77	3
+44100-1040-2	T	/I could not find the word in the dictionary, and the native speaker of Hindi identified the word/s meaning as /sweetheart/, but this concept seems to be absent on the Concepticon./	GUTS OR HEART	2436	F	34477	heart (organ)	karejā	hind1269	Hindi	25	77	3
+44100-1041-1	T		HORN (ANATOMY)	1393	T	34478	horn	sī̃g	hind1269	Hindi	25	77	
+44100-1042-1	T		I	1209	T	34479	I (1sg)	haũ, hõ, maĩ	hind1269	Hindi	25	77	
+44100-1043-1	T		KILL	1417	T	34480	to kill	hannā	hind1269	Hindi	25	77	
+44100-1043-2	T		KILL	1417	T	34481	to kill	mārnā	hind1269	Hindi	25	77	
+44100-1044-1	T		KNEE	1371	T	34482	knee	ghuṭnā	hind1269	Hindi	25	77	
+44100-1045-1	T	3, /The meaning of the word is not specified as /know something/, it seems to colexify concepts KNOW (SOMETHING), KNOW (SOMEBODY), and KNOW OR BE ABLE on the Concepticon./	KNOW (SOMETHING)	1410	F	34483	to know	jānnā	hind1269	Hindi	25	77	"""The meaning of the word is not specified as 'know something', it seems to colexify concepts KNOW (SOMETHING), KNOW (SOMEBODY), and KNOW OR BE ABLE on the Concepticon."""
+44100-1046-1	T	/I couldn/t find the word in the sources and the native speaker of Hindi couldn/t confirm its existence./	LEAF	628	F	34484	leaf (botanics)	pān	hind1269	Hindi	25	77	1
+44100-1046-2	T	/I couldn/t find the word in the sources and the native speaker of Hindi couldn/t confirm its existence./	LEAF	628	F	34485	leaf (botanics)	pāt, pātā, pattā	hind1269	Hindi	25	77	1
+44100-1048-1	T		LIVER	1224	T	34486	liver	kalejā, karejā	hind1269	Hindi	25	77	
+44100-1049-1	T		LONG	1203	T	34487	long (adj)	dīha	hind1269	Hindi	25	77	
+44100-1049-2	T		LONG	1203	T	34488	long (adj)	lā̃b, lambā	hind1269	Hindi	25	77	
+44100-1050-1	T		LOUSE	1392	T	34489	louse (lice)	jū̃	hind1269	Hindi	25	77	
+44100-1051-1	T	/manū/	MAN	1554	F	34490	man (adult male human)	manū, mānus	hind1269	Hindi	25	77	2
+44100-1051-2	T	/nar, narā/	MAN	1554	F	34491	man (adult male human)	nar	hind1269	Hindi	25	77	2
+44100-1051-3	T	/man, a man’s stature/	MAN	1554	F	34492	man (adult male human)	purus	hind1269	Hindi	25	77	3
+44100-1053-1	T		FLESH OR MEAT	2615	T	34493	meat/flesh	mā̃s, mās, māsā	hind1269	Hindi	25	77	
+44100-1054-1	T		MOON	1313	T	34494	moon	mās, māsā	hind1269	Hindi	25	77	
+44100-1054-2	T		MOON	1313	T	34495	moon	cā̃d, candā	hind1269	Hindi	25	77	
+44100-1056-1	T		MOUTH	674	T	34496	mouth	muh, mũh	hind1269	Hindi	25	77	
+44100-1056-2	T	/There are different spelling variants attested: /thūthr̥ā, thūthan, thūthnā/. The word means /mouth, snout/, so perhaps it should be mapped to the SNOUT concept on the Concepticon as well./	MOUTH	674	F	34497	mouth	thūthr̥ā	hind1269	Hindi	25	77	2,3
+44100-1057-1	T	/Correct spelling is /naam/; it means /name/, so perhaps the word should be mapped to the NAME concept on the Concepticon./	CALL BY NAME	180	F	34498	name	nā̃u	hind1269	Hindi	25	77	2,3
+44100-1058-1	T	/I could not find the word in the sources and the native speaker could not confirm its existence./	NECK	1333	F	34499	neck	kā̃ṭhā	hind1269	Hindi	25	77	1
+44100-1058-2	T		NECK	1333	T	34500	neck	gal, galā	hind1269	Hindi	25	77	
+44100-1059-1	T		NEW	1231	T	34501	new	nawā	hind1269	Hindi	25	77	
+44100-1060-1	T		NIGHT	1233	T	34502	night	rāt, rāti	hind1269	Hindi	25	77	
+44100-1061-1	T		NOSE	1221	T	34503	nose	nāk	hind1269	Hindi	25	77	
+44100-1062-1	T		NOT	1240	T	34504	not	nā	hind1269	Hindi	25	77	
+44100-1063-1	T		ONE	1493	T	34505	one	ek	hind1269	Hindi	25	77	
+44100-1064-1	T	/The word means /person, individual human/, so perhaps it should be linked to the PERSON concept on the Concepticon./	PERSON (CLASSIFIER)	516	F	34506	person (individual human)	janā	hind1269	Hindi	25	77	3
+44100-1066-1	T	/dyed, red (colour)/	RED	156	F	40837	red (colour)	rātā	hind1269	Hindi	25	77	3
+44100-1066-2	T	/I couldn/t find the word in the sources and the native speaker of Hindi couldn/t confirm its existence./	RED	156	F	40838	red (colour)	sūhā	hind1269	Hindi	25	77	1
+44100-1067-1	T	/I could not find the word in the sources and the native speaker could not confirm its existence./	PATH OR ROAD	2457	F	40839	road/path	bāṭ	hind1269	Hindi	25	77	1
+44100-1067-2	T	/māg/	PATH OR ROAD	2457	F	40840	road/path	māg, magg	hind1269	Hindi	25	77	2
+44100-1068-1	T		ROOT	670	T	40841	root (botanics)	mūl	hind1269	Hindi	25	77	
+44100-1069-1	T		ROUND	1395	T	40842	round	gol	hind1269	Hindi	25	77	
+44100-1069-2	T	/The spelling is /cāk/ and the meaning of the word is /wheel, circle/, so perhaps it should be mapped to the WHEEL and CIRCLE concepts on the Concepticon./	ROUND	1395	F	40843	round	cākal, caklā	hind1269	Hindi	25	77	2,3
+44100-1070-1	T		SAND	671	T	40844	sand	bālū, bārū	hind1269	Hindi	25	77	
+44100-1070-2	T		SAND	671	T	40845	sand	ret, retī	hind1269	Hindi	25	77	
+44100-1071-1	T		SAY	1458	T	40846	to say	kahnā	hind1269	Hindi	25	77	
+44100-1072-1	T		SEE	1409	T	40847	to see	dekhnā	hind1269	Hindi	25	77	
+44100-1073-1	T	/bīja/	GRAIN	605	F	40848	seed (n)	bīā, bīyā	hind1269	Hindi	25	77	2
+44100-1075-1	T		SKIN (HUMAN)	2613	T	40849	skin (person's)	chāl	hind1269	Hindi	25	77	
+44100-1076-1	T	/sutnā, sut/	SLEEP	1585	F	40850	to sleep	sonā	hind1269	Hindi	25	77	2
+44100-1076-2	T	/sutnā, sut/	SLEEP	1585	F	40851	to sleep	sūtnā	hind1269	Hindi	25	77	2
+44100-1077-1	T		SMALL	1246	T	40852	small	nānh, nānhā	hind1269	Hindi	25	77	
+44100-1077-2	T		SMALL	1246	T	40853	small	choṭā	hind1269	Hindi	25	77	
+44100-1078-1	T	/The word means /smoke (n)/, so it should be rather mapped to the SMOKE (EXHAUST) concept on the Concepticon./	SMOKE (EMIT SMOKE)	2859	F	40854	smoke (n)	dhūā̃, dhuwā̃	hind1269	Hindi	25	77	6
+44100-1079-1	T		STAND	1442	T	40855	to stand	uṭhnā	hind1269	Hindi	25	77	
+44100-1080-1	T		STAR	1430	T	40856	star	tārā	hind1269	Hindi	25	77	
+44100-1081-1	T	/The correct spelling is /shela/; it means /stone/, so perhaps should be mapped to the STONE concept on the Concepticon./	STONE (OF FRUIT)	1762	F	40857	stone	silī	hind1269	Hindi	25	77	2,3
+44100-1081-2	T	/The word means /stone/, so perhaps it should be mapped to the STONE concept on the Concepticon./	STONE (OF FRUIT)	1762	F	40858	stone	pāhā̆n	hind1269	Hindi	25	77	3
+44100-1081-3	T		STONE (OF FRUIT)	1762	T	40859	stone	pāthar, patthar, pathar, patthal	hind1269	Hindi	25	77	
+44100-1084-1	T		TAIL	1220	T	40860	tail	lagūl	hind1269	Hindi	25	77	
+44100-1084-2	T	/pū̃ch, pū̃chlā, pūchī/	TAIL	1220	F	40861	tail	pū̃ch	hind1269	Hindi	25	77	2
+44100-1085-1	T	/I couldn/t find the word in the sources and the native speaker of Hindi couldn/t confirm its existence./	THAT	78	F	40862	that (deixis, distal)	so	hind1269	Hindi	25	77	1
+44100-1085-2	T		THAT	78	T	40863	that (deixis, distal)	wah	hind1269	Hindi	25	77	
+44100-1086-1	T	/I couldn/t find the word in the sources and the native speaker of Hindi couldn/t confirm its existence./	THIS	1214	F	40864	this (deixis, proximal)	so	hind1269	Hindi	25	77	1
+44100-1087-1	T		THOU	1215	T	40865	thou (2sg)	tū, tū̃	hind1269	Hindi	25	77	
+44100-1088-1	T		TONGUE	1205	T	40866	tongue (anatomical)	jīb(h)	hind1269	Hindi	25	77	
+44100-1089-1	T		TOOTH	1380	T	40867	tooth (general)	dā̃t	hind1269	Hindi	25	77	
+44100-1090-1	T		TREE	906	T	40868	tree	rūkh	hind1269	Hindi	25	77	
+44100-1090-2	T		TREE	906	T	40869	tree	gāch	hind1269	Hindi	25	77	
+44100-1091-1	T		TWO	1498	T	40870	two	do	hind1269	Hindi	25	77	
+44100-1093-1	T	/I couldn/t find the word in the sources and the native speaker of Hindi couldn/t confirm its existence./	WARM (OF WEATHER)	2110	F	40871	warm (of weather)	tāt, tātā, tattā	hind1269	Hindi	25	77	1
+44100-1094-1	T	/The word means /water (n)/, so it perhaps should be mapped to the WATER concept on the Concepticon./	IRRIGATE	3078	F	40872	water (n)	jal	hind1269	Hindi	25	77	6
+44100-1094-2	T	/The word means /water (n)/, so perhaps it should be mapped to the WATER concept on the Concepticon./	IRRIGATE	3078	F	40873	water (n)	pānī	hind1269	Hindi	25	77	3
+44100-1094-3	T	/The word means /water/, so perhaps it should be mapped to the WATER concept on the Concepticon./	IRRIGATE	3078	F	40874	water (n)	nīrā	hind1269	Hindi	25	77	3
+44100-1095-1	T	/hum/	WE	1212	F	40875	we (1pl)	ham	hind1269	Hindi	25	77	2
+44100-1096-1	T		WHAT	1236	T	40876	what?	kyā	hind1269	Hindi	25	77	
+44100-1097-1	T	/I couldn/t find the word in the sources and the native speaker of Hindi couldn/t confirm its existence./	WHITE	1335	F	40877	white (colour)	suk	hind1269	Hindi	25	77	1
+44100-1097-2	T		WHITE	1335	T	40878	white (colour)	dhaulā, dhaurā, dhorā	hind1269	Hindi	25	77	
+44100-1098-1	T		WHO	1235	T	40879	who?	kis	hind1269	Hindi	25	77	
+44100-1099-1	T	/I couldn/t find the word in the sources and the native speaker of Hindi couldn/t confirm its existence./	WOMAN	962	F	40880	woman	tiyā	hind1269	Hindi	25	77	1
+44100-1099-2	T		WOMAN	962	T	40881	woman	nār	hind1269	Hindi	25	77	
+44100-1099-3	T		WOMAN	962	T	40882	woman	janī	hind1269	Hindi	25	77	
+44100-1100-1	T		YELLOW	1424	T	40883	yellow (colour)	haldiyā	hind1269	Hindi	25	77	
+44100-1100-2	T		YELLOW	1424	T	40884	yellow (colour)	pīlā	hind1269	Hindi	25	77	
+44100-3012-1	T	/I couldn/t find the word in the sources and the native speaker of Hindi couldn/t confirm its existence./	BULL	1008	F	54620	bull	shanḍ	hind1269	Hindi	25	77	1
+44100-3012-2	T	/The word actually translates as /fat ox/; whether it can be mapped to the BULL concept on the Concepticon, is open for debate; rather OX./	BULL	1008	F	54621	bull	saṇḍā	hind1269	Hindi	25	77	3
+44100-3012-3	T	/I couldn/t find the word in the sources and the native speaker of Hindi couldn/t confirm its existence./	BULL	1008	F	54629	bull	ã̄ḍū	hind1269	Hindi	25	77	1
+44100-3018-1	T		COW	1007	T	54793	cow	gāu	hind1269	Hindi	25	77	
+44100-3056-1	T		OX	1169	T	55262	ox	bail	hind1269	Hindi	25	77	
+44100-3013-1	T		CALF	1989	T	55424	calf	bacherā	hind1269	Hindi	25	77	
+44100-3015-1	T	/The eord is translated in the dictionary as /ox, cow/, so perhaps it should also be mapped to the eponymous concepts on the Concepticon./	CATTLE	1153	F	55431	cattle	gorū	hind1269	Hindi	25	77	3
+44100-3015-2	T	/The word means /animal (such as goat or sheep)/, so perhaps it should be mapped to the concept CAPRINE (GOAT OR SHEEP) on the Concepticon./	CATTLE	1153	F	55787	cattle	pasū	hind1269	Hindi	25	77	3
+44100-3015-3	T	/The word means /buffalo-heifer/, so perhaps it should be mapped to the concept BUFFALO on the Concepticon./	CATTLE	1153	F	55789	cattle	pas	hind1269	Hindi	25	77	3
+44100-3040-1	T		HORSE	615	T	56261	horse	ghoṛ, ghoṛā	hind1269	Hindi	25	77	
+44100-3040-2	T		HORSE	615	T	56262	horse	ghoṛī	hind1269	Hindi	25	77	
+44100-3022-1	T		DONKEY	1862	T	57129	donkey	gadhā, gadahā	hind1269	Hindi	25	77	
+44100-3071-1	T	/There are two variants of spelling attested: /mes, meh/; they both mean /ram/, so perhaps the word should be linked to the RAM concept on the Concepticon./	SHEEP	1331	F	57526	sheep	mes	hind1269	Hindi	25	77	2,3
+44100-3071-2	T	/bhēda/	SHEEP	1331	F	57532	sheep	bheṛ, bheṛī	hind1269	Hindi	25	77	2
+44100-3063-1	T	/I could not find the word in the sources and the native speaker could not confirm its existence./	RAM	1344	F	58210	ram	basah	hind1269	Hindi	25	77	1
+44100-3046-1	T		LAMB	820	T	58479	lamb	ulā	hind1269	Hindi	25	77	
+44100-3030-1	T		GOAT	1502	T	58663	goat	bakrī	hind1269	Hindi	25	77	
+44100-3030-2	T	/I could not find the word in the sources and the native speaker could not confirm its existence./	GOAT	1502	F	58667	goat	chelā, cherā	hind1269	Hindi	25	77	1
+44100-3030-3	T	/I could not find the word in the sources and the native speaker could not confirm its existence./	GOAT	1502	F	58668	goat	chelī, cherī	hind1269	Hindi	25	77	1
+44100-3058-1	T	/The word means /boar/, so perhaps it should be mapped to the BOAR concept on the Concepticon./	PIG	1337	F	59265	pig	sūar	hind1269	Hindi	25	77	3
+44100-3037-1	T		HEN	1514	T	59872	hen	kukkṛī	hind1269	Hindi	25	77	
+44100-3065-1	T		ROOSTER	1511	T	60319	rooster	kukaṛ	hind1269	Hindi	25	77	
+44100-3065-2	T		ROOSTER	1511	T	60320	rooster	kukṛã̄	hind1269	Hindi	25	77	
+44100-3023-1	T	/I couldn/t find the word in the sources and the native speaker of Hindi couldn/t confirm its existence./	DUCK	1360	F	60870	duck	āṛ	hind1269	Hindi	25	77	1
+44100-3023-2	T		DUCK	1360	T	60874	duck	hã̄s	hind1269	Hindi	25	77	
+44100-3021-3	T	/I couldn/t find the word in the sources and the native speaker of Hindi couldn/t confirm its existence./	DOG	2009	F	61083	dog	sūnī	hind1269	Hindi	25	77	1
+44100-3014-1	T	/Spelling is /billā/, meaning is /male cat/. Perhaps, concepts of male and female cats should be separated on the Concepticon./	CAT	1208	F	61469	cat	bilāṛ	hind1269	Hindi	25	77	1,3
+44100-3014-2	T		CAT	1208	T	61475	cat	mãjār	hind1269	Hindi	25	77	
+44100-3009-1	T	/I couldn/t find the word in the sources and the native speaker of Hindi couldn/t confirm its existence./	BEE	665	F	61732	bee	ālī	hind1269	Hindi	25	77	1
+44100-3009-2	T	/I could not find the word in the sources and the native speaker could not confirm its existence./	BEE	665	F	61735	bee	bhaũr, bhaur, bhaũrā	hind1269	Hindi	25	77	1
+44100-3009-3	T		BEE	665	T	61743	bee	madhumakkhī	hind1269	Hindi	25	77	
+44100-3092-1	T		WOLF	522	T	62002	wolf	bheṛiyā	hind1269	Hindi	25	77	
+44100-3008-1	T	/I couldn/t find the word in the sources and the native speaker of Hindi couldn/t confirm its existence./	BEAR	1820	F	62240	bear	rīch, rīchin, rīchnī	hind1269	Hindi	25	77	1
+44100-3008-2	T		BEAR	1820	T	62420	bear	bhāl, bhālū˘k	hind1269	Hindi	25	77	
+44100-3089-1	T	/bā̆rāh/	WILD BOAR	3154	F	62536	wild boar	varāh, bā̆rāh	hind1269	Hindi	25	77	2
+44100-3055-1	T		OWL	735	T	62901	owl	ulwā, uruā, ullū, ulū	hind1269	Hindi	25	77	
+44100-3048-1	T		LEOPARD	1139	T	63287	leopard	cītā, chītā	hind1269	Hindi	25	77	
+44100-3048-2	T	/The word means /lion/, so perhaps it should be linked to the LION concept on the Concepticon./	LEOPARD	1139	F	63321	leopard	sī˜gh, sīh	hind1269	Hindi	25	77	3
+44100-3049-1	T		LION	1386	T	63546	lion	śer	hind1269	Hindi	25	77	
+44100-3027-1	T	/The word means /long-tailed ram/, so perhaps it should be linked to the RAM concept on the Concepticon./	FOX	1312	F	63894	fox	puchiyā	hind1269	Hindi	25	77	3
+44100-3027-2	T		FOX	1312	T	63923	fox	lowā	hind1269	Hindi	25	77	
+44100-3027-3	T		FOX	1312	T	64098	fox	lomṛī	hind1269	Hindi	25	77	
+44100-3043-1	T	/There is no JACKAL concept on the Concepticon./	???		F	64150	jackal	siyāl, siyār, sāl, syālā	hind1269	Hindi	25	77	5
+44100-3043-2	T	/There seems to be no JACKAL concept on the Concepticon./	???		F	64154	jackal	gīdaṛ	hind1269	Hindi	25	77	5
+44100-3035-1	T	/I couldn/t find the word in the sources and the native speaker of Hindi couldn/t confirm its existence./	HARE	1190	F	64342	hare	sas, sasā	hind1269	Hindi	25	77	1
+44100-3035-2	T		HARE	1190	T	64451	hare	khārgoś, kharagoś,	hind1269	Hindi	25	77	
+44100-3035-3	T		HARE	1190	T	64571	hare	kharahā	hind1269	Hindi	25	77	
+44100-3074-1	T		SNAKE	730	T	64876	snake	sāp, sã̄p, sāpā	hind1269	Hindi	25	77	
+44100-3024-1	T	/I couldn/t find the word in the sources and the native speaker of Hindi couldn/t confirm its existence./	EAGLE	1905	F	66185	eagle	sen, sẽ	hind1269	Hindi	25	77	1
+44100-3020-1	T		DEER	1936	T	66373	deer	harin, hran, hiran, harnā, harinā, hirnā	hind1269	Hindi	25	77	
+44100-3020-2	T		DEER	1936	T	66378	deer	mrig	hind1269	Hindi	25	77	
+44100-3094-1	T		WOOL	964	T	67714	wool	ūn	hind1269	Hindi	25	77	
+44100-3038-1	T		HONEY	942	T	68833	honey	śahad	hind1269	Hindi	25	77	
+44100-3051-1	T	/Correct spelling is /mau/ and the meaning is /honey/, so perhaps the word should be linked to the HONEY concept on the Concepticon./	MEAD	941	F	69867	mead	madhu, mau	hind1269	Hindi	25	77	2,3
