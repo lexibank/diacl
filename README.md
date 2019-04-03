@@ -27,11 +27,11 @@ FIXME
 ![Concepticon: 100%](https://img.shields.io/badge/Concepticon-100%25-brightgreen.svg "Concepticon: 100%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
 
-- **Varieties:** 421
-- **Concepts:** 504
-- **Lexemes:** 59,326
+- **Varieties:** 422
+- **Concepts:** 537
+- **Lexemes:** 60,137
 - **Synonymy:** 1.38
-- **Cognacy:** 39,393 cognates in 5,565 cognate sets
+- **Cognacy:** 0 cognates in 0 cognate sets
 - **Invalid lexemes:** 0
 - **Tokens:** 0
 - **Segments:** 0 (0 BIPA errors, 0 CTLS sound class errors, 0 CLTS modified)

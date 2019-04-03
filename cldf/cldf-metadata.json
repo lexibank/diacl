@@ -15,15 +15,15 @@
         {
             "dc:title": "environment",
             "properties": {
-                "glottolog_version": "v3.3.2",
-                "concepticon_version": "pyconcepticon-1.4.0-59-gee7867b"
+                "glottolog_version": "v3.4",
+                "concepticon_version": "pyconcepticon-1.4.0-126-gb285b4a"
             }
         }
     ],
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
-            "dc:extent": 59326,
+            "dc:extent": 60137,
             "tableSchema": {
                 "columns": [
                     {
@@ -50,7 +50,7 @@
                     },
                     {
                         "datatype": "string",
-                        "propertyUrl": "http://linguistics-ontology.org/gold/2010/FormUnit",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#value",
                         "required": true,
                         "name": "Value"
                     },
@@ -138,7 +138,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#LanguageTable",
-            "dc:extent": 421,
+            "dc:extent": 422,
             "tableSchema": {
                 "columns": [
                     {
@@ -172,20 +172,32 @@
                         "name": "Macroarea"
                     },
                     {
+                        "datatype": {
+                            "base": "decimal",
+                            "minimum": -90,
+                            "maximum": 90
+                        },
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#latitude",
+                        "required": false,
+                        "name": "Latitude"
+                    },
+                    {
+                        "datatype": {
+                            "base": "decimal",
+                            "minimum": -180,
+                            "maximum": 180
+                        },
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#longitude",
+                        "required": false,
+                        "name": "Longitude"
+                    },
+                    {
                         "datatype": "string",
                         "name": "Family"
                     },
                     {
                         "datatype": "string",
                         "name": "time_frame"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "Longitude"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "Latitude"
                     }
                 ],
                 "primaryKey": [
@@ -196,7 +208,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ParameterTable",
-            "dc:extent": 504,
+            "dc:extent": 537,
             "tableSchema": {
                 "columns": [
                     {
@@ -228,7 +240,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#CognateTable",
-            "dc:extent": 39394,
+            "dc:extent": 0,
             "tableSchema": {
                 "columns": [
                     {

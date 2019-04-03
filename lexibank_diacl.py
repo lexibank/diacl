@@ -12,6 +12,7 @@ from json import dumps, loads
 from tqdm import tqdm
 import attr
 from clldutils.path import Path, remove
+from csvw.dsv import UnicodeWriter
 from pycldf.sources import Source
 from pylexibank.dataset import Lexeme, Cognate, Concept, Dataset as BaseDataset, Language
 
@@ -67,6 +68,15 @@ class Dataset(BaseDataset):
 
         $ csvstack -t ../../concepticon/concepticon-dev/concepticondata/conceptlists/Carling-2017-*.tsv > etc/concepts.csv
         """
+        with UnicodeWriter(self.dir / 'etc' / 'concepts.csv') as w:
+            cols = 'ID,NUMBER,CONCEPTICON_ID,CONCEPTICON_GLOSS,ENGLISH,DIACL_ID,DIACL_CATEGORY,DIACL_NOTE'.split(',')
+            w.writerow(cols)
+            for k, cl in sorted(self.concepticon.conceptlists.items(), key=lambda i: i[0]):
+                if k.startswith('Carling-2017-'):
+                    for concept in cl.concepts.values():
+                        w.writerow([
+                            getattr(concept, col) if hasattr(concept, col) else concept.attributes[col]
+                            for col in [c.lower() for c in cols]])
         #https://diacl.ht.lu.se/GeoJson/GeographicalPresence/24
         print('Download wordlists ...')
         wordlists = self._download_json('WordLists')
@@ -116,18 +126,8 @@ class Dataset(BaseDataset):
         return [value.split(',')[0].split(';')[0].strip()]
 
     def cmd_install(self, **kw):
-        """
-        Convert the raw data to a CLDF dataset.
-
-        Use the methods of `pylexibank.cldf.Dataset` after instantiating one as context:
-
-        >>> with self.cldf as ds:
-        ...     ds.add_sources(...)
-        ...     ds.add_language(...)
-        ...     ds.add_concept(...)
-        ...     ds.add_lexemes(...)
-        """
         glottocode_map = {int(l['ID']): l['Glottocode'] for l in self.languages if l['Glottocode']}
+        lmap = {int(l['ID']): l for l in self.languages}
 
         concepts, concept_map = OrderedDict(), {}
         for cid, items in groupby(
@@ -136,24 +136,6 @@ class Dataset(BaseDataset):
             for item in items:
                 concepts[cid] = item['CONCEPTICON_GLOSS']
                 concept_map[int(item['DIACL_ID'])] = cid
-
-        broader_concept_map = {}
-        for cid in list(concepts.keys()):
-            for relcid, _ in self.concepticon.relations.iter_related(cid, 'broader'):
-                if relcid in concepts:
-                    broader_concept_map[cid] = relcid
-                    break
-
-        tree = parse_tree(loads(self.raw.read('LanguageTree.json')))
-        complete_families = [
-            235,  # Chapacuran
-            245,  # Indo-European
-            469,  # Kartvelian
-            478,  # Nambikwaran
-            #Romani chib ?
-            506,  # Tupían
-            483,  # Caucasian languages - see https://twitter.com/DiachronicAtlas/status/970650946689781761
-        ]
 
         wls = [
             self.raw.read_xml(p.name, wrap=False) for p in
@@ -169,9 +151,6 @@ class Dataset(BaseDataset):
                 for lex in lang.findall('.//lexeme'):
                     lexemes[int(lex.get('lexeme-id'))] = parse_lexeme(lex)
 
-        # Compute cognate sets (or etymologies) as union of all lexemes ocurring together in any
-        # EtymologyTree:
-        cogsets = []
         with gzip.GzipFile(str(self.raw.joinpath('etymology.json.gz')), 'r') as fp:
             # we have to cluster using etymologies where FkReliabilityId < 2
             # we also assume cognacy to be transitive
@@ -180,59 +159,8 @@ class Dataset(BaseDataset):
                     print('skipping word list item {0}'.format(wli))
                     continue
 
-                for e in data['etymologies'].values():
-                    if e['FkReliabilityId'] < 2:
-                        found = False
-                        for c in cogsets:
-                            if e['FkChildId'] in c:
-                                c.add(e['FkParentId'])
-                                found = True
-                            if e['FkParentId'] in c:
-                                c.add(e['FkChildId'])
-                                found = True
-                        if not found:
-                            cogsets.append({e['FkParentId'], e['FkChildId']})
                 for lid in data['connectedLexemesById']:
                     lexemes[lid]['concepts'].add(concept_map[int(wli)])
-
-        # remove duplicates:
-        cogsets = set([tuple(sorted(c)) for c in cogsets])
-
-        # Augment sets of lexeme ids with associated (broadened) concepts:
-        cogsets = [set(
-            (l, frozenset(broader_concept_map.get(ci, ci) for ci in lexemes[l]['concepts']))
-             for l in c if l in lexemes and lexemes[l]['concepts']) for c in cogsets]
-
-        # Partition into sets of lexemes with identical concepts.
-        # Note: One cognate set has lexemes associated with two concepts:
-        # "man (adult male human)" and "person (individual human)"
-        cogsets_ = []
-        for c in cogsets:
-            for cids, items in groupby(sorted(c, key=lambda i: i[1]), lambda i: i[1]):
-                cogsets_.append((cids, frozenset(i[0] for i in items)))
-        cogsets = [cs for cs in cogsets_ if len(cs[1]) > 1]
-
-        # Remove partial cognate sets, contained in a larger one:
-        cogsets_ = set()
-        for cs in sorted(cogsets, key=lambda s: len(s[1]), reverse=True):
-            for c in cogsets_:
-                if c[0] == cs[0] and cs[1].issubset(c[1]):
-                    break
-            else:
-                cogsets_.add(cs)
-
-        cogsets = {
-            i: c for i, c in
-            enumerate(sorted(cogsets_, key=lambda cs: tuple(sorted(cs[1]))), start=1)}
-        lex_to_cogid = defaultdict(set)
-        for csid, (cids, lids) in cogsets.items():
-            if len(cids) > 1:
-                print('++cognate set for multiple concepts++', cids, lids)
-            for lid in lids:
-                lex_to_cogid[(lid, cids)].add(csid)
-        for k, v in lex_to_cogid.items():
-            if len(v) > 1:
-                print('--lexeme in multiple cognate sets--', k, v)
 
         with self.cldf as ds:
             lexemes = {k: v for k, v in lexemes.items() if v['concepts']}
@@ -247,6 +175,10 @@ class Dataset(BaseDataset):
             lids = set(l['language-id'] for l in lexemes.values())
             for lid, lang in sorted(languages.items()):
                 if lid in lids:
+                    if lid in lmap:
+                        for attr in ['Latitude', 'Longitude']:
+                            if lmap[lid][attr]:
+                                lang[attr.lower()] = lmap[lid][attr]
                     ds.add_language(
                         ID=lid,
                         Name=lang['name'],
@@ -271,12 +203,6 @@ class Dataset(BaseDataset):
                         meaning_note=lex['meaning_note'],
                     ):
                         pass
-                        #
-                        # FIXME: We leave cognates out for a first release. These should be
-                        # considerably more complete some time in 2019.
-                        #
-                        for csid in lex_to_cogid.get((lid, frozenset([cid])), []):
-                            ds.add_cognate(lexeme=l, Cognateset_ID=csid, diacl_lexeme_id=lid)
 
 
 def parse_language(l):
