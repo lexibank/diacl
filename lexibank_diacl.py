@@ -190,7 +190,7 @@ class Dataset(BaseDataset):
                     )
 
             for lid, lex in sorted(lexemes.items()):
-                for cid in lex['concepts']:
+                for cid in sorted(lex['concepts']):
                     for l in ds.add_lexemes(
                         Value=lex['form-transcription'],
                         Language_ID=lex['language-id'],
