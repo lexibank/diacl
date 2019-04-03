@@ -6,6 +6,19 @@ Cite the source dataset as
 
 Available online at https://diacl.ht.lu.se/
 
+Conceptlists in Concepticon:
+- [Carling-2017-104a](http://concepticon.clld.org/contributions/Carling-2017-104a)
+- [Carling-2017-209b](http://concepticon.clld.org/contributions/Carling-2017-209b)
+- [Carling-2017-240c](http://concepticon.clld.org/contributions/Carling-2017-240c)
+- [Carling-2017-97d](http://concepticon.clld.org/contributions/Carling-2017-97d)
+- [Carling-2017-112e](http://concepticon.clld.org/contributions/Carling-2017-112e)
+- [Carling-2017-87f](http://concepticon.clld.org/contributions/Carling-2017-87f)
+- [Carling-2017-127g](http://concepticon.clld.org/contributions/Carling-2017-127g)
+- [Carling-2017-10h](http://concepticon.clld.org/contributions/Carling-2017-10h)
+- [Carling-2017-97i](http://concepticon.clld.org/contributions/Carling-2017-97i)
+- [Carling-2017-97j](http://concepticon.clld.org/contributions/Carling-2017-97j)
+- [Carling-2017-87k](http://concepticon.clld.org/contributions/Carling-2017-87k)
+
 ## Notes
 
 From [Diachronic Atlas of Comparative Linguistics (DiACL)—A database for ancient language typology](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0205313#sec006)

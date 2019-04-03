@@ -71,12 +71,12 @@ class Dataset(BaseDataset):
         with UnicodeWriter(self.dir / 'etc' / 'concepts.csv') as w:
             cols = 'ID,NUMBER,CONCEPTICON_ID,CONCEPTICON_GLOSS,ENGLISH,DIACL_ID,DIACL_CATEGORY,DIACL_NOTE'.split(',')
             w.writerow(cols)
-            for k, cl in sorted(self.concepticon.conceptlists.items(), key=lambda i: i[0]):
-                if k.startswith('Carling-2017-'):
-                    for concept in cl.concepts.values():
-                        w.writerow([
-                            getattr(concept, col) if hasattr(concept, col) else concept.attributes[col]
-                            for col in [c.lower() for c in cols]])
+            for k in sorted(self.metadata.conceptlist):
+                cl = self.concepticon.conceptlists[k]
+                for concept in cl.concepts.values():
+                    w.writerow([
+                        getattr(concept, col) if hasattr(concept, col) else concept.attributes[col]
+                        for col in [c.lower() for c in cols]])
         #https://diacl.ht.lu.se/GeoJson/GeographicalPresence/24
         print('Download wordlists ...')
         wordlists = self._download_json('WordLists')
