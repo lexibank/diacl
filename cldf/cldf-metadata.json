@@ -18,7 +18,6 @@
     "dc:identifier": "https://diacl.ht.lu.se/",
     "dc:source": "sources.bib",
     "dc:title": "Diachronic Atlas of Comparative Linguistics ",
-    "dcat:accessURL": "https://github.com/lexibank/diacl",
     "rdf:ID": "diacl",
     "rdf:type": "http://www.w3.org/ns/dcat#Distribution",
     "dialect": {
@@ -28,8 +27,8 @@
         {
             "dc:title": "environment",
             "properties": {
-                "glottolog_version": "v3.4",
-                "concepticon_version": "pyconcepticon-1.4.0-126-gb285b4a"
+                "glottolog_version": "v3.4-1-g07a9b54e37",
+                "concepticon_version": "pyconcepticon-1.4.0-128-gaa2f593"
             }
         }
     ],
