@@ -2,8 +2,8 @@ ID,Name,Glottocode,Glottolog_Name,ISO639P3code,Macroarea,Family,time_frame,Longi
 11600,Buru,buru1303,,mhs,,,,126.66412,-3.489321
 21200,Malagasy (Merina),meri1243,,mlg,,,,47.562928,-18.876835
 24450,Eastern Bontok,barl1240,,ebk,,,,121.077816,17.145296
-35000,Conjubim,,,,,,,-64.167083,-12.242937
-35100,Proto-Indo-European,,,,,,,31.897499,47.688327
+35000,Conjubim,kuyu1236,,,,,,-64.167083,-12.242937
+35100,Proto-Indo-European,indo1319,,,,,,31.897499,47.688327
 36100,Modern Armenian,nucl1235,,hye,,,,44.527159,40.147389
 37700,Czech,czec1258,,ces,,,,14.468136,50.071244
 38400,Middle Breton,midd1359,,xbm,,,,-1.532472,47.207854
