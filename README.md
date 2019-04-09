@@ -30,8 +30,9 @@ From [Diachronic Atlas of Comparative Linguistics (DiACL)—A database for ancie
 
 ## Statistics
 
+
 [![Build Status](https://travis-ci.org/lexibank/diacl.svg?branch=master)](https://travis-ci.org/lexibank/diacl)
-![Glottolog: 86%](https://img.shields.io/badge/Glottolog-86%25-yellowgreen.svg "Glottolog: 86%")
+![Glottolog: 87%](https://img.shields.io/badge/Glottolog-87%25-yellowgreen.svg "Glottolog: 87%")
 ![Concepticon: 100%](https://img.shields.io/badge/Concepticon-100%25-brightgreen.svg "Concepticon: 100%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
 
@@ -39,9 +40,3 @@ From [Diachronic Atlas of Comparative Linguistics (DiACL)—A database for ancie
 - **Concepts:** 537
 - **Lexemes:** 60,137
 - **Synonymy:** 1.38
-- **Cognacy:** 0 cognates in 0 cognate sets
-- **Invalid lexemes:** 0
-- **Tokens:** 0
-- **Segments:** 0 (0 BIPA errors, 0 CTLS sound class errors, 0 CLTS modified)
-- **Inventory size (avg):** 0.00
-
