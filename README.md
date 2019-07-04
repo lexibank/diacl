@@ -32,7 +32,7 @@ From [Diachronic Atlas of Comparative Linguistics (DiACL)—A database for ancie
 
 
 [![Build Status](https://travis-ci.org/lexibank/diacl.svg?branch=master)](https://travis-ci.org/lexibank/diacl)
-![Glottolog: 87%](https://img.shields.io/badge/Glottolog-87%25-yellowgreen.svg "Glottolog: 87%")
+![Glottolog: 93%](https://img.shields.io/badge/Glottolog-93%25-green.svg "Glottolog: 93%")
 ![Concepticon: 100%](https://img.shields.io/badge/Concepticon-100%25-brightgreen.svg "Concepticon: 100%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
 

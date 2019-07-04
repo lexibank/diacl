@@ -1,7 +1,9 @@
 {
     "@context": "http://www.w3.org/ns/csvw",
+    "aboutUrl": null,
     "dc:bibliographicCitation": "Carling, Gerd (ed.) 2017. Diachronic Atlas of Comparative Linguistics Online. Lund: Lund University. (DOI/URL: https://diacl.ht.lu.se/. ). Accessed on: 2019-02-07.",
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#Wordlist",
+    "dc:description": null,
     "dc:format": [
         "http://concepticon.clld.org/contributions/Carling-2017-104a",
         "http://concepticon.clld.org/contributions/Carling-2017-209b",
@@ -16,9 +18,11 @@
         "http://concepticon.clld.org/contributions/Carling-2017-87k"
     ],
     "dc:identifier": "https://diacl.ht.lu.se/",
+    "dc:isVersionOf": null,
+    "dc:license": null,
+    "dc:related": null,
     "dc:source": "sources.bib",
     "dc:title": "Diachronic Atlas of Comparative Linguistics ",
-    "dcat:accessURL": "https://github.com/lexibank/diacl",
     "rdf:ID": "diacl",
     "rdf:type": "http://www.w3.org/ns/dcat#Distribution",
     "dialect": {
@@ -28,7 +32,7 @@
         {
             "dc:title": "environment",
             "properties": {
-                "glottolog_version": "v3.4",
+                "glottolog_version": "v4.0",
                 "concepticon_version": "v2.0"
             }
         }
