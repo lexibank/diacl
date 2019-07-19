@@ -1,7 +1,7 @@
 ID,Name,Glottocode,Glottolog_Name,ISO639P3code,Macroarea,Family,time_frame,Longitude,Latitude
 11600,Buru,buru1303,,mhs,,,,126.66412,-3.489321
-21200,Malagasy (Merina),meri1243,,mlg,,,,47.562928,-18.876835
-24450,Eastern Bontok,barl1240,,ebk,,,,121.077816,17.145296
+21200,Malagasy (Merina),meri1243,,,,,,47.562928,-18.876835
+24450,Eastern Bontok,fina1242,,bkb,,,,121.077816,17.145296
 35000,Conjubim,kuyu1236,,,,,,-64.167083,-12.242937
 35100,Proto-Indo-European,indo1319,,,,,,31.897499,47.688327
 36100,Modern Armenian,nucl1235,,hye,,,,44.527159,40.147389
@@ -15,7 +15,7 @@ ID,Name,Glottocode,Glottolog_Name,ISO639P3code,Macroarea,Family,time_frame,Longi
 41100,Old Swedish,olds1252,,,,,,16.321936,58.481083
 41700,German,stan1295,,deu,,,,13.409092,52.520822
 43200,Modern Greek,mode1248,,ell,,,,23.694334,38.028622
-43600,Prakrit,,,pra,,,,84.727979,25.379098
+43600,Prakrit,midd1350,Middle Indo-Aryan,,,,,84.727979,25.379098
 44500,Old Awadhi,,,,,,,80.955201,26.852508
 45000,Romani (Bugurdži),bugu1249,,,,,,21.222651,42.118106
 45100,Romani (Crimean),crim1258,,,,,,40.194456,43.590558
@@ -24,7 +24,7 @@ ID,Name,Glottocode,Glottolog_Name,ISO639P3code,Macroarea,Family,time_frame,Longi
 45800,Romani (East Slovak),east2314,,,,,,15.255232,49.763272
 45900,Romani (Gurvari),gurv1234,,,,,,20.059279,47.040238
 46000,Romani (Hungarian Vend),west2927,,,,,,17.201586,46.233155
-46100,Romani (Prekmurski),prek1239,,,,,,15.356687,46.129708
+46100,Romani (Prekmurski),prek1240,,,,,,15.356687,46.129708
 46300,Romani (Veršend),,,,,,,19.727951,46.346997
 46600,Romani (Burgenland),burg1246,,,,,,16.377534,47.193164
 46800,Romani (Latvian),latv1250,,,,,,24.343824,56.308972
@@ -35,11 +35,11 @@ ID,Name,Glottocode,Glottolog_Name,ISO639P3code,Macroarea,Family,time_frame,Longi
 47700,Romani (Gurbet),dzam1241,,,,,,19.218989,43.781873
 48000,Romani (Macedonian Džambazi),,,,,,,21.717456,42.131525
 48100,Romani (Sremski Gurbet),,,,,,,19.853655,45.59485
-49200,Lahnda,lahn1241,,lah,,,,72.507162,30.050444
-50000,Old Marathi,oldm1244,,,,,,75.494714,19.38701
+49200,Lahnda,west2386,,pnb,,,,72.507162,30.050444
+50000,Old Marathi,oldm1244,,omr,,,,75.494714,19.38701
 50300,Old Gujarati,,,,,,,72.139869,22.44456
-51400,Baluchi,,,bal,,,,65.03622,26.27794
-52100,Persian,,,per,,,,55.748043,32.735314
+51400,Baluchi,sout2642,,bcc,,,,65.03622,26.27794
+52100,Persian,west2369,,pes,,,,55.748043,32.735314
 53300,French,stan1290,,fra,,,,2.347857,48.854451
 54000,Old Italian,fior1236,,,,,,11.249249,43.776281
 54500,Romanian,roma1327,,ron,,,,26.086373,44.427511
