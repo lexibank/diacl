@@ -32,11 +32,12 @@ From [Diachronic Atlas of Comparative Linguistics (DiACL)—A database for ancie
 
 
 [![Build Status](https://travis-ci.org/lexibank/diacl.svg?branch=master)](https://travis-ci.org/lexibank/diacl)
-![Glottolog: 93%](https://img.shields.io/badge/Glottolog-93%25-green.svg "Glottolog: 93%")
+![Glottolog: 94%](https://img.shields.io/badge/Glottolog-94%25-green.svg "Glottolog: 94%")
 ![Concepticon: 100%](https://img.shields.io/badge/Concepticon-100%25-brightgreen.svg "Concepticon: 100%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
 
 - **Varieties:** 422
 - **Concepts:** 537
 - **Lexemes:** 60,137
+- **Sources:** 357
 - **Synonymy:** 1.38
