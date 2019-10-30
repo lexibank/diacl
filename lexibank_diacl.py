@@ -5,14 +5,14 @@ import gzip
 from collections import OrderedDict
 from itertools import groupby
 from json import dumps, loads
+from pathlib import Path
 
 import attr
-from pathlib import Path
 from pycldf.sources import Source
-from pylexibank.dataset import Dataset as BaseDataset
 from pylexibank import Lexeme, Cognate, Concept, Language
-from tqdm import tqdm
-from pylexibank.forms import FormSpec, FirstFormOnlySpec
+from pylexibank.dataset import Dataset as BaseDataset
+from pylexibank.forms import FormSpec
+from pylexibank.util import progressbar
 
 
 def _get_text(e, xpath):
@@ -60,8 +60,11 @@ class Dataset(BaseDataset):
         "[sup][/sup]": "",
     }
 
-    form_spec = FirstFormOnlySpec(
-        separators=";,", strip_inside_brackets=False, replacements=replacements
+    form_spec = FormSpec(
+        separators=";,",
+        strip_inside_brackets=False,
+        replacements=replacements,
+        first_form_only=True,
     )
 
     @staticmethod
@@ -77,7 +80,7 @@ class Dataset(BaseDataset):
         # https://diacl.ht.lu.se/GeoJson/GeographicalPresence/24
         print("Download wordlists ...")
         wordlists = self._download_json("WordLists")
-        for wlid in tqdm(list(wordlists.keys())):
+        for wlid in progressbar(list(wordlists.keys())):
             # We download the XML representations, because only these seem to contain source info
             # per lexeme.
             self.raw_dir.download(
@@ -93,7 +96,7 @@ class Dataset(BaseDataset):
             print(wl["Name"])
             for wlc in wl["WordListCategories"].values():
                 print("-- ", wlc["Name"])
-                for wli in tqdm(wlc["WordListItems"]):
+                for wli in progressbar(wlc["WordListItems"]):
                     data = self._download_json("WordListLexemesWithAncestors/{0}".format(wli))
                     del data["lexemes"]
                     del data["languages"]
