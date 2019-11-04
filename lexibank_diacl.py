@@ -50,15 +50,15 @@ class Dataset(BaseDataset):
     cognate_class = DiaclCognate
     language_class = DiaclLanguage
 
-    replacements = {
-        "[sub]1[/sub]": "₁",
-        "[sub]2[/sub]": "₂",
-        "[sub]3[/sub]": "₃",
-        "[sup]h[/sup]": "ʰ",
-        "[sup]w[/sup]": "ʷ",
-        "[sup]y[/sup]": "ʸ",
-        "[sup][/sup]": "",
-    }
+    replacements = [
+        ("[sub]1[/sub]", "₁"),
+        ("[sub]2[/sub]", "₂"),
+        ("[sub]3[/sub]", "₃"),
+        ("[sup]h[/sup]", "ʰ"),
+        ("[sup]w[/sup]", "ʷ"),
+        ("[sup]y[/sup]", "ʸ"),
+        ("[sup][/sup]", "")
+    ]
 
     form_spec = FormSpec(
         separators=";,",
