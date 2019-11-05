@@ -27,7 +27,7 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "git@github.com:lexibank/diacl",
-            "dc:created": "v1.1-5-g576178f"
+            "dc:created": "v1.1-6-g8be9689"
         },
         {
             "rdf:type": "prov:Entity",
@@ -273,6 +273,10 @@
                     {
                         "datatype": "string",
                         "name": "Concepticon_Gloss"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "DIACL_ID"
                     }
                 ],
                 "primaryKey": [

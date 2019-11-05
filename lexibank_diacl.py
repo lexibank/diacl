@@ -3,11 +3,11 @@ https://diacl.ht.lu.se/Content/documents/DiACL-lexicology.pdf
 """
 import gzip
 from collections import OrderedDict
-from itertools import groupby
 from json import dumps, loads
 from pathlib import Path
 
 import attr
+from clldutils.misc import slug
 from pycldf.sources import Source
 from pylexibank import Lexeme, Cognate, Concept, Language
 from pylexibank.dataset import Dataset as BaseDataset
@@ -42,10 +42,15 @@ class DiaclLanguage(Language):
     Latitude = attr.ib(default=None)
 
 
+@attr.s
+class DiaclConcept(Concept):
+    DIACL_ID = attr.ib(default=None)
+
+
 class Dataset(BaseDataset):
     id = "diacl"
     dir = Path(__file__).parent
-    concept_class = Concept
+    concept_class = DiaclConcept
     lexeme_class = DiaclLexeme
     cognate_class = DiaclCognate
     language_class = DiaclLanguage
@@ -57,7 +62,7 @@ class Dataset(BaseDataset):
         ("[sup]h[/sup]", "ʰ"),
         ("[sup]w[/sup]", "ʷ"),
         ("[sup]y[/sup]", "ʸ"),
-        ("[sup][/sup]", "")
+        ("[sup][/sup]", ""),
     ]
 
     form_spec = FormSpec(
@@ -113,14 +118,20 @@ class Dataset(BaseDataset):
         glottocode_map = {int(l["ID"]): l["Glottocode"] for l in self.languages if l["Glottocode"]}
         lmap = {int(l["ID"]): l for l in self.languages}
 
-        concepts, concept_map = OrderedDict(), {}
-        for cid, items in groupby(
-            sorted(self.concepts, key=lambda c_: c_["CONCEPTICON_ID"]),
-            lambda c_: c_["CONCEPTICON_ID"],
-        ):
-            for item in items:
-                concepts[cid] = item["CONCEPTICON_GLOSS"]
-                concept_map[int(item["DIACL_ID"])] = cid
+        concepts, concept_map, lookup = OrderedDict(), {}, {}
+        for conceptlist in self.conceptlists:
+            for concept in conceptlist.concepts.values():
+                id = concept.id.split('-')[-1] + '_' + slug(concept.english)
+                args.writer.add_concept(
+                    ID=id,
+                    Name=concept.gloss,
+                    Concepticon_ID=concept.concepticon_id,
+                    DIACL_ID=concept.attributes["diacl_id"],
+                )
+
+                lookup[concept.concepticon_id] = id
+                concepts[concept.concepticon_id] = concept.concepticon_gloss
+                concept_map[int(concept.attributes["diacl_id"])] = concept.concepticon_id
 
         wls = [
             self.raw_dir.read_xml(p.name, wrap=False)
@@ -150,10 +161,6 @@ class Dataset(BaseDataset):
 
         lexemes = {k: v for k, v in lexemes.items() if v["concepts"]}
 
-        for cid, gloss in concepts.items():
-            if cid:
-                args.writer.add_concept(ID=cid, Name=gloss, Concepticon_ID=cid)
-
         for src in sorted(sources.values(), key=lambda s: s["key"]):
             args.writer.add_sources(src)
 
@@ -181,7 +188,7 @@ class Dataset(BaseDataset):
                 args.writer.add_forms_from_value(
                     Value=lex["form-transcription"],
                     Language_ID=lex["language-id"],
-                    Parameter_ID=cid,
+                    Parameter_ID=lookup[cid],
                     diacl_id=lid,
                     Source=[s[0] for s in lex["sources"]],
                     transliteration=lex["form-transliteration"],
