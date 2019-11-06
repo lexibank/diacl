@@ -22,7 +22,7 @@ def _get_text(e, xpath):
 
 
 @attr.s
-class DiaclLexeme(Lexeme):
+class CustomLexeme(Lexeme):
     diacl_id = attr.ib(default=None)
     meaning = attr.ib(default=None)
     meaning_note = attr.ib(default=None)
@@ -31,29 +31,29 @@ class DiaclLexeme(Lexeme):
 
 
 @attr.s
-class DiaclCognate(Cognate):
+class CustomCognate(Cognate):
     diacl_lexeme_id = attr.ib(default=None)
 
 
 @attr.s
-class DiaclLanguage(Language):
+class CustomLanguage(Language):
     time_frame = attr.ib(default=None)
     Longitude = attr.ib(default=None)
     Latitude = attr.ib(default=None)
 
 
 @attr.s
-class DiaclConcept(Concept):
+class CustomConcept(Concept):
     DIACL_ID = attr.ib(default=None)
 
 
 class Dataset(BaseDataset):
     id = "diacl"
     dir = Path(__file__).parent
-    concept_class = DiaclConcept
-    lexeme_class = DiaclLexeme
-    cognate_class = DiaclCognate
-    language_class = DiaclLanguage
+    concept_class = CustomConcept
+    lexeme_class = CustomLexeme
+    cognate_class = CustomCognate
+    language_class = CustomLanguage
 
     replacements = [
         ("[sub]1[/sub]", "₁"),

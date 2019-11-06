@@ -38,6 +38,6 @@ From [Diachronic Atlas of Comparative Linguistics (DiACL)—A database for ancie
 
 - **Varieties:** 422
 - **Concepts:** 537
-- **Lexemes:** 60,137
+- **Lexemes:** 60,130
 - **Sources:** 357
 - **Synonymy:** 1.38

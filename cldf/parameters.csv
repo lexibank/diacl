@@ -200,7 +200,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,DIACL_ID
 50_smoken,,778,SMOKE (EXHAUST),12209
 51_fire,,221,FIRE,12210
 52_mountain,,639,MOUNTAIN,12211
-53_shorebank,,3310,SHORE OR BANK,12212
+53_shorebank,,113,SHORE,12212
 54_sea,,1474,SEA,12213
 55_ocean,,645,OCEAN,12214
 56_lake,,624,LAKE,12215
@@ -217,6 +217,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,DIACL_ID
 69_waterfall,,943,WATERFALL,12228
 70_sky,,1732,SKY,12229
 71_wind,,960,WIND,12230
+72_harvestcrop,,611,HARVEST,12140
 75_tocultivate,,1541,CULTIVATE,12180
 81_flower,,239,FLOWER,12364
 85_sling,,387,SLING,12194
@@ -239,7 +240,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,DIACL_ID
 120_slave,,812,SLAVE,12261
 121_servant,,255,SERVANT,12262
 122_freeman,,384,FREEMAN,12263
-124_togiveorder,,1128,ORDER,12265
+123_toordertocommand,,1998,COMMAND,12264
 125_toobey,,1635,OBEY,12266
 129_battle,,579,BATTLE,12161
 133_toshoot,,1172,SHOOT,12165
@@ -282,7 +283,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,DIACL_ID
 183_slow,,701,SLOW,12277
 184_tohurry,,754,HURRY,12278
 185_todelay,,425,BE LATE,12279
-186_tobegin,,1806,BEGIN,12280
+186_tobegin,,3447,BEGIN OR START,12280
 187_tolast,,1186,LAST (ENDURE),12281
 188_endn,,743,END (OF TIME),12282
 189_tocompletetofinish,,1766,FINISH,12283
@@ -444,7 +445,6 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,DIACL_ID
 31_calf,,1989,CALF,12408
 42_kid,,1972,KID,12419
 67_autumn,,1276,AUTUMN,12444
-68_harvest,,611,HARVEST,12445
 72_ash,,646,ASH,12449
 73_beech,,1950,BEECH,12450
 74_birch,,1855,BIRCH,12451

@@ -27,7 +27,7 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "git@github.com:lexibank/diacl",
-            "dc:created": "v1.1-6-g8be9689"
+            "dc:created": "v1.1-7-g5bc9521"
         },
         {
             "rdf:type": "prov:Entity",
@@ -39,7 +39,7 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Concepticon",
             "rdf:about": "git@github.com:concepticon/concepticon-data",
-            "dc:created": "v2.1.0"
+            "dc:created": "v2.2.0"
         },
         {
             "rdf:type": "prov:Entity",
@@ -66,7 +66,7 @@
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
-            "dc:extent": 60137,
+            "dc:extent": 60130,
             "tableSchema": {
                 "columns": [
                     {
