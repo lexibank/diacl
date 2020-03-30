@@ -37,7 +37,7 @@ From [Diachronic Atlas of Comparative Linguistics (DiACL)—A database for ancie
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
 
 - **Varieties:** 422
-- **Concepts:** 537
-- **Lexemes:** 60,130
+- **Concepts:** 539
+- **Lexemes:** 60,138
 - **Sources:** 357
 - **Synonymy:** 1.38

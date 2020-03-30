@@ -71,7 +71,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,DIACL_ID
 84_if,,1459,IF,2084
 85_in,,1460,IN,2085
 87_knee,,1371,KNEE,2087
-88_toknow,,1410,KNOW (SOMETHING),2088
+88_toknow,,3626,KNOW,2088
 90_tolaugh,,1355,LAUGH,2090
 91_leafbotanics,,628,LEAF,2091
 92_leftnotright,,244,LEFT,2092
@@ -226,6 +226,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,DIACL_ID
 91_fishtrap,,389,FISH TRAP,12200
 96_flour,,1594,FLOUR,12231
 98_fermenteddrink,,404,ALCOHOL (FERMENTED DRINK),12233
+99_cookingvessel,,3653,COOKING POT,12189
 101_cupglass,,476,CUP,12191
 105_comb,,1475,COMB,12184
 106_statue,,1002,STATUE,12185
@@ -343,7 +344,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,DIACL_ID
 31_tosing,,1261,SING,5031
 32_todance,,1879,DANCE,5032
 33_tohunt,,1435,HUNT,5033
-34_topoundrice,,354,POUND,5034
+34_topoundrice,,3768,POUND (FOOD),5034
 35_ricecrop,,2026,RICE PLANT,5035
 36_ricegrain,,926,RICE,5036
 37_ricecooked,,1191,COOKED RICE,5037
@@ -369,7 +370,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,DIACL_ID
 60_jewsharp,,3319,JEW’S HARP,5060
 61_fieldwetricepaddy,,140,PADDY FIELD,5061
 62_fielddry,,2794,FIELD (UPLAND),5062
-63_mortar,,224,MORTAR CRUSHER,5063
+63_mortar,,224,MORTAR,5063
 64_pestle,,225,PESTLE,5064
 65_trap,,1075,TRAP (PITFALL),5065
 66_snare,,3320,SNARE (TRAP),5066
@@ -384,6 +385,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,DIACL_ID
 77_monsoonseason,,3323,MONSOON SEASON,5077
 80_ironmetal,,3324,IRON OR METAL,5080
 83_pearl,,3325,PEARL,5083
+84_cowryshell,,3663,COWRIE SHELL,5084
 87_leatherhide,,3326,LEATHER OR HIDE,5087
 88_cloth,,1616,CLOTH,5088
 89_bamboo,,1927,BAMBOO,5089
