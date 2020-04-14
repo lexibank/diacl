@@ -1,7 +1,7 @@
 {
     "url": "https://diacl.ht.lu.se/",
     "license": "",
-    "title": "Diachronic Atlas of Comparative Linguistics ",
+    "title": "CLDF dataset derived from Carling’s \"Diachronic Atlas of Comparative Linguistics\" from 2017",
     "citation": "Carling, Gerd (ed.) 2017. Diachronic Atlas of Comparative Linguistics Online. Lund: Lund University. (DOI/URL: https://diacl.ht.lu.se/. ). Accessed on: 2019-02-07.",
     "conceptlist": [
         "Carling-2017-104a",
