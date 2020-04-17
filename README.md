@@ -1,8 +1,8 @@
-# Diachronic Atlas of Comparative Linguistics 
+# CLDF dataset derived from Carling's "Diachronic Atlas of Comparative Linguistics" from 2017
 
 Cite the source dataset as
 
-> Carling, Gerd (ed.) 2017. Diachronic Atlas of Comparative Linguistics Online. Lund: Lund University. (DOI/URL: https://diacl.ht.lu.se/. ). Accessed on: 2019-02-07.
+> Carling, Gerd (ed.) 2017. Diachronic Atlas of Comparative Linguistics Online. Lund: Lund University. (DOI/URL: https://diacl.ht.lu.se/). Accessed on: 2019-02-07.
 
 Available online at https://diacl.ht.lu.se/
 
@@ -41,3 +41,12 @@ From [Diachronic Atlas of Comparative Linguistics (DiACL)—A database for ancie
 - **Lexemes:** 60,138
 - **Sources:** 357
 - **Synonymy:** 1.38
+
+# Contributors
+
+Name               | GitHub user  | Description                          | Role
+---                | ---          | ---                                  | ---
+Robert Forkel | @xrotwang   | digitization, code        | Author
+Christoph Rzymski        | @chrzyki       | patron     | Author
+
+

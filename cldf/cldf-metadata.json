@@ -1,7 +1,7 @@
 {
     "@context": "http://www.w3.org/ns/csvw",
     "aboutUrl": null,
-    "dc:bibliographicCitation": "Carling, Gerd (ed.) 2017. Diachronic Atlas of Comparative Linguistics Online. Lund: Lund University. (DOI/URL: https://diacl.ht.lu.se/. ). Accessed on: 2019-02-07.",
+    "dc:bibliographicCitation": "Carling, Gerd (ed.) 2017. Diachronic Atlas of Comparative Linguistics Online. Lund: Lund University. (DOI/URL: https://diacl.ht.lu.se/). Accessed on: 2019-02-07.",
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#Wordlist",
     "dc:format": [
         "http://concepticon.clld.org/contributions/Carling-2017-104a",
@@ -20,26 +20,26 @@
     "dc:isVersionOf": null,
     "dc:related": null,
     "dc:source": "sources.bib",
-    "dc:title": "Diachronic Atlas of Comparative Linguistics ",
+    "dc:title": "CLDF dataset derived from Carling's \"Diachronic Atlas of Comparative Linguistics\" from 2017",
     "dcat:accessURL": "https://github.com/lexibank/diacl",
     "prov:wasDerivedFrom": [
         {
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/lexibank/diacl",
-            "dc:created": "v1.1-9-g20838fd"
+            "dc:created": "v2.0-6-g6aa7029"
         },
         {
             "rdf:type": "prov:Entity",
             "dc:title": "Glottolog",
             "rdf:about": "https://github.com/glottolog/glottolog",
-            "dc:created": "eWAVE-3.0-12-gca0059929e"
+            "dc:created": "v4.2.1"
         },
         {
             "rdf:type": "prov:Entity",
             "dc:title": "Concepticon",
             "rdf:about": "https://github.com/concepticon/concepticon-data",
-            "dc:created": "v2.3.0-29-g207180e"
+            "dc:created": "v2.3.0"
         },
         {
             "rdf:type": "prov:Entity",
@@ -51,7 +51,7 @@
     "prov:wasGeneratedBy": [
         {
             "dc:title": "python",
-            "dc:description": "3.8.2"
+            "dc:description": "3.7.3"
         },
         {
             "dc:title": "python-packages",
@@ -127,6 +127,14 @@
                     {
                         "datatype": "boolean",
                         "name": "Loan"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Graphemes"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Profile"
                     },
                     {
                         "datatype": "string",
