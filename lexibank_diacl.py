@@ -168,7 +168,7 @@ class Dataset(BaseDataset):
         for lid, lang in sorted(languages.items()):
             if lid in lids:
                 if lid in lmap:
-                    for attr in ["Latitude", "Longitude"]:
+                    for attr in ["Latitude", "Longitude", "time_frame"]:
                         if lmap[lid][attr]:
                             lang[attr.lower()] = lmap[lid][attr]
                 args.writer.add_language(

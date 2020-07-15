@@ -12,7 +12,7 @@ ID,Name,Glottocode,Glottolog_Name,ISO639P3code,Macroarea,Latitude,Longitude,Fami
 9500,Tukang Besi,tuka1249,Tukang Besi South,bhq,Papunesia,-5.760491,123.9571,Austronesian,
 9900,Uma,umaa1242,Uma,ppk,Papunesia,-1.516005,119.901433,Austronesian,
 10600,Manggarai,mang1405,Manggarai,mqy,Papunesia,-8.597801,119.933716,Austronesian,
-11600,Buru,buru1303,Buru (Indonesia),mhs,Papunesia,-3.489321,126.66412,Austronesian,
+11600,Buru,buru1303,Buru (Indonesia),mhs,Papunesia,-3.489321,126.66412,Austronesian,1750–2000
 12600,Kambera,kamb1299,Kambera,xbr,Papunesia,-9.953635,120.450471,Austronesian,
 13200,Eastern Fijian,fiji1243,Fijian,fij,Papunesia,-17.988576,178.431126,Austronesian,
 13250,Hawaiian,hawa1245,Hawaiian,haw,Papunesia,21.903317,-160.135279,Austronesian,
@@ -35,7 +35,7 @@ ID,Name,Glottocode,Glottolog_Name,ISO639P3code,Macroarea,Latitude,Longitude,Fami
 19400,Motu,motu1246,Motu,meu,Papunesia,-9.49682,147.29456,Austronesian,
 20300,Lau,lauu1247,Lau,llu,Papunesia,-8.385264,160.796082,Austronesian,
 20900,Chamorro,cham1312,Chamorro,cha,Papunesia,15.056387,145.6174,Austronesian,
-21200,Malagasy (Merina),meri1243,Merina,mlg,Africa,-18.876835,47.562928,Austronesian,
+21200,Malagasy (Merina),meri1243,Merina,mlg,Africa,-18.876835,47.562928,Austronesian,1750–2000
 21300,Ma'anyan,maan1238,Ma'anyan,mhy,Papunesia,-2.61428,115.827399,Austronesian,
 21500,Javanese,java1254,Javanese,jav,Papunesia,-7.181816,109.751026,Austronesian,
 21700,Madurese,nucl1460,Madurese,mad,Papunesia,-7.745545,114.187514,Austronesian,
@@ -55,7 +55,7 @@ ID,Name,Glottocode,Glottolog_Name,ISO639P3code,Macroarea,Latitude,Longitude,Fami
 24200,Koronadal,koro1310,Koronadal Blaan,bpr,Papunesia,6.090326,125.146004,Austronesian,
 24400,Binukid,binu1244,Talaandig-Binukid,bkd,Papunesia,8.445478,124.767008,Austronesian,
 24425,Cebuano,cebu1242,Cebuano,ceb,Papunesia,8.917579,124.971823,Austronesian,
-24450,Eastern Bontok,fina1242,Finallig,ebk,Papunesia,17.145296,121.077816,Austronesian,
+24450,Eastern Bontok,fina1242,Finallig,ebk,Papunesia,17.145296,121.077816,Austronesian,1750–2000
 24600,Gaddang,gadd1244,Gaddang,gad,Papunesia,16.460202,121.015812,Austronesian,
 24700,Gorontalo,goro1259,Gorontalo,gor,Papunesia,0.723093,122.447249,Austronesian,
 24800,Guinaang,lubu1243,Lubuagan Kalinga,knb,Papunesia,17.445044,121.074187,Austronesian,
@@ -120,7 +120,7 @@ ID,Name,Glottocode,Glottolog_Name,ISO639P3code,Macroarea,Latitude,Longitude,Fami
 34800,Oro Waram Xijem,orow1243,Oro Win,orw,South America,-10.535876,-65.02133,Chapacuran,
 34900,Oro Win,orow1243,Oro Win,orw,South America,-10.747746,-64.0423,Chapacuran,
 34950,Wari',wari1268,Wari',pav,South America,-11.143812,-65.275391,Chapacuran,
-35000,Conjubim,kuyu1236,Kuyubi,,South America,-12.242937,-64.167083,Chapacuran,
+35000,Conjubim,kuyu1236,Kuyubi,,South America,-12.242937,-64.167083,Chapacuran,1750–2000
 35075,Chiquitano,chiq1248,Lomeriano-Ignaciano Chiquitano,cax,South America,-17.329057,-60.524715,Lomeriano-Ignaciano Chiquitano,
 35100,Proto-Indo-European,indo1319,Indo-European,,,47.688327,31.897499,Indo-European,
 35200,Proto-Albanian,,,,,41.692936,19.708944,,
@@ -131,7 +131,7 @@ ID,Name,Glottocode,Glottolog_Name,ISO639P3code,Macroarea,Latitude,Longitude,Fami
 35800,Lydian,lydi1241,Lydian,xld,Eurasia,38.488284,28.040288,Indo-European,
 35900,Proto-Armenian,,,,,40.287906,45.379026,,
 36000,Classical Armenian,clas1249,Classical-Middle Armenian,xcl,Eurasia,39.939225,44.543638,Indo-European,
-36100,Modern Armenian,nucl1235,Eastern Armenian,arm,Eurasia,40.147389,44.527159,Indo-European,
+36100,Modern Armenian,nucl1235,Eastern Armenian,arm,Eurasia,40.147389,44.527159,Indo-European,1750–2000
 36200,Proto-Balto-Slavic,,,,,54.23095,23.122101,,
 36500,Latvian,latv1249,Latvian,lav,Eurasia,56.915,24.113274,Indo-European,
 36600,Lithuanian,lith1251,Lithuanian,lit,Eurasia,54.680183,25.255852,Indo-European,
@@ -145,18 +145,18 @@ ID,Name,Glottocode,Glottolog_Name,ISO639P3code,Macroarea,Latitude,Longitude,Fami
 37500,Serbian,serb1264,Serbian Standard,srp,Eurasia,44.801327,20.472164,Indo-European,
 37525,Serbo-Croatian,,,,,45.301327,17.992661,,
 37550,Slovene,slov1268,Slovenian,slv,Eurasia,46.050593,14.50823,Indo-European,
-37700,Czech,czec1258,Czech,cze,Eurasia,50.071244,14.468136,Indo-European,
+37700,Czech,czec1258,Czech,cze,Eurasia,50.071244,14.468136,Indo-European,1500–2000
 37800,Old Church Slavonic,chur1257,Church Slavic,chu,Eurasia,43.955965,22.871767,Indo-European,
 37900,Polish,poli1260,Polish,pol,Eurasia,52.237892,20.994015,Indo-European,
 38000,Proto-Celtic,,,,,46.815099,8.697509,,
 38200,Breton,bret1244,Breton,bre,Eurasia,47.995619,-4.102864,Indo-European,
 38300,Cornish,corn1251,Cornish,cor,Eurasia,50.191816,-5.567517,Indo-European,
-38400,Middle Breton,midd1359,Middle Breton,xbm,Eurasia,47.207854,-1.532472,Indo-European,
-38600,Middle Welsh,midd1363,Middle Welsh,wlm,Eurasia,52.240359,-3.380017,Indo-European,
-38700,Old Breton,oldb1248,Old Breton,obt,Eurasia,47.657948,-2.756737,Indo-European,
-38800,Old Cornish,oldc1252,Old Cornish,oco,Eurasia,50.263709,-5.054844,Indo-European,
+38400,Middle Breton,midd1359,Middle Breton,xbm,Eurasia,47.207854,-1.532472,Indo-European,1000–1500
+38600,Middle Welsh,midd1363,Middle Welsh,wlm,Eurasia,52.240359,-3.380017,Indo-European,1000–1500
+38700,Old Breton,oldb1248,Old Breton,obt,Eurasia,47.657948,-2.756737,Indo-European,750–1000
+38800,Old Cornish,oldc1252,Old Cornish,oco,Eurasia,50.263709,-5.054844,Indo-European,750–1250
 38900,Old Welsh,oldw1239,Old-Middle Welsh,owl,Eurasia,52.586497,-4.087487,Indo-European,
-39000,Welsh,wels1247,Welsh,wel,Eurasia,52.926407,-4.38518,Indo-European,
+39000,Welsh,wels1247,Welsh,wel,Eurasia,52.926407,-4.38518,Indo-European,1500–2000
 39150,Celtiberian,celt1247,Celtiberian,xce,Eurasia,41.506497,-1.0239,Indo-European,
 39200,Gaulish,tran1282,Transalpine Gaulish,xtg,Eurasia,43.973131,3.194284,Indo-European,
 39400,Irish,iris1253,Irish,gle,Eurasia,53.244432,-9.301101,Indo-European,
@@ -169,18 +169,18 @@ ID,Name,Glottocode,Glottolog_Name,ISO639P3code,Macroarea,Latitude,Longitude,Fami
 40300,Danish,dani1285,Danish,dan,Eurasia,55.679885,12.583182,Indo-European,
 40400,Elfdalian,elfd1234,Elfdalian,ovd,Eurasia,61.225938,14.040485,Indo-European,
 40500,Faroese,faro1244,Faroese,fao,Eurasia,62.009754,-6.773322,Indo-European,
-40600,Icelandic,icel1247,Icelandic,ice,Eurasia,64.144237,-21.939672,Indo-European,
+40600,Icelandic,icel1247,Icelandic,ice,Eurasia,64.144237,-21.939672,Indo-European,1750–2000
 40700,Norwegian,norw1258,Norwegian,nor,Eurasia,59.912785,10.740802,Indo-European,
 40800,Norwegian (Bokmål),norw1259,Norwegian Bokmål,nob,Eurasia,59.912785,10.740802,Indo-European,
 40900,Norwegian (Nynorsk),norw1262,Norwegian Nynorsk,nno,Eurasia,60.330984,5.075361,Indo-European,
 40950,Old Danish,,,,,55.679885,12.583182,,
 41000,Old Norse,oldn1244,Old Norse,non,Eurasia,63.426975,10.397522,Indo-European,
-41100,Old Swedish,olds1252,Old Swedish,,Eurasia,58.481083,16.321936,Indo-European,
+41100,Old Swedish,olds1252,Old Swedish,,Eurasia,58.481083,16.321936,Indo-European,1000–1500
 41200,Swedish,swed1254,Swedish,swe,Eurasia,59.73823,17.438718,Indo-European,
 41400,Dutch,dutc1256,Dutch,nld,Eurasia,52.374367,4.898126,Indo-European,
 41500,English,stan1293,English,eng,Eurasia,51.497728,-0.100059,Indo-European,
 41600,Frisian,west2354,Western Frisian,fry,Eurasia,53.20394,5.795597,Indo-European,
-41700,German,stan1295,German,ger,Eurasia,52.520822,13.409092,Indo-European,
+41700,German,stan1295,German,ger,Eurasia,52.520822,13.409092,Indo-European,1500–2000
 41800,Low German,nort2627,Eastern Low German,nds,Eurasia,53.931994,9.488653,Indo-European,
 41900,Middle Dutch,midd1321,Middle Dutch,dum,Eurasia,52.213073,5.959192,Indo-European,
 42000,Middle English,midd1317,Middle English,enm,Eurasia,51.313607,-0.758622,Indo-European,
@@ -195,47 +195,47 @@ ID,Name,Glottocode,Glottolog_Name,ISO639P3code,Macroarea,Latitude,Longitude,Fami
 42825,Yiddish,east2295,Eastern Yiddish,ydd,Eurasia,51.959579,20.148303,Indo-European,
 43000,Classical Greek,anci1242,Ancient Greek,grc,Eurasia,37.696861,23.999205,Indo-European,
 43100,Middle Greek,anci1242,Ancient Greek,grc,Eurasia,41.058644,28.997555,Indo-European,
-43200,Modern Greek,mode1248,Modern Greek,gre,Eurasia,38.028622,23.694334,Indo-European,
+43200,Modern Greek,mode1248,Modern Greek,gre,Eurasia,38.028622,23.694334,Indo-European,1500–2000
 43400,Proto-Indo-Aryan,,,,,29.322264,74.670604,,
-43600,Prakrit,midd1350,Middle Indo-Aryan,pra,Eurasia,25.379098,84.727979,Indo-European,
+43600,Prakrit,midd1350,Middle Indo-Aryan,pra,Eurasia,25.379098,84.727979,Indo-European,-250–250
 43700,Pali,pali1273,Pali,pli,Eurasia,27.617895,83.000379,Indo-European,
 43900,Sanskrit,sans1269,Sanskrit,san,Eurasia,23.511415,76.28612,Indo-European,
 43950,Buddhist Hybrid Sanskrit,,,,,23.511415,76.28612,,
 44100,Hindi,hind1269,Hindi,hin,Eurasia,25.458226,80.335868,Indo-European,
 44300,Kumauni,kuma1273,Kumaoni,kfy,Eurasia,29.962744,80.031573,Indo-European,
 44400,Marwari,marw1256,Marwari (Pakistan),mve,Eurasia,26.290598,73.042305,Indo-European,
-44500,Old Awadhi,,,,,26.852508,80.955201,,
+44500,Old Awadhi,,,,,26.852508,80.955201,,1500–1750
 44600,Punjabi,panj1256,Eastern Panjabi,pan,Eurasia,31.536604,74.349411,Indo-European,
 44900,Romani (Arli),balk1252,Balkan Romani,rmn,Eurasia,42.970349,19.881168,Indo-European,
-45000,Romani (Bugurdži),bugu1249,Bugurdži,,Eurasia,42.118106,21.222651,Indo-European,
-45100,Romani (Crimean),crim1258,Crimean Rom,,Eurasia,43.590558,40.194456,Indo-European,
+45000,Romani (Bugurdži),bugu1249,Bugurdži,,Eurasia,42.118106,21.222651,Indo-European,1750–2000
+45100,Romani (Crimean),crim1258,Crimean Rom,,Eurasia,43.590558,40.194456,Indo-European,1750–2000
 45200,Romani (Kosovo Arli),balk1252,Balkan Romani,rmn,Eurasia,42.516912,20.960514,Indo-European,
 45300,Romani (Macedonian Arli),balk1252,Balkan Romani,rmn,Eurasia,41.992304,21.452102,Indo-European,
-45400,Romani (Sepečides),sepe1242,Sepečides,,Eurasia,38.392804,27.131666,Indo-European,
+45400,Romani (Sepečides),sepe1242,Sepečides,,Eurasia,38.392804,27.131666,Indo-European,1750–2000
 45500,Romani (Sofia Erli),balk1252,Balkan Romani,rmn,Eurasia,42.696568,23.334084,Indo-European,
-45600,Romani (Ursari),ursa1238,Ursári,,Eurasia,46.085349,24.592698,Indo-European,
-45800,Romani (East Slovak),east2314,East Slovakian Romani,,Eurasia,49.763272,15.255232,Indo-European,
-45900,Romani (Gurvari),gurv1234,Gurvari,,Eurasia,47.040238,20.059279,Indo-European,
-46000,Romani (Hungarian Vend),west2927,Western Hungarian Vend,,Eurasia,46.233155,17.201586,Indo-European,
-46100,Romani (Prekmurski),prek1240,Prekmurje Romani,,Eurasia,46.129708,15.356687,Indo-European,
+45600,Romani (Ursari),ursa1238,Ursári,,Eurasia,46.085349,24.592698,Indo-European,1750–2000
+45800,Romani (East Slovak),east2314,East Slovakian Romani,,Eurasia,49.763272,15.255232,Indo-European,1750–2000
+45900,Romani (Gurvari),gurv1234,Gurvari,,Eurasia,47.040238,20.059279,Indo-European,1750–2000
+46000,Romani (Hungarian Vend),west2927,Western Hungarian Vend,,Eurasia,46.233155,17.201586,Indo-European,1750–2000
+46100,Romani (Prekmurski),prek1240,Prekmurje Romani,,Eurasia,46.129708,15.356687,Indo-European,1750–2000
 46200,Romani (Romungro),carp1235,Central Romani,rmc,Eurasia,47.928582,18.546486,Indo-European,
-46300,Romani (Veršend),,,,,46.346997,19.727951,,
+46300,Romani (Veršend),,,,,46.346997,19.727951,,1750–2000
 46500,Angloromani,angl1239,Archaic Angloromani,rme,Eurasia,53.779521,-2.355272,Indo-European,
-46600,Romani (Burgenland),burg1246,Burgenland Romani,,Eurasia,47.193164,16.377534,Indo-European,
+46600,Romani (Burgenland),burg1246,Burgenland Romani,,Eurasia,47.193164,16.377534,Indo-European,1750–2000
 46700,Romani (Kale),kalo1256,Kalo Finnish Romani,rmf,Eurasia,60.972087,21.470967,Indo-European,
-46800,Romani (Latvian),latv1250,Chuxny,,Eurasia,56.308972,24.343824,Indo-European,
-46900,Romani (Lithuanian),lith1252,Eastern Latvia-Lithuanian Romani,,Eurasia,55.071324,22.082897,Indo-European,
-47000,Romani (North Russian),nort2655,North Russian Romani,,Eurasia,54.002981,32.363493,Indo-European,
+46800,Romani (Latvian),latv1250,Chuxny,,Eurasia,56.308972,24.343824,Indo-European,1750–2000
+46900,Romani (Lithuanian),lith1252,Eastern Latvia-Lithuanian Romani,,Eurasia,55.071324,22.082897,Indo-European,1750–2000
+47000,Romani (North Russian),nort2655,North Russian Romani,,Eurasia,54.002981,32.363493,Indo-European,1750–2000
 47100,Scandoromani,tavr1235,Tavringer Romani,rmu,Eurasia,59.481307,13.158622,Indo-European,
 47200,Romani (Sinte),sint1235,Sinte Romani,rmo,Eurasia,51.4992,10.203424,Indo-European,
 47300,Romani (Welsh),wels1246,Welsh Romani,rmw,Eurasia,52.033957,-3.598538,Indo-European,
-47500,Romani (Banatiski Gurbet),dzam1241,Gurbet-Dzambazi,,Eurasia,45.596361,20.263488,Indo-European,
-47600,Romani (Dolenjski),,,,,45.958089,14.037737,,
-47700,Romani (Gurbet),dzam1241,Gurbet-Dzambazi,,Eurasia,43.781873,19.218989,Indo-European,
+47500,Romani (Banatiski Gurbet),dzam1241,Gurbet-Dzambazi,,Eurasia,45.596361,20.263488,Indo-European,1750–2000
+47600,Romani (Dolenjski),,,,,45.958089,14.037737,,1750–2000
+47700,Romani (Gurbet),dzam1241,Gurbet-Dzambazi,,Eurasia,43.781873,19.218989,Indo-European,1750–2000
 47800,Romani (Kelderash),vlax1238,Vlax Romani,rmy,Eurasia,47.187683,22.495093,Indo-European,
 47900,Romani (Lovara),vlax1238,Vlax Romani,rmy,Eurasia,47.401544,23.090199,Indo-European,
-48000,Romani (Macedonian Džambazi),,,,,42.131525,21.717456,,
-48100,Romani (Sremski Gurbet),,,,,45.59485,19.853655,,
+48000,Romani (Macedonian Džambazi),,,,,42.131525,21.717456,,1750–2000
+48100,Romani (Sremski Gurbet),,,,,45.59485,19.853655,,1750–2000
 48300,Assamese,assa1263,Assamese,asm,Eurasia,26.143538,91.79022,Indo-European,
 48400,Bengali,beng1280,Bengali,ben,Eurasia,23.7805733,90.2792399,Indo-European,
 48500,Maithili,mait1250,Maithili,mai,Eurasia,26.075397,86.155454,Indo-European,
@@ -243,15 +243,15 @@ ID,Name,Glottocode,Glottolog_Name,ISO639P3code,Macroarea,Latitude,Longitude,Fami
 48800,Nepali,nepa1254,Nepali,npi,Eurasia,27.695645,85.338319,Indo-European,
 49000,Kashmiri,kash1277,Kashmiri,kas,Eurasia,34.322996,75.939182,Indo-European,
 49100,Khowar,khow1242,Khowar,khw,Eurasia,36.457958,72.51658,Indo-European,
-49200,Lahnda,west2386,Western Panjabi,lah,Eurasia,30.050444,72.507162,Indo-European,
+49200,Lahnda,west2386,Western Panjabi,lah,Eurasia,30.050444,72.507162,Indo-European,1750–2000
 49300,Sindhi,sind1272,Sindhi,snd,Eurasia,23.253479,69.674802,Indo-European,
 49500,Maldivian,dhiv1236,Dhivehi,div,Eurasia,4.17191,73.511939,Indo-European,
 49600,Sinhalese,sinh1246,Sinhala,sin,Eurasia,6.935115,79.85635,Indo-European,
 49800,Konkani,konk1267,Maharashtrian Konkani,knn,Eurasia,12.861391,74.873675,Indo-European,
 49900,Marathi,mara1378,Marathi,mar,Eurasia,16.697611,74.241441,Indo-European,
-50000,Old Marathi,oldm1244,Old Marathi,omr,Eurasia,19.38701,75.494714,Indo-European,
+50000,Old Marathi,oldm1244,Old Marathi,omr,Eurasia,19.38701,75.494714,Indo-European,1250–1750
 50200,Gujarati,guja1252,Gujarati,guj,Eurasia,22.44456,72.139869,Indo-European,
-50300,Old Gujarati,,,,,22.44456,72.139869,,
+50300,Old Gujarati,,,,,22.44456,72.139869,,1250–1750
 50500,Proto-Iranian,,,,,40.193507,42.063181,,
 50700,Avestan,aves1237,Avestan,ave,Eurasia,31.70708,55.9499,Indo-European,
 50750,Khotanese,khot1251,Khotanese,kho,Eurasia,38.329467,79.04449,Indo-European,
@@ -261,14 +261,14 @@ ID,Name,Glottocode,Glottolog_Name,ISO639P3code,Macroarea,Latitude,Longitude,Fami
 51100,Sogdian,sogd1245,Sogdian,sog,Eurasia,39.646576,66.962682,Indo-European,
 51150,Wakhi,wakh1245,Wakhi,wbl,Eurasia,37.219477,72.760057,Indo-European,
 51200,Yagnobi,yagn1238,Yagnobi,yai,Eurasia,39.378064,69.053129,Indo-European,
-51400,Baluchi,sout2642,Southern Balochi,bal,Eurasia,26.27794,65.03622,Indo-European,
+51400,Baluchi,sout2642,Southern Balochi,bal,Eurasia,26.27794,65.03622,Indo-European,1750–2000
 51500,Gilaki,gila1241,Gilaki,glk,Eurasia,36.811621,50.875388,Indo-European,
 51700,Kurdish (Kurmanji),nort2641,Northern Kurdish,kmr,Eurasia,37.788081,43.822746,Indo-European,
 51800,Kurdish (Sorani),cent1972,Central Kurdish,ckb,Eurasia,35.821161,45.728512,Indo-European,
 51900,Old Persian,oldp1254,Old Persian (ca. 600-400 B.C.),peo,Eurasia,29.935501,52.891196,Indo-European,
 52000,Middle Persian,pahl1241,Pahlavi,pal,Eurasia,32.647027,51.675883,Indo-European,
 52050,Parachi,para1299,Parachi,prc,Eurasia,34.832889,69.702595,Indo-European,
-52100,Persian,west2369,Western Farsi,per,Eurasia,32.735314,55.748043,Indo-European,
+52100,Persian,west2369,Western Farsi,per,Eurasia,32.735314,55.748043,Indo-European,1250–2000
 52200,Tajik,taji1245,Tajik,tgk,Eurasia,38.663458,70.342617,Indo-European,
 52300,Talysh,taly1247,North-Central Talysh,tly,Eurasia,37.549799,48.718777,Indo-European,
 52500,Ashkun,ashk1246,Ashkun,ask,Eurasia,34.872462,70.63132,Indo-European,
@@ -278,7 +278,7 @@ ID,Name,Glottocode,Glottolog_Name,ISO639P3code,Macroarea,Latitude,Longitude,Fami
 52900,Waigali,waig1243,Waigali,wbk,Eurasia,35.085277,70.928386,Indo-European,
 53000,Proto-Italic,,,,,46.362093,14.542236,,
 53200,Catalan,stan1289,Catalan,cat,Eurasia,41.379225,2.179642,Indo-European,
-53300,French,stan1290,French,fre,Eurasia,48.854451,2.347857,Indo-European,
+53300,French,stan1290,French,fre,Eurasia,48.854451,2.347857,Indo-European,1500–2000
 53400,Friulian,friu1240,Friulian,fur,Eurasia,46.124793,13.150281,Indo-European,
 53500,Italian,ital1282,Italian,ita,Eurasia,43.115956,12.385145,Indo-European,
 53600,Ladin,ladi1250,Ladin,lld,Eurasia,46.706884,11.608699,Indo-European,
@@ -287,16 +287,16 @@ ID,Name,Glottocode,Glottolog_Name,ISO639P3code,Macroarea,Latitude,Longitude,Fami
 53800,Middle French,midd1316,Middle French,frm,Eurasia,48.854451,2.347857,Indo-European,
 53850,Occitan,occi1239,Occitan,oci,Eurasia,43.747853,2.507338,Indo-European,
 53900,Old French,oldf1239,Old French (842-ca. 1400),fro,Eurasia,48.854451,2.347857,Indo-European,
-54000,Old Italian,fior1236,Old Italian,,Eurasia,43.776281,11.249249,Indo-European,
+54000,Old Italian,fior1236,Old Italian,,Eurasia,43.776281,11.249249,Indo-European,1000–1500
 54050,Old Portuguese,,,,,41.15818,-8.629141,,
 54100,Old Provençal,oldp1253,Old Provençal,pro,Eurasia,43.426825,6.222519,Indo-European,
 54200,Old Spanish,olds1249,Old Spanish,osp,Eurasia,42.386,-3.894,Indo-European,
 54300,Portuguese,port1283,Portuguese,por,Eurasia,38.708043,-9.135132,Indo-European,
 54350,Proto-Gallo-Romance,,,,,47.033581,2.650625,,
 54400,Provençal,occi1239,Occitan,oci,Eurasia,43.426825,6.222519,Indo-European,
-54500,Romanian,roma1327,Romanian,rum,Eurasia,44.427511,26.086373,Indo-European,
+54500,Romanian,roma1327,Romanian,rum,Eurasia,44.427511,26.086373,Indo-European,1500–2000
 54600,Romansh,roma1326,Romansh,roh,Eurasia,46.496755,9.838341,Indo-European,
-54700,Sardinian,logu1236,Logudorese Sardinian,srd,Eurasia,40.552627,8.791873,Indo-European,
+54700,Sardinian,logu1236,Logudorese Sardinian,srd,Eurasia,40.552627,8.791873,Indo-European,1750–2000
 54800,Spanish,stan1288,Spanish,spa,Eurasia,40.416881,-3.703482,Indo-European,
 54850,Vulgar Latin,,,,,42.561066,12.615314,,
 54900,Walloon,wall1255,Walloon,wln,Eurasia,50.464478,4.865382,Indo-European,
@@ -310,7 +310,7 @@ ID,Name,Glottocode,Glottolog_Name,ISO639P3code,Macroarea,Latitude,Longitude,Fami
 55700,Jabutí,djeo1235,Djeoromitxí,jbt,South America,-11.962975,-62.817828,Nuclear-Macro-Je,
 55900,Proto-Southern Jê,,,,,-27.16847,-49.321967,,
 56000,Xokleng,xokl1240,Xokleng,xok,South America,-27.16847,-49.321967,Nuclear-Macro-Je,
-56500,Georgian,nucl1302,Georgian,geo,Eurasia,41.619549,44.824791,Kartvelian,
+56500,Georgian,nucl1302,Georgian,geo,Eurasia,41.619549,44.824791,Kartvelian,1500–2000
 56550,Old Georgian,oldg1234,Old Georgian,oge,Eurasia,41.840144,44.708626,Kartvelian,
 56700,Svan,svan1243,Svan,sva,Eurasia,42.992369,42.523092,Kartvelian,
 56900,Laz,lazz1240,Laz,lzz,Eurasia,41.462154,41.569662,Kartvelian,
