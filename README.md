@@ -4,7 +4,7 @@ Cite the source dataset as
 
 > Carling, Gerd (ed.) 2017. Diachronic Atlas of Comparative Linguistics Online. Lund: Lund University. (DOI/URL: https://diacl.ht.lu.se/). Accessed on: 2019-02-07.
 
-This dataset is licensed under a notspecified license
+This dataset is licensed under a CC-BY-4.0 license
 
 Available online at https://diacl.ht.lu.se/
 

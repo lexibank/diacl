@@ -18,7 +18,7 @@
     ],
     "dc:identifier": "https://diacl.ht.lu.se/",
     "dc:isVersionOf": null,
-    "dc:license": "notspecified",
+    "dc:license": "https://creativecommons.org/licenses/by/4.0/",
     "dc:related": null,
     "dc:source": "sources.bib",
     "dc:title": "CLDF dataset derived from Carling's \"Diachronic Atlas of Comparative Linguistics\" from 2017",
@@ -28,7 +28,7 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/lexibank/diacl",
-            "dc:created": "v2.0-8-g3f8ec33"
+            "dc:created": "v2.0-9-g906018b"
         },
         {
             "rdf:type": "prov:Entity",
