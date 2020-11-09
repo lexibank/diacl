@@ -121,7 +121,7 @@ ID,Name,Glottocode,Glottolog_Name,ISO639P3code,Macroarea,Latitude,Longitude,Fami
 34900,Oro Win,orow1243,Oro Win,orw,South America,-10.747746,-64.0423,Chapacuran,
 34950,Wari',wari1268,Wari',pav,South America,-11.143812,-65.275391,Chapacuran,
 35000,Conjubim,kuyu1236,Kuyubi,,South America,-12.242937,-64.167083,Chapacuran,1750–2000
-35075,Chiquitano,chiq1248,Lomeriano-Ignaciano Chiquitano,cax,South America,-17.329057,-60.524715,Lomeriano-Ignaciano Chiquitano,
+35075,Chiquitano,chiq1248,Lomeriano-Ignaciano Chiquitano,cax,South America,-17.329057,-60.524715,Chiquitano,
 35100,Proto-Indo-European,indo1319,Indo-European,,,47.688327,31.897499,Indo-European,
 35200,Proto-Albanian,,,,,41.692936,19.708944,,
 35300,Albanian (Tosk),tosk1239,Northern Tosk Albanian,als,Eurasia,40.446947,19.988251,Indo-European,
@@ -389,7 +389,7 @@ ID,Name,Glottocode,Glottolog_Name,ISO639P3code,Macroarea,Latitude,Longitude,Fami
 68446,Ingush,ingu1240,Ingush,inh,Eurasia,43.467736,44.750595,Nakh-Daghestanian,
 68447,Udi,udii1243,Udi,udi,Eurasia,41.014877,47.651941,Nakh-Daghestanian,
 68448,Beshta,bezh1248,Bezhta,kap,Eurasia,42.129,46.053,Nakh-Daghestanian,
-68449,Khinalug,khin1240,Khinalugh,kjj,Eurasia,41.175584,48.127456,Nakh-Daghestanian,
+68449,Khinalug,khin1240,Khinalug,kjj,Eurasia,41.175584,48.127456,Nakh-Daghestanian,
 68450,Budukh,budu1248,Budukh,bdk,Eurasia,41.18169,48.371,Nakh-Daghestanian,
 68455,Proto-Ibero-Romance,,,,,42.64,-3.896,,
 68457,Anglo-Norman,angl1258,Anglo-Norman,xno,Eurasia,52.727,-1.501,Indo-European,
