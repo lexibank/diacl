@@ -48,8 +48,8 @@ From [Diachronic Atlas of Comparative Linguistics (DiACL)—A database for ancie
 
 Name               | GitHub user  | Description                          | Role
 ---                | ---          | ---                                  | ---
-Robert Forkel | @xrotwang   | digitization, code        | Author
-Christoph Rzymski        | @chrzyki       | patron     | Author
-Gerd Carling | | | Distributor, Editor
+Robert Forkel | @xrotwang   | digitization, code        | Other
+Christoph Rzymski        | @chrzyki       | patron     | Other
+Gerd Carling | | | Author, Distributor, Editor
 
 

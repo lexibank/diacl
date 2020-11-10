@@ -28,7 +28,7 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/lexibank/diacl",
-            "dc:created": "v2.0-10-g8a7664d"
+            "dc:created": "v2.0-11-gc26c52d"
         },
         {
             "rdf:type": "prov:Entity",

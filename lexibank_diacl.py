@@ -121,7 +121,7 @@ class Dataset(BaseDataset):
         concepts, concept_map, lookup = OrderedDict(), {}, {}
         for conceptlist in self.conceptlists:
             for concept in conceptlist.concepts.values():
-                id = concept.id.split('-')[-1] + '_' + slug(concept.english)
+                id = concept.id.split("-")[-1] + "_" + slug(concept.english)
                 args.writer.add_concept(
                     ID=id,
                     Name=concept.gloss,

@@ -7,13 +7,18 @@
     ],
     "creators": [
         {
-            "name": "Robert Forkel"
-        },
-        {
-            "name": "Christoph Rzymski"
+            "name": "Gerd Carling"
         }
     ],
     "contributors": [
+        {
+            "name": "Robert Forkel",
+            "type": "Other"
+        },
+        {
+            "name": "Christoph Rzymski",
+            "type": "Other"
+        },
         {
             "name": "Gerd Carling",
             "type": "Distributor"
