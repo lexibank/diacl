@@ -1,19 +1,18 @@
 """
 https://diacl.ht.lu.se/Content/documents/DiACL-lexicology.pdf
 """
-from __future__ import unicode_literals, print_function
-
 import gzip
 from collections import OrderedDict
-from itertools import groupby
 from json import dumps, loads
+from pathlib import Path
 
 import attr
-from clldutils.path import Path, remove
-from csvw.dsv import UnicodeWriter
+from clldutils.misc import slug
 from pycldf.sources import Source
-from pylexibank.dataset import Lexeme, Cognate, Concept, Dataset as BaseDataset, Language
-from tqdm import tqdm
+from pylexibank import Lexeme, Cognate, Concept, Language
+from pylexibank.dataset import Dataset as BaseDataset
+from pylexibank.forms import FormSpec
+from pylexibank.util import progressbar
 
 
 def _get_text(e, xpath):
@@ -23,7 +22,7 @@ def _get_text(e, xpath):
 
 
 @attr.s
-class DiaclLexeme(Lexeme):
+class CustomLexeme(Lexeme):
     diacl_id = attr.ib(default=None)
     meaning = attr.ib(default=None)
     meaning_note = attr.ib(default=None)
@@ -32,24 +31,46 @@ class DiaclLexeme(Lexeme):
 
 
 @attr.s
-class DiaclCognate(Cognate):
+class CustomCognate(Cognate):
     diacl_lexeme_id = attr.ib(default=None)
 
 
 @attr.s
-class DiaclLanguage(Language):
+class CustomLanguage(Language):
     time_frame = attr.ib(default=None)
     Longitude = attr.ib(default=None)
     Latitude = attr.ib(default=None)
 
 
+@attr.s
+class CustomConcept(Concept):
+    DIACL_ID = attr.ib(default=None)
+
+
 class Dataset(BaseDataset):
     id = "diacl"
     dir = Path(__file__).parent
-    concept_class = Concept
-    lexeme_class = DiaclLexeme
-    cognate_class = DiaclCognate
-    language_class = DiaclLanguage
+    concept_class = CustomConcept
+    lexeme_class = CustomLexeme
+    cognate_class = CustomCognate
+    language_class = CustomLanguage
+
+    replacements = [
+        ("[sub]1[/sub]", "₁"),
+        ("[sub]2[/sub]", "₂"),
+        ("[sub]3[/sub]", "₃"),
+        ("[sup]h[/sup]", "ʰ"),
+        ("[sup]w[/sup]", "ʷ"),
+        ("[sup]y[/sup]", "ʸ"),
+        ("[sup][/sup]", ""),
+    ]
+
+    form_spec = FormSpec(
+        separators=";,",
+        strip_inside_brackets=False,
+        replacements=replacements,
+        first_form_only=True,
+    )
 
     @staticmethod
     def _url(path):
@@ -57,36 +78,17 @@ class Dataset(BaseDataset):
 
     def _download_json(self, path):
         target = path.replace("/", "_") + ".json"
-        self.raw.download(self._url("/Json/" + path), target)
-        return loads(self.raw.read(target))
+        self.raw_dir.download(self._url("/Json/" + path), target)
+        return loads(self.raw_dir.read(target))
 
-    def cmd_download(self, **kw):
-        """
-        $ csvstack -t ../../concepticon/concepticon-dev/concepticondata/conceptlists/Carling-2017-*.tsv > etc/concepts.csv
-        """
-        with UnicodeWriter(self.dir / "etc" / "concepts.csv") as w:
-            cols = "ID,NUMBER,CONCEPTICON_ID,CONCEPTICON_GLOSS,ENGLISH,DIACL_ID,DIACL_CATEGORY,DIACL_NOTE".split(
-                ","
-            )
-            w.writerow(cols)
-            for k in sorted(self.metadata.conceptlist):
-                cl = self.concepticon.conceptlists[k]
-                for concept in cl.concepts.values():
-                    w.writerow(
-                        [
-                            getattr(concept, col)
-                            if hasattr(concept, col)
-                            else concept.attributes[col]
-                            for col in [c.lower() for c in cols]
-                        ]
-                    )
+    def cmd_download(self, args):
         # https://diacl.ht.lu.se/GeoJson/GeographicalPresence/24
         print("Download wordlists ...")
         wordlists = self._download_json("WordLists")
-        for wlid in tqdm(list(wordlists.keys())):
+        for wlid in progressbar(list(wordlists.keys())):
             # We download the XML representations, because only these seem to contain source info
             # per lexeme.
-            self.raw.download(
+            self.raw_dir.download(
                 self._url("/Xml/WordListWithLanguageLexemes/{0}".format(wlid)),
                 "wl{0}.xml".format(wlid),
                 skip_if_exists=True,
@@ -99,53 +101,41 @@ class Dataset(BaseDataset):
             print(wl["Name"])
             for wlc in wl["WordListCategories"].values():
                 print("-- ", wlc["Name"])
-                for wli in tqdm(wlc["WordListItems"]):
+                for wli in progressbar(wlc["WordListItems"]):
                     data = self._download_json("WordListLexemesWithAncestors/{0}".format(wli))
                     del data["lexemes"]
                     del data["languages"]
                     etymologies_by_wordlistitem[wli] = data
-        with gzip.GzipFile(str(self.raw.joinpath("etymology.json.gz")), "w") as fp:
+        with gzip.GzipFile(str(self.raw_dir.joinpath("etymology.json.gz")), "w") as fp:
             fp.write(dumps(etymologies_by_wordlistitem).encode("utf8"))
-        for p in self.raw.glob("WordListLexemesWithAncestors*"):
-            remove(p)
+        for p in self.raw_dir.glob("WordListLexemesWithAncestors*"):
+            Path.unlink(p)
         print("... done")
 
         self._download_json("LanguageTree")
 
-    def clean_form(self, item, form):
-        for f, t in {
-            "[sub]1[/sub]": "₁",
-            "[sub]2[/sub]": "₂",
-            "[sub]3[/sub]": "₃",
-            "[sup]h[/sup]": "ʰ",
-            "[sup]w[/sup]": "ʷ",
-            "[sup]y[/sup]": "ʸ",
-            "[sup][/sup]": "",
-        }.items():
-            form = form.replace(f, t)
-        return form
-
-    def split_forms(self, item, value):
-        # We only take the first form, since the proliferation of variants seems to be rather
-        # unprincipled, otherwise.
-        return [value.split(",")[0].split(";")[0].strip()]
-
-    def cmd_install(self, **kw):
+    def cmd_makecldf(self, args):
         glottocode_map = {int(l["ID"]): l["Glottocode"] for l in self.languages if l["Glottocode"]}
         lmap = {int(l["ID"]): l for l in self.languages}
 
-        concepts, concept_map = OrderedDict(), {}
-        for cid, items in groupby(
-            sorted(self.concepts, key=lambda c_: c_["CONCEPTICON_ID"]),
-            lambda c_: c_["CONCEPTICON_ID"],
-        ):
-            for item in items:
-                concepts[cid] = item["CONCEPTICON_GLOSS"]
-                concept_map[int(item["DIACL_ID"])] = cid
+        concepts, concept_map, lookup = OrderedDict(), {}, {}
+        for conceptlist in self.conceptlists:
+            for concept in conceptlist.concepts.values():
+                id = concept.id.split("-")[-1] + "_" + slug(concept.english)
+                args.writer.add_concept(
+                    ID=id,
+                    Name=concept.gloss,
+                    Concepticon_ID=concept.concepticon_id,
+                    DIACL_ID=concept.attributes["diacl_id"],
+                )
+
+                lookup[concept.concepticon_id] = id
+                concepts[concept.concepticon_id] = concept.concepticon_gloss
+                concept_map[int(concept.attributes["diacl_id"])] = concept.concepticon_id
 
         wls = [
-            self.raw.read_xml(p.name, wrap=False)
-            for p in sorted(self.raw.glob("wl*.xml"), key=lambda p_: int(p_.stem[2:]))
+            self.raw_dir.read_xml(p.name, wrap=False)
+            for p in sorted(self.raw_dir.glob("wl*.xml"), key=lambda p_: int(p_.stem[2:]))
         ]
         languages, lexemes, sources = {}, {}, {}
         for wl in wls:
@@ -158,7 +148,7 @@ class Dataset(BaseDataset):
                 for lex in lang.findall(".//lexeme"):
                     lexemes[int(lex.get("lexeme-id"))] = parse_lexeme(lex)
 
-        with gzip.GzipFile(str(self.raw.joinpath("etymology.json.gz")), "r") as fp:
+        with gzip.GzipFile(str(self.raw_dir.joinpath("etymology.json.gz")), "r") as fp:
             # we have to cluster using etymologies where FkReliabilityId < 2
             # we also assume cognacy to be transitive
             for wli, data in loads(fp.read().decode("utf8")).items():
@@ -169,48 +159,43 @@ class Dataset(BaseDataset):
                 for lid in data["connectedLexemesById"]:
                     lexemes[lid]["concepts"].add(concept_map[int(wli)])
 
-        with self.cldf as ds:
-            lexemes = {k: v for k, v in lexemes.items() if v["concepts"]}
+        lexemes = {k: v for k, v in lexemes.items() if v["concepts"]}
 
-            for cid, gloss in concepts.items():
-                if cid:
-                    ds.add_concept(ID=cid, Name=gloss, Concepticon_ID=cid)
+        for src in sorted(sources.values(), key=lambda s: s["key"]):
+            args.writer.add_sources(src)
 
-            for src in sorted(sources.values(), key=lambda s: s["key"]):
-                ds.add_sources(src)
+        lids = set(l["language-id"] for l in lexemes.values())
+        for lid, lang in sorted(languages.items()):
+            if lid in lids:
+                if lid in lmap:
+                    for attr in ["Latitude", "Longitude", "time_frame"]:
+                        if lmap[lid][attr]:
+                            lang[attr.lower()] = lmap[lid][attr]
+                args.writer.add_language(
+                    ID=lid,
+                    Name=lang["name"],
+                    Glottocode=glottocode_map.get(
+                        lid, self.glottolog.glottocode_by_iso.get(lang["iso-693-3"])
+                    ),
+                    ISO639P3code=lang["iso-693-3"],
+                    Latitude=lang.get("latitude"),
+                    Longitude=lang.get("longitude"),
+                    time_frame=lang.get("time_frame"),
+                )
 
-            lids = set(l["language-id"] for l in lexemes.values())
-            for lid, lang in sorted(languages.items()):
-                if lid in lids:
-                    if lid in lmap:
-                        for attr in ["Latitude", "Longitude"]:
-                            if lmap[lid][attr]:
-                                lang[attr.lower()] = lmap[lid][attr]
-                    ds.add_language(
-                        ID=lid,
-                        Name=lang["name"],
-                        Glottocode=glottocode_map.get(
-                            lid, self.glottolog.glottocode_by_iso.get(lang["iso-693-3"])
-                        ),
-                        ISO639P3code=lang["iso-693-3"],
-                        Latitude=lang.get("latitude"),
-                        Longitude=lang.get("longitude"),
-                        time_frame=lang.get("time_frame"),
-                    )
-
-            for lid, lex in sorted(lexemes.items()):
-                for cid in sorted(lex["concepts"]):
-                    ds.add_lexemes(
-                        Value=lex["form-transcription"],
-                        Language_ID=lex["language-id"],
-                        Parameter_ID=cid,
-                        diacl_id=lid,
-                        Source=[s[0] for s in lex["sources"]],
-                        transliteration=lex["form-transliteration"],
-                        ipa=lex["form-ipa"],
-                        meaning=lex["meaning"],
-                        meaning_note=lex["meaning_note"],
-                    )
+        for lid, lex in sorted(lexemes.items()):
+            for cid in sorted(lex["concepts"]):
+                args.writer.add_forms_from_value(
+                    Value=lex["form-transcription"],
+                    Language_ID=lex["language-id"],
+                    Parameter_ID=lookup[cid],
+                    diacl_id=lid,
+                    Source=[s[0] for s in lex["sources"]],
+                    transliteration=lex["form-transliteration"],
+                    ipa=lex["form-ipa"],
+                    meaning=lex["meaning"],
+                    meaning_note=lex["meaning_note"],
+                )
 
 
 def parse_language(l):
