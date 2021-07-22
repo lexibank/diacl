@@ -1,8 +1,16 @@
 # CLDF dataset derived from Carling's "Diachronic Atlas of Comparative Linguistics" from 2017
 
-Cite the source dataset as
+[![CLDF validation](https://github.com/lexibank/diacl/workflows/CLDF-validation/badge.svg)](https://github.com/lexibank/diacl/actions?query=workflow%3ACLDF-validation)
 
-> Carling, Gerd (ed.) 2017. Diachronic Atlas of Comparative Linguistics Online. Lund: Lund University. (DOI/URL: https://diacl.ht.lu.se/). Accessed on: 2019-02-07.
+## How to cite
+
+If you use these data please cite
+- the original source
+  > Carling, Gerd (ed.) 2017. Diachronic Atlas of Comparative Linguistics Online. Lund: Lund University. (DOI/URL: https://diacl.ht.lu.se/). Accessed on: 2019-02-07.
+- the derived dataset using the DOI of the [particular released version](../../releases/) you were using
+
+## Description
+
 
 This dataset is licensed under a CC-BY-4.0 license
 
@@ -39,8 +47,8 @@ From [Diachronic Atlas of Comparative Linguistics (DiACL)—A database for ancie
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
 
 - **Varieties:** 422
-- **Concepts:** 539
-- **Lexemes:** 60,138
+- **Concepts:** 542
+- **Lexemes:** 60,206
 - **Sources:** 357
 - **Synonymy:** 1.38
 
@@ -53,3 +61,10 @@ Christoph Rzymski        | @chrzyki       | patron     | Other
 Gerd Carling | | | Author, Distributor, Editor
 
 
+
+
+## CLDF Datasets
+
+The following CLDF datasets are available in [cldf](cldf):
+
+- CLDF [Wordlist](https://github.com/cldf/cldf/tree/master/modules/Wordlist) at [cldf/cldf-metadata.json](cldf/cldf-metadata.json)

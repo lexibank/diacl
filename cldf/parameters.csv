@@ -193,6 +193,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,DIACL_ID
 33_collaredpeccary,,435,COLLARED PECCARY,12352
 36_agouti,,313,AGOUTI,12355
 38_opossum,,309,OPOSSUM,12357
+39_tinamoubird,,3921,TINAMOU,12358
 45_watern,,948,WATER,4015
 46_earthsoilground,,1228,EARTH (SOIL),12137
 47_toburntr,,141,BURN (SOMETHING),12138
@@ -219,6 +220,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,DIACL_ID
 71_wind,,960,WIND,12230
 72_harvestcrop,,611,HARVEST,12140
 75_tocultivate,,1541,CULTIVATE,12180
+80_genipapfruit,,3920,GENIPA,12363
 81_flower,,239,FLOWER,12364
 85_sling,,387,SLING,12194
 89_fishhook,,1074,FISHHOOK,12198
@@ -326,6 +328,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,DIACL_ID
 229_shortbrief,,3312,SHORT (TIME),12323
 230_necklace,,1961,NECKLACE,12167
 238_coconuttree,,147,COCONUT TREE,12367
+240_peachpalm,,3919,PEACH PALM,12369
 2_chickenfowl,,265,FOWL,5002
 6_buffalo,,934,BUFFALO,5005
 9_tiger,,846,TIGER,5009

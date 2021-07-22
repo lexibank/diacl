@@ -39,7 +39,7 @@ ID,Name,Glottocode,Glottolog_Name,ISO639P3code,Macroarea,Latitude,Longitude,Fami
 21300,Ma'anyan,maan1238,Ma'anyan,mhy,Papunesia,-2.61428,115.827399,Austronesian,
 21500,Javanese,java1254,Javanese,jav,Papunesia,-7.181816,109.751026,Austronesian,
 21700,Madurese,nucl1460,Madurese,mad,Papunesia,-7.745545,114.187514,Austronesian,
-21900,Acehnese,achi1257,Acehnese,ace,Eurasia,5.590818,95.355341,Austronesian,
+21900,Acehnese,achi1257,Acehnese,ace,Papunesia,5.590818,95.355341,Austronesian,
 22000,Cham (Hainan),west2650,Western Cham,cja,Eurasia,18.282927,109.477321,Austronesian,
 22100,Chru,chru1239,Chru,cje,Eurasia,11.756623,108.564966,Austronesian,
 22200,Indonesian,indo1316,Indonesian,ind,Papunesia,-6.16417,106.846225,Austronesian,
@@ -47,7 +47,7 @@ ID,Name,Glottocode,Glottolog_Name,ISO639P3code,Macroarea,Latitude,Longitude,Fami
 22900,Batak Toba,bata1289,Batak Toba,bbc,Papunesia,2.304874,99.183037,Austronesian,
 23100,Agta,cent2084,Central Cagayan Agta,agt,Papunesia,18.029677,121.912626,Austronesian,
 23200,Casiguran Dumagat,casi1235,Casiguran-Nagtipunan Agta,dgc,Papunesia,16.508525,122.176298,Austronesian,
-23300,Aklanon,akla1241,Aklanon,akl,Papunesia,11.622083,122.38998,Austronesian,
+23300,Aklanon,akla1240,Aklanon,akl,Papunesia,11.622083,122.38998,Austronesian,
 23500,Pamplona (Atta),pamp1244,Pamplona Atta,att,Papunesia,18.525544,121.273,Austronesian,
 23600,Balangaw,bala1310,Balangao,blw,Papunesia,17.046989,121.12499,Austronesian,
 23800,Sama,bala1311,Balangingi,sse,Papunesia,7.024136,116.753051,Austronesian,
@@ -226,8 +226,8 @@ ID,Name,Glottocode,Glottolog_Name,ISO639P3code,Macroarea,Latitude,Longitude,Fami
 46800,Romani (Latvian),latv1250,Chuxny,,Eurasia,56.308972,24.343824,Indo-European,1750–2000
 46900,Romani (Lithuanian),lith1252,Eastern Latvia-Lithuanian Romani,,Eurasia,55.071324,22.082897,Indo-European,1750–2000
 47000,Romani (North Russian),nort2655,North Russian Romani,,Eurasia,54.002981,32.363493,Indo-European,1750–2000
-47100,Scandoromani,tavr1235,Tavringer Romani,rmu,Eurasia,59.481307,13.158622,Indo-European,
-47200,Romani (Sinte),sint1235,Sinte Romani,rmo,Eurasia,51.4992,10.203424,Indo-European,
+47100,Scandoromani,tavr1235,Tavringer Romani,rmu,Eurasia,59.481307,13.158622,Speech Register,
+47200,Romani (Sinte),sint1235,Sinte-Manus Romani,rmo,Eurasia,51.4992,10.203424,Indo-European,
 47300,Romani (Welsh),wels1246,Welsh Romani,rmw,Eurasia,52.033957,-3.598538,Indo-European,
 47500,Romani (Banatiski Gurbet),dzam1241,Gurbet-Dzambazi,,Eurasia,45.596361,20.263488,Indo-European,1750–2000
 47600,Romani (Dolenjski),,,,,45.958089,14.037737,,1750–2000
@@ -247,7 +247,7 @@ ID,Name,Glottocode,Glottolog_Name,ISO639P3code,Macroarea,Latitude,Longitude,Fami
 49300,Sindhi,sind1272,Sindhi,snd,Eurasia,23.253479,69.674802,Indo-European,
 49500,Maldivian,dhiv1236,Dhivehi,div,Eurasia,4.17191,73.511939,Indo-European,
 49600,Sinhalese,sinh1246,Sinhala,sin,Eurasia,6.935115,79.85635,Indo-European,
-49800,Konkani,konk1267,Maharashtrian Konkani,knn,Eurasia,12.861391,74.873675,Indo-European,
+49800,Konkani,konk1267,Konkan Marathi,knn,Eurasia,12.861391,74.873675,Indo-European,
 49900,Marathi,mara1378,Marathi,mar,Eurasia,16.697611,74.241441,Indo-European,
 50000,Old Marathi,oldm1244,Old Marathi,omr,Eurasia,19.38701,75.494714,Indo-European,1250–1750
 50200,Gujarati,guja1252,Gujarati,guj,Eurasia,22.44456,72.139869,Indo-European,
@@ -273,9 +273,9 @@ ID,Name,Glottocode,Glottolog_Name,ISO639P3code,Macroarea,Latitude,Longitude,Fami
 52300,Talysh,taly1247,North-Central Talysh,tly,Eurasia,37.549799,48.718777,Indo-European,
 52500,Ashkun,ashk1246,Ashkun,ask,Eurasia,34.872462,70.63132,Indo-European,
 52600,Kati,kati1270,Kati,bsh,Eurasia,35.210853,71.050871,Indo-European,
-52700,Prasun,pras1239,Prasuni,prn,Eurasia,35.33661,70.741619,Indo-European,
+52700,Prasun,pras1239,Prasun,prn,Eurasia,35.33661,70.741619,Indo-European,
 52800,Tregami,treg1243,Tregami,trm,Eurasia,35.090068,70.807995,Indo-European,
-52900,Waigali,waig1243,Waigali,wbk,Eurasia,35.085277,70.928386,Indo-European,
+52900,Waigali,waig1243,Nuristani Kalasha,wbk,Eurasia,35.085277,70.928386,Indo-European,
 53000,Proto-Italic,,,,,46.362093,14.542236,,
 53200,Catalan,stan1289,Catalan,cat,Eurasia,41.379225,2.179642,Indo-European,
 53300,French,stan1290,French,fre,Eurasia,48.854451,2.347857,Indo-European,1500–2000
